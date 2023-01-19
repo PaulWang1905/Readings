@@ -25,8 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
       # Runs a set of commands using the runners shell
-      - name: Push change
-        
+      - name: Push change   
         run: |
           python3 --version
           date > generated.txt
@@ -35,7 +34,6 @@ jobs:
           git add .
           git commit -m "generated"
           git push
-        uses: actions/checkout@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
