@@ -39,3 +39,6 @@ jobs:
           git add .
           git commit -m "generated"
           git push
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
