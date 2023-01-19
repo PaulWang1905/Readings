@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          echo \Updated in `date +%Y-%m-%d`\ >> log.txt
+          echo \Updated in `date +%Y-%m-%d-%h-%m`\ >> log.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
