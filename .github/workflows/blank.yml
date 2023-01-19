@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - run: |
-          Pushed data in > log.txt
+          echo 'Pushed code in' > log.txt
           date > log.txt
           git config user.name github-actions
           git config user.email github-actions@github.com
