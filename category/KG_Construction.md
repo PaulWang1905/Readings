@@ -1,7 +1,7 @@
 # Knowledge graph construction
 
 
-## 2023-01-29
+## 20230129
 
 [**The Dow Jones Knowledge Graph**](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25)  
 *Ian Horrocks, Jordi Olivares, Valerio Cocchi, Boris Motik, Dylan Roy.* 2022.5
