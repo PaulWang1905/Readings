@@ -1,5 +1,10 @@
 # Ontology
 
+## 20230131
+[**Reducing OWL Entailment to Description Logic Satisfiability**](https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf)  
+*Ian Horrocks, Peter F. Patel-Schneider*. 2003.
+> This paper established a correspondence between OWL ontologies and description logic knowledge bases, and then showed how knowledgebase entailment can be reduced to knowledge base satisfiability.  
+
 ## 20230128  
 [**Datalog: Bag Semantics via Set Semantics**](https://arxiv.org/pdf/1803.06445.pdf)  
 *Leopoldo Bertossim, Georg Gottlob, Reinhard Pichler*. 2019.02.    
