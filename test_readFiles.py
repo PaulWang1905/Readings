@@ -4,6 +4,10 @@ from readFiles import readEntries as read
 class test_readEntries:
     def test_readEntries(self):
         files = read('category')
+        # files is a list of objects
+        # each object is a file
+        # each file has the following attributes:
+        # read_date, title, link, authors, comments, date, tags
         for file in files:
             assert file.read_date != None
             assert file.title != None
