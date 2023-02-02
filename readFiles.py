@@ -40,7 +40,7 @@ class Entry():
         if match:
             self.link = match.group(1)
         
-        authors_pattern = re.compile(r'\*([^*]+)\*\.')
+        authors_pattern = re.compile(r'\*([^*]+)\.\*')
         match = authors_pattern.search(self.text)
         if match:
             self.authors = match.group(1)
