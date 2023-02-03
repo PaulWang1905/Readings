@@ -4,16 +4,20 @@
 # entries are defined as class entry. See makeLD.py for details
 from pathlib import Path
 import re
+from rdflib import Namespace
+
+custom = Namespace("http://readings.puyu.live/entry/")
 
 class Entry():
     # class for the entries of Readings
-    # read_date: date of reading
-    # title: title of the paper
-    # link: link of the paper
-    # authors: authors of the paper
-    # comments: comments on the paper
-    # date: date of the paper
-    # tags: tags of the paper
+    # read_date: date of reading the paper, dc:available
+    # title: title of the paper, dc:title
+    # link: link of the paper, dc:source
+    # authors: authors of the paper, dc:creator
+    # comments: comments on the paper, dc:description
+    # date: date of the paper dc:date
+    # tags: tags of the paper --- not used for the moment
+    # future work: add tags, dc:topic
     def __init__(self, text: str):
         self.text = text
         self.read_date = None
@@ -22,9 +26,10 @@ class Entry():
         self.authors = None
         self.comments = None
         self.date = None
+        self.uri = None
         #self.tags = None
     def extract(self):
-        
+       
         read_date = re.compile(r'(\d{4}-\d{2}-\d{2})')
         match = read_date.search(self.text)
         if match:
@@ -43,7 +48,7 @@ class Entry():
         authors_pattern = re.compile(r'\*([^*]+)\.\*')
         match = authors_pattern.search(self.text)
         if match:
-            self.authors = match.group(1)
+            self.authors = match.group(1).split(', ')
         
         date_pattern = re.compile(r'(\d{4}-\d{2})\.')
         match = date_pattern.search(self.text)
@@ -54,6 +59,11 @@ class Entry():
         match = comments_pattern.search(self.text)
         if match:
             self.comments = match.group(1)
+        # generate a uri for the entry
+        # uri = namespace + read date + title with space replaced by _ and : replaced by nothing
+        #self.uri = namespace + self.read_date + '/' + self.title.replace(' ', '_').replace(':', '')
+        uri_string = self.read_date + '_' + self.title.replace(' ', '_').replace(':', '')
+        self.uri = custom[uri_string]
 
 listOfEntries = []
 
@@ -75,6 +85,7 @@ def readEntries(self):
         entry.extract()
         listOfEntries.append(entry)
     return listOfEntries    
+
 if __name__ == "__main__":
     print('This is a module. Please run makeLD.py, to test, run test_readFiles.py')
 

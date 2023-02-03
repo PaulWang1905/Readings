@@ -12,5 +12,5 @@
 
 ## 2023-01-28  
 [**Foundations of ontology-based data access under bag semantics**](https://doi.org/10.1016/j.artint.2019.02.003)  
-*Charalampos Nikolaou,Egor V. Kostylev,George Konstantinidis, Mark Kaminski, Bernardo Cuenca Grau, Ian Horrocks.* 2019-09.    
+*Charalampos Nikolaou, Egor V. Kostylev, George Konstantinidis, Mark Kaminski, Bernardo Cuenca Grau, Ian Horrocks.* 2019-09.    
 > This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries.

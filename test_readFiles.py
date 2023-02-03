@@ -13,13 +13,15 @@ class test_readEntries:
             assert file.title != None
             assert file.link != None
             assert file.authors != None
+            assert file.uri != None
+            assert file.date != None
             # file.comments could be None
             # do not need the line: assert file.comments != None
-            assert file.date != None
-            # assert file.tags != None
+            # no need to test assert file.tags != None
             # for the moment, I do not need to test the tags
 
 if __name__ == "__main__":
-    print("Testing readEntries")
+    print("Testing readEntries function")
     test_readEntries().test_readEntries()
+    #print(test_readEntries.__dict__)
     print("All tests passed")
