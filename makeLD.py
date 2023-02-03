@@ -74,3 +74,4 @@ def makeLD(self):
 if __name__ == "__main__":
     g = makeLD(entries)
     g.serialize(destination="./RDFs/readings.ttl", format='turtle')
+    g.serialize(destination="./RDFs/readings.json", format='json-ld')
