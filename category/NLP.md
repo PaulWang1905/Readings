@@ -1,3 +1,8 @@
+
+## 2023-02-06
+[**Dissociating language and thought in large language models: a cognitive perspective**](https://arxiv.org/pdf/2301.06627.pdf)   
+*Kyle Mahowald, Anna A. Ivanova, Idan A. Blank, Nancy Kanwisher, Joshua B. Tenenbaum, Evelina Fedorenko.* 2023-01.
+
 ## 2023-01-30
 [**Time-Aware Language Models as Temporal Knowledge Bases**](https://arxiv.org/pdf/2106.15110.pdf)  
 *Bhuwan Dhingra, Jeremy R. Cole, Julian Martin Eisenschlos, Daniel Gillick, Jacob Eisenstein, William W. Cohen.* 2022-04.
