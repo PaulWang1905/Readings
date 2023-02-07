@@ -1,173 +1,110 @@
+@prefix authors: <http://readings.puyu.live/authors/> .
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
 @prefix readings: <http://readings.puyu.live/entry/> .
 
 readings:2023-01-19_A_Survey_of_Deep_Learning_for_Mathematical_Reasoning a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Liang Qiu" ],
-        [ a foaf:Person ;
-            foaf:name "Sean Welleck" ],
-        [ a foaf:Person ;
-            foaf:name "Kai-Wei Chang" ],
-        [ a foaf:Person ;
-            foaf:name "Wenhao Yu" ],
-        [ a foaf:Person ;
-            foaf:name "Pan Lu" ] ;
+    dc:creator authors:Kai-Wei%20Chang,
+        authors:Liang%20Qiu,
+        authors:Pan%20Lu,
+        authors:Sean%20Welleck,
+        authors:Wenhao%20Yu ;
     dc:date "2022-12" ;
     dc:source "https://arxiv.org/abs/2212.10535" ;
     dc:title "A Survey of Deep Learning for Mathematical Reasoning" ;
     dcterms:available "2023-01-19" .
 
 readings:2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Yixin Ou" ],
-        [ a foaf:Person ;
-            foaf:name "Xiang Chen" ],
-        [ a foaf:Person ;
-            foaf:name "Shumin Deng" ],
-        [ a foaf:Person ;
-            foaf:name "Shuofei Qiao" ],
-        [ a foaf:Person ;
-            foaf:name "Ningyu Zhang" ],
-        [ a foaf:Person ;
-            foaf:name "Huajun Chen" ],
-        [ a foaf:Person ;
-            foaf:name "Yunzhi Yao" ],
-        [ a foaf:Person ;
-            foaf:name "Fei Huang" ],
-        [ a foaf:Person ;
-            foaf:name "Chuanqi Tan" ] ;
+    dc:creator authors:Chuanqi%20Tan,
+        authors:Fei%20Huang,
+        authors:Huajun%20Chen,
+        authors:Ningyu%20Zhang,
+        authors:Shumin%20Deng,
+        authors:Shuofei%20Qiao,
+        authors:Xiang%20Chen,
+        authors:Yixin%20Ou,
+        authors:Yunzhi%20Yao ;
     dc:date "2022-12" ;
     dc:source "https://arxiv.org/abs/2212.09597" ;
     dc:title "Reasoning with Language Model Prompting: A Survey" ;
     dcterms:available "2023-01-19" .
 
 readings:2023-01-23_Human-level_play_in_the_game_of_Diplomacy_by_combining_language_models_with_strategic_reasoning a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Adam Lerer" ],
-        [ a foaf:Person ;
-            foaf:name "Sasha Mitts" ],
-        [ a foaf:Person ;
-            foaf:name "Minae Kwon" ],
-        [ a foaf:Person ;
-            foaf:name "Anton Bakhtin" ],
-        [ a foaf:Person ;
-            foaf:name "Daniel Fried" ],
-        [ a foaf:Person ;
-            foaf:name "Mojtaba Komeili" ],
-        [ a foaf:Person ;
-            foaf:name "Adithya Renduchintala" ],
-        [ a foaf:Person ;
-            foaf:name "Mike Lewis" ],
-        [ a foaf:Person ;
-            foaf:name "Weiyan Shi" ],
-        [ a foaf:Person ;
-            foaf:name "David Wu1" ],
-        [ a foaf:Person ;
-            foaf:name "Hengyuan Hu Athul Paul Jacob" ],
-        [ a foaf:Person ;
-            foaf:name "Alexander Wei" ],
-        [ a foaf:Person ;
-            foaf:name "Emily Dinan" ],
-        [ a foaf:Person ;
-            foaf:name "Alexander H. Miller" ],
-        [ a foaf:Person ;
-            foaf:name "Joe Spisak" ],
-        [ a foaf:Person ;
-            foaf:name "Dirk Rowe" ],
-        [ a foaf:Person ;
-            foaf:name "Karthik Konath" ],
-        [ a foaf:Person ;
-            foaf:name "Colin Flaherty" ],
-        [ a foaf:Person ;
-            foaf:name "Meta Fundamental AI Research Diplomacy Team (FAIR)" ],
-        [ a foaf:Person ;
-            foaf:name "Markus Zijlstra" ],
-        [ a foaf:Person ;
-            foaf:name "Gabriele Farina" ],
-        [ a foaf:Person ;
-            foaf:name "Andrew Goff" ],
-        [ a foaf:Person ;
-            foaf:name "Stephen Roller" ],
-        [ a foaf:Person ;
-            foaf:name "Hugh Zhang" ],
-        [ a foaf:Person ;
-            foaf:name "Jonathan Gray" ],
-        [ a foaf:Person ;
-            foaf:name "Noam Brown" ] ;
+    dc:creator authors:Adam%20Lerer,
+        authors:Adithya%20Renduchintala,
+        authors:Alexander%20H.%20Miller,
+        authors:Alexander%20Wei,
+        authors:Andrew%20Goff,
+        authors:Anton%20Bakhtin,
+        authors:Colin%20Flaherty,
+        authors:Daniel%20Fried,
+        authors:David%20Wu1,
+        authors:Dirk%20Rowe,
+        authors:Emily%20Dinan,
+        authors:Gabriele%20Farina,
+        authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob,
+        authors:Hugh%20Zhang,
+        authors:Joe%20Spisak,
+        authors:Jonathan%20Gray,
+        authors:Karthik%20Konath,
+        authors:Markus%20Zijlstra,
+        authors:Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29,
+        authors:Mike%20Lewis,
+        authors:Minae%20Kwon,
+        authors:Mojtaba%20Komeili,
+        authors:Noam%20Brown,
+        authors:Sasha%20Mitts,
+        authors:Stephen%20Roller,
+        authors:Weiyan%20Shi ;
     dc:date "2022-12" ;
     dc:source "https://www.science.org/doi/10.1126/science.ade9097" ;
     dc:title "Human-level play in the game of Diplomacy by combining language models with strategic reasoning" ;
     dcterms:available "2023-01-23" .
 
 readings:2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Boris Motik" ],
-        [ a foaf:Person ;
-            foaf:name "Bernardo Cuenca Grau" ],
-        [ a foaf:Person ;
-            foaf:name "David Jaime Tena Cucala" ],
-        [ a foaf:Person ;
-            foaf:name "Egor V. Kostylev" ] ;
+    dc:creator authors:Bernardo%20Cuenca%20Grau,
+        authors:Boris%20Motik,
+        authors:David%20Jaime%20Tena%20Cucala,
+        authors:Egor%20V.%20Kostylev ;
     dc:date "2022-11" ;
     dc:source "https://openreview.net/pdf?id=CrCvGNHAIrz" ;
     dc:title "Explainable GNN-Based Models over Knowledge Graphs" ;
     dcterms:available "2023-01-24" .
 
 readings:2023-01-26_A_Music_Theory_Ontology a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Deborah L. McGuinness" ],
-        [ a foaf:Person ;
-            foaf:name "Sabbir M. Rashid" ],
-        [ a foaf:Person ;
-            foaf:name "David De Roure" ] ;
+    dc:creator authors:David%20De%20Roure,
+        authors:Deborah%20L.%20McGuinness,
+        authors:Sabbir%20M.%20Rashid ;
     dc:date "2018-10" ;
     dc:source "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913" ;
     dc:title "A Music Theory Ontology" ;
     dcterms:available "2023-01-26" .
 
 readings:2023-01-26_The_Jazz_Ontology_A_semantic_model_and_large-scale_RDF_repositories_for_jazz a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Polina Proutskova" ],
-        [ a foaf:Person ;
-            foaf:name "György Fazekas" ],
-        [ a foaf:Person ;
-            foaf:name "Geoffroy Peeters" ],
-        [ a foaf:Person ;
-            foaf:name "Martin Pfleiderer" ],
-        [ a foaf:Person ;
-            foaf:name "Klaus Frieler" ],
-        [ a foaf:Person ;
-            foaf:name "Frank Höger" ],
-        [ a foaf:Person ;
-            foaf:name "Gabriel Solis" ],
-        [ a foaf:Person ;
-            foaf:name "Simon Dixon" ],
-        [ a foaf:Person ;
-            foaf:name "Hèlène Camille Crayencour" ],
-        [ a foaf:Person ;
-            foaf:name "Tillman Weyde" ],
-        [ a foaf:Person ;
-            foaf:name "Daniel Wolff" ],
-        [ a foaf:Person ;
-            foaf:name "Olga Velichkina" ] ;
+    dc:creator authors:Daniel%20Wolff,
+        authors:Frank%20H%C3%B6ger,
+        authors:Gabriel%20Solis,
+        authors:Geoffroy%20Peeters,
+        authors:Gy%C3%B6rgy%20Fazekas,
+        authors:H%C3%A8l%C3%A8ne%20Camille%20Crayencour,
+        authors:Klaus%20Frieler,
+        authors:Martin%20Pfleiderer,
+        authors:Olga%20Velichkina,
+        authors:Polina%20Proutskova,
+        authors:Simon%20Dixon,
+        authors:Tillman%20Weyde ;
     dc:date "2022-07" ;
     dc:source "https://doi.org/10.1016/j.websem.2022.100735" ;
     dc:title "The Jazz Ontology: A semantic model and large-scale RDF repositories for jazz" ;
     dcterms:available "2023-01-26" .
 
 readings:2023-01-27_Stream_Reasoning_in_Temporal_Datalog a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Bernardo Cuenca Grau" ],
-        [ a foaf:Person ;
-            foaf:name "Ian Horrocks" ],
-        [ a foaf:Person ;
-            foaf:name "Boris Motik" ],
-        [ a foaf:Person ;
-            foaf:name "Alessandro Ronca" ],
-        [ a foaf:Person ;
-            foaf:name "Mark Kaminski" ] ;
+    dc:creator authors:Alessandro%20Ronca,
+        authors:Bernardo%20Cuenca%20Grau,
+        authors:Boris%20Motik,
+        authors:Ian%20Horrocks,
+        authors:Mark%20Kaminski ;
     dc:date "2018-11" ;
     dc:description " The paper introduces a fragment of temporal Datalog for stream processing and studies a stream reasoning algorithm for it, with a focus on minimizing the amount of data kept in memory. ***Summary by ChatGPT***" ;
     dc:source "https://arxiv.org/pdf/1711.04013.pdf" ;
@@ -175,12 +112,9 @@ readings:2023-01-27_Stream_Reasoning_in_Temporal_Datalog a dcterms:Bibliographic
     dcterms:available "2023-01-27" .
 
 readings:2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Georg Gottlob" ],
-        [ a foaf:Person ;
-            foaf:name "Reinhard Pichler" ],
-        [ a foaf:Person ;
-            foaf:name "Leopoldo Bertossim" ] ;
+    dc:creator authors:Georg%20Gottlob,
+        authors:Leopoldo%20Bertossim,
+        authors:Reinhard%20Pichler ;
     dc:date "2019-02" ;
     dc:description " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog" ;
     dc:source "https://arxiv.org/pdf/1803.06445.pdf" ;
@@ -188,18 +122,12 @@ readings:2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics a dcterms:Bibliograp
     dcterms:available "2023-01-28" .
 
 readings:2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantics a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Charalampos Nikolaou" ],
-        [ a foaf:Person ;
-            foaf:name "Egor V. Kostylev" ],
-        [ a foaf:Person ;
-            foaf:name "Bernardo Cuenca Grau" ],
-        [ a foaf:Person ;
-            foaf:name "Ian Horrocks" ],
-        [ a foaf:Person ;
-            foaf:name "Mark Kaminski" ],
-        [ a foaf:Person ;
-            foaf:name "George Konstantinidis" ] ;
+    dc:creator authors:Bernardo%20Cuenca%20Grau,
+        authors:Charalampos%20Nikolaou,
+        authors:Egor%20V.%20Kostylev,
+        authors:George%20Konstantinidis,
+        authors:Ian%20Horrocks,
+        authors:Mark%20Kaminski ;
     dc:date "2019-09" ;
     dc:description " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries." ;
     dc:source "https://doi.org/10.1016/j.artint.2019.02.003" ;
@@ -207,16 +135,11 @@ readings:2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantic
     dcterms:available "2023-01-28" .
 
 readings:2023-01-29_The_Dow_Jones_Knowledge_Graph a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Valerio Cocchi" ],
-        [ a foaf:Person ;
-            foaf:name "Dylan Roy" ],
-        [ a foaf:Person ;
-            foaf:name "Jordi Olivares" ],
-        [ a foaf:Person ;
-            foaf:name "Boris Motik" ],
-        [ a foaf:Person ;
-            foaf:name "Ian Horrocks" ] ;
+    dc:creator authors:Boris%20Motik,
+        authors:Dylan%20Roy,
+        authors:Ian%20Horrocks,
+        authors:Jordi%20Olivares,
+        authors:Valerio%20Cocchi ;
     dc:date "2022-05" ;
     dc:description " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products." ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25" ;
@@ -224,28 +147,20 @@ readings:2023-01-29_The_Dow_Jones_Knowledge_Graph a dcterms:BibliographicResourc
     dcterms:available "2023-01-29" .
 
 readings:2023-01-30_Time-Aware_Language_Models_as_Temporal_Knowledge_Bases a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "William W. Cohen" ],
-        [ a foaf:Person ;
-            foaf:name "Daniel Gillick" ],
-        [ a foaf:Person ;
-            foaf:name "Jeremy R. Cole" ],
-        [ a foaf:Person ;
-            foaf:name "Julian Martin Eisenschlos" ],
-        [ a foaf:Person ;
-            foaf:name "Jacob Eisenstein" ],
-        [ a foaf:Person ;
-            foaf:name "Bhuwan Dhingra" ] ;
+    dc:creator authors:Bhuwan%20Dhingra,
+        authors:Daniel%20Gillick,
+        authors:Jacob%20Eisenstein,
+        authors:Jeremy%20R.%20Cole,
+        authors:Julian%20Martin%20Eisenschlos,
+        authors:William%20W.%20Cohen ;
     dc:date "2022-04" ;
     dc:source "https://arxiv.org/pdf/2106.15110.pdf" ;
     dc:title "Time-Aware Language Models as Temporal Knowledge Bases" ;
     dcterms:available "2023-01-30" .
 
 readings:2023-01-31_Reducing_OWL_Entailment_to_Description_Logic_Satisfiability a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Ian Horrocks" ],
-        [ a foaf:Person ;
-            foaf:name "Peter F. Patel-Schneider" ] ;
+    dc:creator authors:Ian%20Horrocks,
+        authors:Peter%20F.%20Patel-Schneider ;
     dc:date "2003-10" ;
     dc:description " This paper established a correspondence between OWL ontologies and description logic knowledge bases, and then showed how knowledgebase entailment can be reduced to knowledge base satisfiability.  " ;
     dc:source "https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf" ;
@@ -253,10 +168,8 @@ readings:2023-01-31_Reducing_OWL_Entailment_to_Description_Logic_Satisfiability 
     dcterms:available "2023-01-31" .
 
 readings:2023-02-03_A_Survey_of_Syntactic_Modelling_Structures_in_Biomedical_Ontologies a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Martin G. Skjæveland" ],
-        [ a foaf:Person ;
-            foaf:name "Christian Kindermann" ] ;
+    dc:creator authors:Christian%20Kindermann,
+        authors:Martin%20G.%20Skj%C3%A6veland ;
     dc:date "2022-10" ;
     dc:description " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies. " ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26" ;
@@ -264,20 +177,269 @@ readings:2023-02-03_A_Survey_of_Syntactic_Modelling_Structures_in_Biomedical_Ont
     dcterms:available "2023-02-03" .
 
 readings:2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective a dcterms:BibliographicResource ;
-    dc:creator [ a foaf:Person ;
-            foaf:name "Evelina Fedorenko" ],
-        [ a foaf:Person ;
-            foaf:name "Idan A. Blank" ],
-        [ a foaf:Person ;
-            foaf:name "Kyle Mahowald" ],
-        [ a foaf:Person ;
-            foaf:name "Nancy Kanwisher" ],
-        [ a foaf:Person ;
-            foaf:name "Anna A. Ivanova" ],
-        [ a foaf:Person ;
-            foaf:name "Joshua B. Tenenbaum" ] ;
+    dc:creator authors:Anna%20A.%20Ivanova,
+        authors:Evelina%20Fedorenko,
+        authors:Idan%20A.%20Blank,
+        authors:Joshua%20B.%20Tenenbaum,
+        authors:Kyle%20Mahowald,
+        authors:Nancy%20Kanwisher ;
     dc:date "2023-01" ;
     dc:source "https://arxiv.org/pdf/2301.06627.pdf" ;
     dc:title "Dissociating language and thought in large language models: a cognitive perspective" ;
     dcterms:available "2023-02-06" .
+
+authors:Adam%20Lerer a foaf:Person ;
+    foaf:name "Adam Lerer" .
+
+authors:Adithya%20Renduchintala a foaf:Person ;
+    foaf:name "Adithya Renduchintala" .
+
+authors:Alessandro%20Ronca a foaf:Person ;
+    foaf:name "Alessandro Ronca" .
+
+authors:Alexander%20H.%20Miller a foaf:Person ;
+    foaf:name "Alexander H. Miller" .
+
+authors:Alexander%20Wei a foaf:Person ;
+    foaf:name "Alexander Wei" .
+
+authors:Andrew%20Goff a foaf:Person ;
+    foaf:name "Andrew Goff" .
+
+authors:Anna%20A.%20Ivanova a foaf:Person ;
+    foaf:name "Anna A. Ivanova" .
+
+authors:Anton%20Bakhtin a foaf:Person ;
+    foaf:name "Anton Bakhtin" .
+
+authors:Bhuwan%20Dhingra a foaf:Person ;
+    foaf:name "Bhuwan Dhingra" .
+
+authors:Charalampos%20Nikolaou a foaf:Person ;
+    foaf:name "Charalampos Nikolaou" .
+
+authors:Christian%20Kindermann a foaf:Person ;
+    foaf:name "Christian Kindermann" .
+
+authors:Chuanqi%20Tan a foaf:Person ;
+    foaf:name "Chuanqi Tan" .
+
+authors:Colin%20Flaherty a foaf:Person ;
+    foaf:name "Colin Flaherty" .
+
+authors:Daniel%20Fried a foaf:Person ;
+    foaf:name "Daniel Fried" .
+
+authors:Daniel%20Gillick a foaf:Person ;
+    foaf:name "Daniel Gillick" .
+
+authors:Daniel%20Wolff a foaf:Person ;
+    foaf:name "Daniel Wolff" .
+
+authors:David%20De%20Roure a foaf:Person ;
+    foaf:name "David De Roure" .
+
+authors:David%20Jaime%20Tena%20Cucala a foaf:Person ;
+    foaf:name "David Jaime Tena Cucala" .
+
+authors:David%20Wu1 a foaf:Person ;
+    foaf:name "David Wu1" .
+
+authors:Deborah%20L.%20McGuinness a foaf:Person ;
+    foaf:name "Deborah L. McGuinness" .
+
+authors:Dirk%20Rowe a foaf:Person ;
+    foaf:name "Dirk Rowe" .
+
+authors:Dylan%20Roy a foaf:Person ;
+    foaf:name "Dylan Roy" .
+
+authors:Emily%20Dinan a foaf:Person ;
+    foaf:name "Emily Dinan" .
+
+authors:Evelina%20Fedorenko a foaf:Person ;
+    foaf:name "Evelina Fedorenko" .
+
+authors:Fei%20Huang a foaf:Person ;
+    foaf:name "Fei Huang" .
+
+authors:Frank%20H%C3%B6ger a foaf:Person ;
+    foaf:name "Frank Höger" .
+
+authors:Gabriel%20Solis a foaf:Person ;
+    foaf:name "Gabriel Solis" .
+
+authors:Gabriele%20Farina a foaf:Person ;
+    foaf:name "Gabriele Farina" .
+
+authors:Geoffroy%20Peeters a foaf:Person ;
+    foaf:name "Geoffroy Peeters" .
+
+authors:Georg%20Gottlob a foaf:Person ;
+    foaf:name "Georg Gottlob" .
+
+authors:George%20Konstantinidis a foaf:Person ;
+    foaf:name "George Konstantinidis" .
+
+authors:Gy%C3%B6rgy%20Fazekas a foaf:Person ;
+    foaf:name "György Fazekas" .
+
+authors:H%C3%A8l%C3%A8ne%20Camille%20Crayencour a foaf:Person ;
+    foaf:name "Hèlène Camille Crayencour" .
+
+authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob a foaf:Person ;
+    foaf:name "Hengyuan Hu Athul Paul Jacob" .
+
+authors:Huajun%20Chen a foaf:Person ;
+    foaf:name "Huajun Chen" .
+
+authors:Hugh%20Zhang a foaf:Person ;
+    foaf:name "Hugh Zhang" .
+
+authors:Idan%20A.%20Blank a foaf:Person ;
+    foaf:name "Idan A. Blank" .
+
+authors:Jacob%20Eisenstein a foaf:Person ;
+    foaf:name "Jacob Eisenstein" .
+
+authors:Jeremy%20R.%20Cole a foaf:Person ;
+    foaf:name "Jeremy R. Cole" .
+
+authors:Joe%20Spisak a foaf:Person ;
+    foaf:name "Joe Spisak" .
+
+authors:Jonathan%20Gray a foaf:Person ;
+    foaf:name "Jonathan Gray" .
+
+authors:Jordi%20Olivares a foaf:Person ;
+    foaf:name "Jordi Olivares" .
+
+authors:Joshua%20B.%20Tenenbaum a foaf:Person ;
+    foaf:name "Joshua B. Tenenbaum" .
+
+authors:Julian%20Martin%20Eisenschlos a foaf:Person ;
+    foaf:name "Julian Martin Eisenschlos" .
+
+authors:Kai-Wei%20Chang a foaf:Person ;
+    foaf:name "Kai-Wei Chang" .
+
+authors:Karthik%20Konath a foaf:Person ;
+    foaf:name "Karthik Konath" .
+
+authors:Klaus%20Frieler a foaf:Person ;
+    foaf:name "Klaus Frieler" .
+
+authors:Kyle%20Mahowald a foaf:Person ;
+    foaf:name "Kyle Mahowald" .
+
+authors:Leopoldo%20Bertossim a foaf:Person ;
+    foaf:name "Leopoldo Bertossim" .
+
+authors:Liang%20Qiu a foaf:Person ;
+    foaf:name "Liang Qiu" .
+
+authors:Markus%20Zijlstra a foaf:Person ;
+    foaf:name "Markus Zijlstra" .
+
+authors:Martin%20G.%20Skj%C3%A6veland a foaf:Person ;
+    foaf:name "Martin G. Skjæveland" .
+
+authors:Martin%20Pfleiderer a foaf:Person ;
+    foaf:name "Martin Pfleiderer" .
+
+authors:Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29 a foaf:Person ;
+    foaf:name "Meta Fundamental AI Research Diplomacy Team (FAIR)" .
+
+authors:Mike%20Lewis a foaf:Person ;
+    foaf:name "Mike Lewis" .
+
+authors:Minae%20Kwon a foaf:Person ;
+    foaf:name "Minae Kwon" .
+
+authors:Mojtaba%20Komeili a foaf:Person ;
+    foaf:name "Mojtaba Komeili" .
+
+authors:Nancy%20Kanwisher a foaf:Person ;
+    foaf:name "Nancy Kanwisher" .
+
+authors:Ningyu%20Zhang a foaf:Person ;
+    foaf:name "Ningyu Zhang" .
+
+authors:Noam%20Brown a foaf:Person ;
+    foaf:name "Noam Brown" .
+
+authors:Olga%20Velichkina a foaf:Person ;
+    foaf:name "Olga Velichkina" .
+
+authors:Pan%20Lu a foaf:Person ;
+    foaf:name "Pan Lu" .
+
+authors:Peter%20F.%20Patel-Schneider a foaf:Person ;
+    foaf:name "Peter F. Patel-Schneider" .
+
+authors:Polina%20Proutskova a foaf:Person ;
+    foaf:name "Polina Proutskova" .
+
+authors:Reinhard%20Pichler a foaf:Person ;
+    foaf:name "Reinhard Pichler" .
+
+authors:Sabbir%20M.%20Rashid a foaf:Person ;
+    foaf:name "Sabbir M. Rashid" .
+
+authors:Sasha%20Mitts a foaf:Person ;
+    foaf:name "Sasha Mitts" .
+
+authors:Sean%20Welleck a foaf:Person ;
+    foaf:name "Sean Welleck" .
+
+authors:Shumin%20Deng a foaf:Person ;
+    foaf:name "Shumin Deng" .
+
+authors:Shuofei%20Qiao a foaf:Person ;
+    foaf:name "Shuofei Qiao" .
+
+authors:Simon%20Dixon a foaf:Person ;
+    foaf:name "Simon Dixon" .
+
+authors:Stephen%20Roller a foaf:Person ;
+    foaf:name "Stephen Roller" .
+
+authors:Tillman%20Weyde a foaf:Person ;
+    foaf:name "Tillman Weyde" .
+
+authors:Valerio%20Cocchi a foaf:Person ;
+    foaf:name "Valerio Cocchi" .
+
+authors:Weiyan%20Shi a foaf:Person ;
+    foaf:name "Weiyan Shi" .
+
+authors:Wenhao%20Yu a foaf:Person ;
+    foaf:name "Wenhao Yu" .
+
+authors:William%20W.%20Cohen a foaf:Person ;
+    foaf:name "William W. Cohen" .
+
+authors:Xiang%20Chen a foaf:Person ;
+    foaf:name "Xiang Chen" .
+
+authors:Yixin%20Ou a foaf:Person ;
+    foaf:name "Yixin Ou" .
+
+authors:Yunzhi%20Yao a foaf:Person ;
+    foaf:name "Yunzhi Yao" .
+
+authors:Egor%20V.%20Kostylev a foaf:Person ;
+    foaf:name "Egor V. Kostylev" .
+
+authors:Mark%20Kaminski a foaf:Person ;
+    foaf:name "Mark Kaminski" .
+
+authors:Bernardo%20Cuenca%20Grau a foaf:Person ;
+    foaf:name "Bernardo Cuenca Grau" .
+
+authors:Boris%20Motik a foaf:Person ;
+    foaf:name "Boris Motik" .
+
+authors:Ian%20Horrocks a foaf:Person ;
+    foaf:name "Ian Horrocks" .
 

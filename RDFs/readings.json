@@ -1,537 +1,6 @@
 [
   {
-    "@id": "http://readings.puyu.live/entry/2023-01-26_The_Jazz_Ontology_A_semantic_model_and_large-scale_RDF_repositories_for_jazz",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N1825d68655ed4f0a9767107405532ff1"
-      },
-      {
-        "@id": "_:Nee2db8a2ac4848259630ce9bc31940aa"
-      },
-      {
-        "@id": "_:N3cbb4679894a4df89a6b1f3e9481307e"
-      },
-      {
-        "@id": "_:N552b063cc8834d2ebae5b8197b7986d7"
-      },
-      {
-        "@id": "_:N80e8b8ae7f7a41ccab1128ae33c93c8b"
-      },
-      {
-        "@id": "_:Nf2e48bab3f504d1ca6cab18bd94761ae"
-      },
-      {
-        "@id": "_:N81c2c55db66244ae84370bf580753ff4"
-      },
-      {
-        "@id": "_:Ne94cb822c16b4c4aa40addaab041175b"
-      },
-      {
-        "@id": "_:N493fbdb91270448a9e22596d5fd339e6"
-      },
-      {
-        "@id": "_:Ncdada4c20fc64c5aab0944f7a16459d7"
-      },
-      {
-        "@id": "_:N3daa858af6e34f54a67e383ad5081b39"
-      },
-      {
-        "@id": "_:Nadf593b653d740b48a1b522d1239dea8"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-07"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://doi.org/10.1016/j.websem.2022.100735"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "The Jazz Ontology: A semantic model and large-scale RDF repositories for jazz"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-26"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1825d68655ed4f0a9767107405532ff1",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Polina Proutskova"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nee2db8a2ac4848259630ce9bc31940aa",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniel Wolff"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3cbb4679894a4df89a6b1f3e9481307e",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "György Fazekas"
-      }
-    ]
-  },
-  {
-    "@id": "_:N552b063cc8834d2ebae5b8197b7986d7",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Klaus Frieler"
-      }
-    ]
-  },
-  {
-    "@id": "_:N80e8b8ae7f7a41ccab1128ae33c93c8b",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Frank Höger"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nf2e48bab3f504d1ca6cab18bd94761ae",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Olga Velichkina"
-      }
-    ]
-  },
-  {
-    "@id": "_:N81c2c55db66244ae84370bf580753ff4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Gabriel Solis"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ne94cb822c16b4c4aa40addaab041175b",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Tillman Weyde"
-      }
-    ]
-  },
-  {
-    "@id": "_:N493fbdb91270448a9e22596d5fd339e6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Martin Pfleiderer"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ncdada4c20fc64c5aab0944f7a16459d7",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Hèlène Camille Crayencour"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3daa858af6e34f54a67e383ad5081b39",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Geoffroy Peeters"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nadf593b653d740b48a1b522d1239dea8",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Simon Dixon"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-30_Time-Aware_Language_Models_as_Temporal_Knowledge_Bases",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N960178efd8ca443fbba27a6b8579c45c"
-      },
-      {
-        "@id": "_:N53ea85d18149456fae558ec2dd8cff30"
-      },
-      {
-        "@id": "_:N71ee21c6658b47ccaa815e17c3e3def3"
-      },
-      {
-        "@id": "_:N52e11332a0c448fb9f744a6a6ce4e0b6"
-      },
-      {
-        "@id": "_:N8a6e59053d8e451abdddf32ec606c405"
-      },
-      {
-        "@id": "_:N519902a44bca462eb56007bdef2e4776"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-04"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2106.15110.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Time-Aware Language Models as Temporal Knowledge Bases"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-30"
-      }
-    ]
-  },
-  {
-    "@id": "_:N960178efd8ca443fbba27a6b8579c45c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Bhuwan Dhingra"
-      }
-    ]
-  },
-  {
-    "@id": "_:N53ea85d18149456fae558ec2dd8cff30",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jeremy R. Cole"
-      }
-    ]
-  },
-  {
-    "@id": "_:N71ee21c6658b47ccaa815e17c3e3def3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Julian Martin Eisenschlos"
-      }
-    ]
-  },
-  {
-    "@id": "_:N52e11332a0c448fb9f744a6a6ce4e0b6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniel Gillick"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8a6e59053d8e451abdddf32ec606c405",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jacob Eisenstein"
-      }
-    ]
-  },
-  {
-    "@id": "_:N519902a44bca462eb56007bdef2e4776",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "William W. Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-26_A_Music_Theory_Ontology",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N896bbbc96c2c462893014dc7da72624c"
-      },
-      {
-        "@id": "_:Ne6dcf7fe88084618a618026779a022bd"
-      },
-      {
-        "@id": "_:N8330be4fce8e4863a5f961bdbc7c767f"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2018-10"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A Music Theory Ontology"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-26"
-      }
-    ]
-  },
-  {
-    "@id": "_:N896bbbc96c2c462893014dc7da72624c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sabbir M. Rashid"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ne6dcf7fe88084618a618026779a022bd",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "David De Roure"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8330be4fce8e4863a5f961bdbc7c767f",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Deborah L. McGuinness"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-29_The_Dow_Jones_Knowledge_Graph",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:Neb8a8da7d4a04b799ea4812a1bba878d"
-      },
-      {
-        "@id": "_:Nbff22c684d8b4a6ba63f83654fa64c32"
-      },
-      {
-        "@id": "_:N1a2980c9eb8f4a0bba4393abb69ca4bb"
-      },
-      {
-        "@id": "_:Nc17918513f1e4f4f975c2e4e2fd59a20"
-      },
-      {
-        "@id": "_:N9a730c59e31e4060abc05f81c6f1f704"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-05"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/description": [
-      {
-        "@value": " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products."
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "The Dow Jones Knowledge Graph"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-29"
-      }
-    ]
-  },
-  {
-    "@id": "_:Neb8a8da7d4a04b799ea4812a1bba878d",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ian Horrocks"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbff22c684d8b4a6ba63f83654fa64c32",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jordi Olivares"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1a2980c9eb8f4a0bba4393abb69ca4bb",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Valerio Cocchi"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc17918513f1e4f4f975c2e4e2fd59a20",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Boris Motik"
-      }
-    ]
-  },
-  {
-    "@id": "_:N9a730c59e31e4060abc05f81c6f1f704",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Dylan Roy"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-02-03_A_Survey_of_Syntactic_Modelling_Structures_in_Biomedical_Ontologies",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N6c7fcff52e15438eba077187b9dc917a"
-      },
-      {
-        "@id": "_:N4496fded3755487b94215265aba73766"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-10"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/description": [
-      {
-        "@value": " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies. "
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A Survey of Syntactic Modelling Structures in Biomedical Ontologies"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-02-03"
-      }
-    ]
-  },
-  {
-    "@id": "_:N6c7fcff52e15438eba077187b9dc917a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Christian Kindermann"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4496fded3755487b94215265aba73766",
+    "@id": "http://readings.puyu.live/authors/Martin%20G.%20Skj%C3%A6veland",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
@@ -542,311 +11,7 @@
     ]
   },
   {
-    "@id": "http://readings.puyu.live/entry/2023-01-23_Human-level_play_in_the_game_of_Diplomacy_by_combining_language_models_with_strategic_reasoning",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:Nb1988fa6784741438fdc7f60f2f02ee0"
-      },
-      {
-        "@id": "_:N1b2e31e7d0b44e6ab986197abff250b7"
-      },
-      {
-        "@id": "_:Nf90824d00fa545368691370ad919755b"
-      },
-      {
-        "@id": "_:N8a55551826de4b4889f1ead1f277946a"
-      },
-      {
-        "@id": "_:Nbb8cabd488a9400ca249a72ef1e85d55"
-      },
-      {
-        "@id": "_:Nade7b233970c4460975ae27d5972c532"
-      },
-      {
-        "@id": "_:N26854e4781e041d09bc658c9c8356d91"
-      },
-      {
-        "@id": "_:Nbc8798c7f9174ac8ab7bc9836fce9ad3"
-      },
-      {
-        "@id": "_:Nee9a4ad60b0d4788a07e1e4085a19b53"
-      },
-      {
-        "@id": "_:N7e1a9b0185534d8a88b5055540b85916"
-      },
-      {
-        "@id": "_:N3c4993758a9247e480c82cedeb4ff3ed"
-      },
-      {
-        "@id": "_:Nad89e6759da04bb1b9b6b71d5ecd9c34"
-      },
-      {
-        "@id": "_:N0df975f68bb9424cbc4fe8c4861df58f"
-      },
-      {
-        "@id": "_:N04470f5b41ee4e129d90e8b65d274265"
-      },
-      {
-        "@id": "_:N623db8b278254e3da43ead12ae7a8540"
-      },
-      {
-        "@id": "_:N93b5257f185c46ff81a36f53ae431e1c"
-      },
-      {
-        "@id": "_:N09b5f537d8db4a2184571630a662fb80"
-      },
-      {
-        "@id": "_:N4d82dc6cfafe4479882dd1602b71418b"
-      },
-      {
-        "@id": "_:Nd626bc584acd4ea3bedb03441353437b"
-      },
-      {
-        "@id": "_:Na2d8ebb9290f40d9b4b7d91950f0cfa9"
-      },
-      {
-        "@id": "_:N6da3c0e7a86b49b9841f1b3ab1f9e78f"
-      },
-      {
-        "@id": "_:N9ffc2f3ff04b45cdb0a41e40283168fd"
-      },
-      {
-        "@id": "_:N7fd19b21a8a1481ea4c70d457553fda4"
-      },
-      {
-        "@id": "_:N718cc4fcd9c44bcb8754ce25d102a478"
-      },
-      {
-        "@id": "_:Nd8057b78b3394e42b59276f8e900da65"
-      },
-      {
-        "@id": "_:Nb20e04331c5e40a9afa6da35a6e885f5"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-12"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://www.science.org/doi/10.1126/science.ade9097"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Human-level play in the game of Diplomacy by combining language models with strategic reasoning"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-23"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nb1988fa6784741438fdc7f60f2f02ee0",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Meta Fundamental AI Research Diplomacy Team (FAIR)"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1b2e31e7d0b44e6ab986197abff250b7",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Anton Bakhtin"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nf90824d00fa545368691370ad919755b",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Noam Brown"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8a55551826de4b4889f1ead1f277946a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Emily Dinan"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbb8cabd488a9400ca249a72ef1e85d55",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Gabriele Farina"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nade7b233970c4460975ae27d5972c532",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Colin Flaherty"
-      }
-    ]
-  },
-  {
-    "@id": "_:N26854e4781e041d09bc658c9c8356d91",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniel Fried"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbc8798c7f9174ac8ab7bc9836fce9ad3",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Andrew Goff"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nee9a4ad60b0d4788a07e1e4085a19b53",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jonathan Gray"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7e1a9b0185534d8a88b5055540b85916",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Hengyuan Hu Athul Paul Jacob"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3c4993758a9247e480c82cedeb4ff3ed",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mojtaba Komeili"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nad89e6759da04bb1b9b6b71d5ecd9c34",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Karthik Konath"
-      }
-    ]
-  },
-  {
-    "@id": "_:N0df975f68bb9424cbc4fe8c4861df58f",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Minae Kwon"
-      }
-    ]
-  },
-  {
-    "@id": "_:N04470f5b41ee4e129d90e8b65d274265",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Adam Lerer"
-      }
-    ]
-  },
-  {
-    "@id": "_:N623db8b278254e3da43ead12ae7a8540",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mike Lewis"
-      }
-    ]
-  },
-  {
-    "@id": "_:N93b5257f185c46ff81a36f53ae431e1c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Alexander H. Miller"
-      }
-    ]
-  },
-  {
-    "@id": "_:N09b5f537d8db4a2184571630a662fb80",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sasha Mitts"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4d82dc6cfafe4479882dd1602b71418b",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Adithya Renduchintala"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd626bc584acd4ea3bedb03441353437b",
+    "@id": "http://readings.puyu.live/authors/Stephen%20Roller",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
@@ -857,635 +22,13 @@
     ]
   },
   {
-    "@id": "_:Na2d8ebb9290f40d9b4b7d91950f0cfa9",
+    "@id": "http://readings.puyu.live/authors/Julian%20Martin%20Eisenschlos",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Dirk Rowe"
-      }
-    ]
-  },
-  {
-    "@id": "_:N6da3c0e7a86b49b9841f1b3ab1f9e78f",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Weiyan Shi"
-      }
-    ]
-  },
-  {
-    "@id": "_:N9ffc2f3ff04b45cdb0a41e40283168fd",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Joe Spisak"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7fd19b21a8a1481ea4c70d457553fda4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Alexander Wei"
-      }
-    ]
-  },
-  {
-    "@id": "_:N718cc4fcd9c44bcb8754ce25d102a478",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "David Wu1"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd8057b78b3394e42b59276f8e900da65",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Hugh Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nb20e04331c5e40a9afa6da35a6e885f5",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Markus Zijlstra"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N818da1c634584e3998b936ebba29313e"
-      },
-      {
-        "@id": "_:N3a4c359f6d884daf81866d7a46b94f08"
-      },
-      {
-        "@id": "_:N8d2e7470107640f59d2bc33e873e902c"
-      },
-      {
-        "@id": "_:N511a103c0f924117aec6809587003f4e"
-      },
-      {
-        "@id": "_:Nc18443a91b424770862713c904b47812"
-      },
-      {
-        "@id": "_:N7df146b627a146b48dff8620a4757765"
-      },
-      {
-        "@id": "_:Nf7c11404ce66487a96bf0fdf6e969c98"
-      },
-      {
-        "@id": "_:Ncb2a02bd282f423daf0701e007b9239a"
-      },
-      {
-        "@id": "_:N94b1c3ba68214e3c93ab0959f00eda3d"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-12"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/abs/2212.09597"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Reasoning with Language Model Prompting: A Survey"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-19"
-      }
-    ]
-  },
-  {
-    "@id": "_:N818da1c634584e3998b936ebba29313e",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Shuofei Qiao"
-      }
-    ]
-  },
-  {
-    "@id": "_:N3a4c359f6d884daf81866d7a46b94f08",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Yixin Ou"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8d2e7470107640f59d2bc33e873e902c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ningyu Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "_:N511a103c0f924117aec6809587003f4e",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Xiang Chen"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nc18443a91b424770862713c904b47812",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Yunzhi Yao"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7df146b627a146b48dff8620a4757765",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Shumin Deng"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nf7c11404ce66487a96bf0fdf6e969c98",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Chuanqi Tan"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ncb2a02bd282f423daf0701e007b9239a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Fei Huang"
-      }
-    ]
-  },
-  {
-    "@id": "_:N94b1c3ba68214e3c93ab0959f00eda3d",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Huajun Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantics",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N447646a14fdb4849a64ecf13915c6ee0"
-      },
-      {
-        "@id": "_:N44ea523685774dc79b02f73f532ea2b7"
-      },
-      {
-        "@id": "_:N84d58adf32d1468288f4c2d2978e0082"
-      },
-      {
-        "@id": "_:N81422f7732204433b260237fe396888c"
-      },
-      {
-        "@id": "_:N73b7309455934767b2b33e5b6e167da1"
-      },
-      {
-        "@id": "_:N7cbc5483899a4abb8f3fdbc3ce7a81cf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2019-09"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/description": [
-      {
-        "@value": " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries."
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://doi.org/10.1016/j.artint.2019.02.003"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Foundations of ontology-based data access under bag semantics"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-28"
-      }
-    ]
-  },
-  {
-    "@id": "_:N447646a14fdb4849a64ecf13915c6ee0",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Charalampos Nikolaou"
-      }
-    ]
-  },
-  {
-    "@id": "_:N44ea523685774dc79b02f73f532ea2b7",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Egor V. Kostylev"
-      }
-    ]
-  },
-  {
-    "@id": "_:N84d58adf32d1468288f4c2d2978e0082",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "George Konstantinidis"
-      }
-    ]
-  },
-  {
-    "@id": "_:N81422f7732204433b260237fe396888c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mark Kaminski"
-      }
-    ]
-  },
-  {
-    "@id": "_:N73b7309455934767b2b33e5b6e167da1",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Bernardo Cuenca Grau"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7cbc5483899a4abb8f3fdbc3ce7a81cf",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ian Horrocks"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-19_A_Survey_of_Deep_Learning_for_Mathematical_Reasoning",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:Nd50bbd6a6914491b8853e1f4abf793d2"
-      },
-      {
-        "@id": "_:N45147be4c2b14560960c81ee75a724d2"
-      },
-      {
-        "@id": "_:Na2c5724e87dc41f9a5152a217ca883d9"
-      },
-      {
-        "@id": "_:N4cf60b04f3b74b998350b27d789b1c69"
-      },
-      {
-        "@id": "_:N7f01ce37d69241789a23f669a7366731"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-12"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/abs/2212.10535"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A Survey of Deep Learning for Mathematical Reasoning"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-19"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nd50bbd6a6914491b8853e1f4abf793d2",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Pan Lu"
-      }
-    ]
-  },
-  {
-    "@id": "_:N45147be4c2b14560960c81ee75a724d2",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Liang Qiu"
-      }
-    ]
-  },
-  {
-    "@id": "_:Na2c5724e87dc41f9a5152a217ca883d9",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Wenhao Yu"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4cf60b04f3b74b998350b27d789b1c69",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sean Welleck"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7f01ce37d69241789a23f669a7366731",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Kai-Wei Chang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:N7deb5e46247f49cebae7e3a708e26c03"
-      },
-      {
-        "@id": "_:Nbe09d5a7dc584cc48fcd78e952a0417c"
-      },
-      {
-        "@id": "_:N41dd932efac6406997115f7d58f47fc9"
-      },
-      {
-        "@id": "_:N82f28c91fdf34247b47bb5b7eca7f72f"
-      },
-      {
-        "@id": "_:Ncdd33918e834418d8065a541b9b16f6a"
-      },
-      {
-        "@id": "_:N1b42ee3f772a49ac8b2d57ecb20e3467"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2023-01"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2301.06627.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Dissociating language and thought in large language models: a cognitive perspective"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-02-06"
-      }
-    ]
-  },
-  {
-    "@id": "_:N7deb5e46247f49cebae7e3a708e26c03",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Kyle Mahowald"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nbe09d5a7dc584cc48fcd78e952a0417c",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Anna A. Ivanova"
-      }
-    ]
-  },
-  {
-    "@id": "_:N41dd932efac6406997115f7d58f47fc9",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Idan A. Blank"
-      }
-    ]
-  },
-  {
-    "@id": "_:N82f28c91fdf34247b47bb5b7eca7f72f",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Nancy Kanwisher"
-      }
-    ]
-  },
-  {
-    "@id": "_:Ncdd33918e834418d8065a541b9b16f6a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Joshua B. Tenenbaum"
-      }
-    ]
-  },
-  {
-    "@id": "_:N1b42ee3f772a49ac8b2d57ecb20e3467",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Evelina Fedorenko"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics",
-    "@type": [
-      "http://purl.org/dc/terms/BibliographicResource"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "_:Nfea277faa31b45f0909d2e12c1dd84ab"
-      },
-      {
-        "@id": "_:N412fa66dde634774a4c1b89e0dc25a6a"
-      },
-      {
-        "@id": "_:N8e39d4cb402d4436819fe56959804a44"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2019-02"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/description": [
-      {
-        "@value": " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/1803.06445.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Datalog: Bag Semantics via Set Semantics"
-      }
-    ],
-    "http://purl.org/dc/terms/available": [
-      {
-        "@value": "2023-01-28"
-      }
-    ]
-  },
-  {
-    "@id": "_:Nfea277faa31b45f0909d2e12c1dd84ab",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Leopoldo Bertossim"
-      }
-    ]
-  },
-  {
-    "@id": "_:N412fa66dde634774a4c1b89e0dc25a6a",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Georg Gottlob"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8e39d4cb402d4436819fe56959804a44",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Reinhard Pichler"
+        "@value": "Julian Martin Eisenschlos"
       }
     ]
   },
@@ -1496,10 +39,10 @@
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "_:Na4f135c3304e4ac8a672c6a5d24a6cb9"
+        "@id": "http://readings.puyu.live/authors/Ian%20Horrocks"
       },
       {
-        "@id": "_:Na71ce7c4c5f149af83dfa2e8c51eb4ef"
+        "@id": "http://readings.puyu.live/authors/Peter%20F.%20Patel-Schneider"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
@@ -1529,24 +72,97 @@
     ]
   },
   {
-    "@id": "_:Na4f135c3304e4ac8a672c6a5d24a6cb9",
+    "@id": "http://readings.puyu.live/entry/2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs",
     "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
+      "http://purl.org/dc/terms/BibliographicResource"
     ],
-    "http://xmlns.com/foaf/0.1/name": [
+    "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@value": "Ian Horrocks"
+        "@id": "http://readings.puyu.live/authors/David%20Jaime%20Tena%20Cucala"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Bernardo%20Cuenca%20Grau"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Egor%20V.%20Kostylev"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Boris%20Motik"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-11"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://openreview.net/pdf?id=CrCvGNHAIrz"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Explainable GNN-Based Models over Knowledge Graphs"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-24"
       }
     ]
   },
   {
-    "@id": "_:Na71ce7c4c5f149af83dfa2e8c51eb4ef",
+    "@id": "http://readings.puyu.live/authors/Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Peter F. Patel-Schneider"
+        "@value": "Meta Fundamental AI Research Diplomacy Team (FAIR)"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Alexander%20Wei",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Alexander Wei"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Christian%20Kindermann",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Christian Kindermann"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/David%20Wu1",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David Wu1"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Polina%20Proutskova",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Polina Proutskova"
       }
     ]
   },
@@ -1557,19 +173,19 @@
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "_:N9d13fbb090e84a4a9c53167669a82c3b"
+        "@id": "http://readings.puyu.live/authors/Alessandro%20Ronca"
       },
       {
-        "@id": "_:Na3820d449bc04be887c336242db14d3d"
+        "@id": "http://readings.puyu.live/authors/Mark%20Kaminski"
       },
       {
-        "@id": "_:N201bb17d73d445e685eb075f1f2881b4"
+        "@id": "http://readings.puyu.live/authors/Bernardo%20Cuenca%20Grau"
       },
       {
-        "@id": "_:N8e895024531540cb95b3d75d01f43ac8"
+        "@id": "http://readings.puyu.live/authors/Boris%20Motik"
       },
       {
-        "@id": "_:N4badd57afbcb4eff9d397a6bb95915d6"
+        "@id": "http://readings.puyu.live/authors/Ian%20Horrocks"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
@@ -1599,113 +215,354 @@
     ]
   },
   {
-    "@id": "_:N9d13fbb090e84a4a9c53167669a82c3b",
+    "@id": "http://readings.puyu.live/authors/Reinhard%20Pichler",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Alessandro Ronca"
+        "@value": "Reinhard Pichler"
       }
     ]
   },
   {
-    "@id": "_:Na3820d449bc04be887c336242db14d3d",
+    "@id": "http://readings.puyu.live/authors/Pan%20Lu",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Mark Kaminski"
+        "@value": "Pan Lu"
       }
     ]
   },
   {
-    "@id": "_:N201bb17d73d445e685eb075f1f2881b4",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Bernardo Cuenca Grau"
-      }
-    ]
-  },
-  {
-    "@id": "_:N8e895024531540cb95b3d75d01f43ac8",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Boris Motik"
-      }
-    ]
-  },
-  {
-    "@id": "_:N4badd57afbcb4eff9d397a6bb95915d6",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ian Horrocks"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyu.live/entry/2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs",
+    "@id": "http://readings.puyu.live/entry/2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics",
     "@type": [
       "http://purl.org/dc/terms/BibliographicResource"
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "_:Nc2fcc036a1294da28685a85ca5f8a599"
+        "@id": "http://readings.puyu.live/authors/Leopoldo%20Bertossim"
       },
       {
-        "@id": "_:N7921d3ee88f948e7b3a7d4c05891df66"
+        "@id": "http://readings.puyu.live/authors/Georg%20Gottlob"
       },
       {
-        "@id": "_:Nd5cf486dddc043199721499cbfc7096b"
-      },
-      {
-        "@id": "_:N502fe488b4e24a508af1f69a314637df"
+        "@id": "http://readings.puyu.live/authors/Reinhard%20Pichler"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
       {
-        "@value": "2022-11"
+        "@value": "2019-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog"
       }
     ],
     "http://purl.org/dc/elements/1.1/source": [
       {
-        "@value": "https://openreview.net/pdf?id=CrCvGNHAIrz"
+        "@value": "https://arxiv.org/pdf/1803.06445.pdf"
       }
     ],
     "http://purl.org/dc/elements/1.1/title": [
       {
-        "@value": "Explainable GNN-Based Models over Knowledge Graphs"
+        "@value": "Datalog: Bag Semantics via Set Semantics"
       }
     ],
     "http://purl.org/dc/terms/available": [
       {
-        "@value": "2023-01-24"
+        "@value": "2023-01-28"
       }
     ]
   },
   {
-    "@id": "_:Nc2fcc036a1294da28685a85ca5f8a599",
+    "@id": "http://readings.puyu.live/authors/Colin%20Flaherty",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "David Jaime Tena Cucala"
+        "@value": "Colin Flaherty"
       }
     ]
   },
   {
-    "@id": "_:N7921d3ee88f948e7b3a7d4c05891df66",
+    "@id": "http://readings.puyu.live/entry/2023-01-30_Time-Aware_Language_Models_as_Temporal_Knowledge_Bases",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Bhuwan%20Dhingra"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Jeremy%20R.%20Cole"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Julian%20Martin%20Eisenschlos"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Daniel%20Gillick"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Jacob%20Eisenstein"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/William%20W.%20Cohen"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-04"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/2106.15110.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Time-Aware Language Models as Temporal Knowledge Bases"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-30"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Kyle%20Mahowald"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Anna%20A.%20Ivanova"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Idan%20A.%20Blank"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Nancy%20Kanwisher"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Joshua%20B.%20Tenenbaum"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Evelina%20Fedorenko"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2023-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/2301.06627.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Dissociating language and thought in large language models: a cognitive perspective"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-02-06"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Adithya%20Renduchintala",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Adithya Renduchintala"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Jeremy%20R.%20Cole",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jeremy R. Cole"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-26_A_Music_Theory_Ontology",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Sabbir%20M.%20Rashid"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/David%20De%20Roure"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Deborah%20L.%20McGuinness"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2018-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A Music Theory Ontology"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-26"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Jonathan%20Gray",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jonathan Gray"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Chuanqi%20Tan",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Chuanqi Tan"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/William%20W.%20Cohen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "William W. Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Geoffroy%20Peeters",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Geoffroy Peeters"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Evelina%20Fedorenko",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Evelina Fedorenko"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Anna%20A.%20Ivanova",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Anna A. Ivanova"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Anton%20Bakhtin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Anton Bakhtin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Joshua%20B.%20Tenenbaum",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Joshua B. Tenenbaum"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Daniel%20Gillick",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Gillick"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Hugh%20Zhang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hugh Zhang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Peter%20F.%20Patel-Schneider",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Peter F. Patel-Schneider"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Bernardo%20Cuenca%20Grau",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
@@ -1716,7 +573,51 @@
     ]
   },
   {
-    "@id": "_:Nd5cf486dddc043199721499cbfc7096b",
+    "@id": "http://readings.puyu.live/authors/Nancy%20Kanwisher",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Nancy Kanwisher"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Klaus%20Frieler",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Klaus Frieler"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/David%20De%20Roure",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David De Roure"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Dylan%20Roy",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Dylan Roy"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Egor%20V.%20Kostylev",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
@@ -1727,13 +628,1013 @@
     ]
   },
   {
-    "@id": "_:N502fe488b4e24a508af1f69a314637df",
+    "@id": "http://readings.puyu.live/authors/Boris%20Motik",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
         "@value": "Boris Motik"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Deborah%20L.%20McGuinness",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Deborah L. McGuinness"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-02-03_A_Survey_of_Syntactic_Modelling_Structures_in_Biomedical_Ontologies",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Christian%20Kindermann"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Martin%20G.%20Skj%C3%A6veland"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies. "
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A Survey of Syntactic Modelling Structures in Biomedical Ontologies"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-02-03"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-23_Human-level_play_in_the_game_of_Diplomacy_by_combining_language_models_with_strategic_reasoning",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Anton%20Bakhtin"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Noam%20Brown"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Emily%20Dinan"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Gabriele%20Farina"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Colin%20Flaherty"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Daniel%20Fried"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Andrew%20Goff"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Jonathan%20Gray"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Mojtaba%20Komeili"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Karthik%20Konath"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Minae%20Kwon"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Adam%20Lerer"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Mike%20Lewis"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Alexander%20H.%20Miller"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Sasha%20Mitts"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Adithya%20Renduchintala"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Stephen%20Roller"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Dirk%20Rowe"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Weiyan%20Shi"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Joe%20Spisak"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Alexander%20Wei"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/David%20Wu1"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Hugh%20Zhang"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Markus%20Zijlstra"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://www.science.org/doi/10.1126/science.ade9097"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Human-level play in the game of Diplomacy by combining language models with strategic reasoning"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-23"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Alexander%20H.%20Miller",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Alexander H. Miller"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Leopoldo%20Bertossim",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Leopoldo Bertossim"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Tillman%20Weyde",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Tillman Weyde"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Daniel%20Fried",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Fried"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Yixin%20Ou",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yixin Ou"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Jacob%20Eisenstein",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jacob Eisenstein"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/David%20Jaime%20Tena%20Cucala",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David Jaime Tena Cucala"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Sabbir%20M.%20Rashid",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Sabbir M. Rashid"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-29_The_Dow_Jones_Knowledge_Graph",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Ian%20Horrocks"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Jordi%20Olivares"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Valerio%20Cocchi"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Boris%20Motik"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Dylan%20Roy"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "The Dow Jones Knowledge Graph"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-29"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Xiang%20Chen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Xiang Chen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Markus%20Zijlstra",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Markus Zijlstra"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Karthik%20Konath",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Karthik Konath"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Jordi%20Olivares",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jordi Olivares"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hèlène Camille Crayencour"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Shuofei%20Qiao",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shuofei Qiao"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hengyuan Hu Athul Paul Jacob"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Ningyu%20Zhang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ningyu Zhang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Shumin%20Deng",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shumin Deng"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Olga%20Velichkina",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Olga Velichkina"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Shuofei%20Qiao"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Yixin%20Ou"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Ningyu%20Zhang"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Xiang%20Chen"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Yunzhi%20Yao"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Shumin%20Deng"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Chuanqi%20Tan"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Fei%20Huang"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Huajun%20Chen"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/abs/2212.09597"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Reasoning with Language Model Prompting: A Survey"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-19"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Wenhao%20Yu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Wenhao Yu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Kai-Wei%20Chang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Kai-Wei Chang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/George%20Konstantinidis",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "George Konstantinidis"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Joe%20Spisak",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Joe Spisak"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantics",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Charalampos%20Nikolaou"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Egor%20V.%20Kostylev"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/George%20Konstantinidis"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Mark%20Kaminski"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Bernardo%20Cuenca%20Grau"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Ian%20Horrocks"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2019-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/description": [
+      {
+        "@value": " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries."
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://doi.org/10.1016/j.artint.2019.02.003"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Foundations of ontology-based data access under bag semantics"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-28"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Sean%20Welleck",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Sean Welleck"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Minae%20Kwon",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Minae Kwon"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Liang%20Qiu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Liang Qiu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Mike%20Lewis",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mike Lewis"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Charalampos%20Nikolaou",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Charalampos Nikolaou"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Mark%20Kaminski",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mark Kaminski"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Frank%20H%C3%B6ger",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Frank Höger"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Ian%20Horrocks",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Ian Horrocks"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Martin%20Pfleiderer",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Martin Pfleiderer"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Dirk%20Rowe",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Dirk Rowe"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Andrew%20Goff",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Andrew Goff"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Idan%20A.%20Blank",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Idan A. Blank"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Huajun%20Chen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Huajun Chen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Noam%20Brown",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Noam Brown"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Weiyan%20Shi",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Weiyan Shi"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Daniel%20Wolff",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Wolff"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Kyle%20Mahowald",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Kyle Mahowald"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Gabriel%20Solis",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gabriel Solis"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Gy%C3%B6rgy%20Fazekas",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "György Fazekas"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Adam%20Lerer",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Adam Lerer"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Fei%20Huang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Fei Huang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-26_The_Jazz_Ontology_A_semantic_model_and_large-scale_RDF_repositories_for_jazz",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Polina%20Proutskova"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Daniel%20Wolff"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Gy%C3%B6rgy%20Fazekas"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Klaus%20Frieler"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Frank%20H%C3%B6ger"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Olga%20Velichkina"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Gabriel%20Solis"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Tillman%20Weyde"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Martin%20Pfleiderer"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Geoffroy%20Peeters"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Simon%20Dixon"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://doi.org/10.1016/j.websem.2022.100735"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "The Jazz Ontology: A semantic model and large-scale RDF repositories for jazz"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-26"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Mojtaba%20Komeili",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mojtaba Komeili"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Bhuwan%20Dhingra",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Bhuwan Dhingra"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Emily%20Dinan",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Emily Dinan"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Yunzhi%20Yao",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yunzhi Yao"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Georg%20Gottlob",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Georg Gottlob"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Valerio%20Cocchi",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Valerio Cocchi"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Alessandro%20Ronca",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Alessandro Ronca"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Simon%20Dixon",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Simon Dixon"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Sasha%20Mitts",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Sasha Mitts"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/entry/2023-01-19_A_Survey_of_Deep_Learning_for_Mathematical_Reasoning",
+    "@type": [
+      "http://purl.org/dc/terms/BibliographicResource"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyu.live/authors/Pan%20Lu"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Liang%20Qiu"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Wenhao%20Yu"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Sean%20Welleck"
+      },
+      {
+        "@id": "http://readings.puyu.live/authors/Kai-Wei%20Chang"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/abs/2212.10535"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A Survey of Deep Learning for Mathematical Reasoning"
+      }
+    ],
+    "http://purl.org/dc/terms/available": [
+      {
+        "@value": "2023-01-19"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyu.live/authors/Gabriele%20Farina",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gabriele Farina"
       }
     ]
   }
