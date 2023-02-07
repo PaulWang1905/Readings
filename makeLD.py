@@ -47,15 +47,14 @@ def makeLD(self):
         g.add((entry_resource, DC.source, Literal(entry.link)))
         # add the authors to the graph
         for author in entry.authors:
-            
-            # use BNode for the author, since the author is not a resource yet
-            # and no need a URI for the author yet
-            # uncomment below to use URI for the author
-            """
+     
             author_uri = authors[urlparse.quote(author)]
             author_resource = URIRef(author_uri)
-            """
-            author_resource = BNode()
+            # use BNode for the author, since the author is not a resource yet
+            # and no need a URI for the author yet
+            # uncomment below to use blank node instead of URI for the author
+            # author_resource = BNode()
+            
             g.add((author_resource, RDF.type,  FOAF.Person))
             g.add((author_resource, FOAF.name, Literal(author)))
             g.add((entry_resource, DC.creator, author_resource))
