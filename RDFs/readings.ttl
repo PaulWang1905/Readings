@@ -188,6 +188,15 @@ readings:2023-02-06_Dissociating_language_and_thought_in_large_language_models_a
     dc:title "Dissociating language and thought in large language models: a cognitive perspective" ;
     dcterms:available "2023-02-06" .
 
+readings:2023-02-10_RDF2Vec_RDF_Graph_Embeddings_for_Data_Mining a dcterms:BibliographicResource ;
+    dc:creator authors:Heiko%20Paulheim,
+        authors:Petar%20Ristoski ;
+    dc:date "2016-09" ;
+    dc:description " This paper presents RDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words, and adapts them to RDF graphs.   " ;
+    dc:source "https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30" ;
+    dc:title "RDF2Vec: RDF Graph Embeddings for Data Mining" ;
+    dcterms:available "2023-02-10" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -287,6 +296,9 @@ authors:Gy%C3%B6rgy%20Fazekas a foaf:Person ;
 authors:H%C3%A8l%C3%A8ne%20Camille%20Crayencour a foaf:Person ;
     foaf:name "Hèlène Camille Crayencour" .
 
+authors:Heiko%20Paulheim a foaf:Person ;
+    foaf:name "Heiko Paulheim" .
+
 authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob a foaf:Person ;
     foaf:name "Hengyuan Hu Athul Paul Jacob" .
 
@@ -373,6 +385,9 @@ authors:Olga%20Velichkina a foaf:Person ;
 
 authors:Pan%20Lu a foaf:Person ;
     foaf:name "Pan Lu" .
+
+authors:Petar%20Ristoski a foaf:Person ;
+    foaf:name "Petar Ristoski" .
 
 authors:Peter%20F.%20Patel-Schneider a foaf:Person ;
     foaf:name "Peter F. Patel-Schneider" .
