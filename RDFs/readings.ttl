@@ -197,6 +197,15 @@ readings:2023-02-10_RDF2Vec_RDF_Graph_Embeddings_for_Data_Mining a dcterms:Bibli
     dc:title "RDF2Vec: RDF Graph Embeddings for Data Mining" ;
     dcterms:available "2023-02-10" .
 
+readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narratives a dcterms:BibliographicResource ;
+    dc:creator authors:Elliott%20Ash,
+        authors:Germain%20Gauthier,
+        authors:Philine%20Widmer ;
+    dc:date "2022-05" ;
+    dc:source "https://arxiv.org/pdf/2108.01720.pdf" ;
+    dc:title "RELATIO: Text Semantics Capture Political and Economic Narratives" ;
+    dcterms:available "2023-02-13" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -263,6 +272,9 @@ authors:Dirk%20Rowe a foaf:Person ;
 authors:Dylan%20Roy a foaf:Person ;
     foaf:name "Dylan Roy" .
 
+authors:Elliott%20Ash a foaf:Person ;
+    foaf:name "Elliott Ash" .
+
 authors:Emily%20Dinan a foaf:Person ;
     foaf:name "Emily Dinan" .
 
@@ -289,6 +301,9 @@ authors:Georg%20Gottlob a foaf:Person ;
 
 authors:George%20Konstantinidis a foaf:Person ;
     foaf:name "George Konstantinidis" .
+
+authors:Germain%20Gauthier a foaf:Person ;
+    foaf:name "Germain Gauthier" .
 
 authors:Gy%C3%B6rgy%20Fazekas a foaf:Person ;
     foaf:name "György Fazekas" .
@@ -391,6 +406,9 @@ authors:Petar%20Ristoski a foaf:Person ;
 
 authors:Peter%20F.%20Patel-Schneider a foaf:Person ;
     foaf:name "Peter F. Patel-Schneider" .
+
+authors:Philine%20Widmer a foaf:Person ;
+    foaf:name "Philine Widmer" .
 
 authors:Polina%20Proutskova a foaf:Person ;
     foaf:name "Polina Proutskova" .
