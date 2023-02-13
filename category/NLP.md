@@ -1,3 +1,8 @@
+## 2023-02-13
+
+[**RELATIO: Text Semantics Capture Political and Economic Narratives**](https://arxiv.org/pdf/2108.01720.pdf)  
+*Elliott Ash, Germain Gauthier, Philine Widmer.* 2022-05.  
+
 
 ## 2023-02-06
 [**Dissociating language and thought in large language models: a cognitive perspective**](https://arxiv.org/pdf/2301.06627.pdf)   
