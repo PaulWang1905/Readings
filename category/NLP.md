@@ -1,3 +1,8 @@
+## 2023-02-20  
+
+[**Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review**](https://arxiv.org/pdf/2202.12205.pdf)  
+*Kyle Hamilton, Aparna Nayak, Bojan Božić, Luca Longo.* 2022.06.  
+
 ## 2023-02-13
 
 [**RELATIO: Text Semantics Capture Political and Economic Narratives**](https://arxiv.org/pdf/2108.01720.pdf)  
