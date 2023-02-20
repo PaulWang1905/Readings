@@ -206,6 +206,16 @@ readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narrat
     dc:title "RELATIO: Text Semantics Capture Political and Economic Narratives" ;
     dcterms:available "2023-02-13" .
 
+<http://readings.puyu.live/entry/2023-02-20_Is_Neuro-Symbolic_AI_Meeting_its_Promises_in_Natural_Language_Processing?_A_Structured_Review> a dcterms:BibliographicResource ;
+    dc:creator authors:Aparna%20Nayak,
+        authors:Bojan%20Bo%C5%BEi%C4%87,
+        authors:Kyle%20Hamilton,
+        authors:Luca%20Longo ;
+    dc:date "None" ;
+    dc:source "https://arxiv.org/pdf/2202.12205.pdf" ;
+    dc:title "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review" ;
+    dcterms:available "2023-02-20" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -230,8 +240,14 @@ authors:Anna%20A.%20Ivanova a foaf:Person ;
 authors:Anton%20Bakhtin a foaf:Person ;
     foaf:name "Anton Bakhtin" .
 
+authors:Aparna%20Nayak a foaf:Person ;
+    foaf:name "Aparna Nayak" .
+
 authors:Bhuwan%20Dhingra a foaf:Person ;
     foaf:name "Bhuwan Dhingra" .
+
+authors:Bojan%20Bo%C5%BEi%C4%87 a foaf:Person ;
+    foaf:name "Bojan Božić" .
 
 authors:Charalampos%20Nikolaou a foaf:Person ;
     foaf:name "Charalampos Nikolaou" .
@@ -356,6 +372,9 @@ authors:Karthik%20Konath a foaf:Person ;
 authors:Klaus%20Frieler a foaf:Person ;
     foaf:name "Klaus Frieler" .
 
+authors:Kyle%20Hamilton a foaf:Person ;
+    foaf:name "Kyle Hamilton" .
+
 authors:Kyle%20Mahowald a foaf:Person ;
     foaf:name "Kyle Mahowald" .
 
@@ -364,6 +383,9 @@ authors:Leopoldo%20Bertossim a foaf:Person ;
 
 authors:Liang%20Qiu a foaf:Person ;
     foaf:name "Liang Qiu" .
+
+authors:Luca%20Longo a foaf:Person ;
+    foaf:name "Luca Longo" .
 
 authors:Markus%20Zijlstra a foaf:Person ;
     foaf:name "Markus Zijlstra" .
