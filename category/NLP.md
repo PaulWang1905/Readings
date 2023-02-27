@@ -1,3 +1,7 @@
+## 2023-02-27  
+[**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**](https://arxiv.org/pdf/2302.06476.pdf)  
+*Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang.* 2023.02.  
+
 ## 2023-02-20  
 
 [**Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review**](https://arxiv.org/pdf/2202.12205.pdf)  
