@@ -216,6 +216,18 @@ readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narrat
     dc:title "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review" ;
     dcterms:available "2023-02-20" .
 
+<http://readings.puyu.live/entry/2023-02-27_Is_ChatGPT_a_General-Purpose_Natural_Language_Processing_Task_Solver?> a dcterms:BibliographicResource ;
+    dc:creator authors:Aston%20Zhang,
+        authors:Chengwei%20Qin,
+        authors:Diyi%20Yang,
+        authors:Jiaao%20Chen,
+        authors:Michihiro%20Yasunaga,
+        authors:Zhuosheng%20Zhang ;
+    dc:date "None" ;
+    dc:source "https://arxiv.org/pdf/2302.06476.pdf" ;
+    dc:title "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?" ;
+    dcterms:available "2023-02-27" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -243,6 +255,9 @@ authors:Anton%20Bakhtin a foaf:Person ;
 authors:Aparna%20Nayak a foaf:Person ;
     foaf:name "Aparna Nayak" .
 
+authors:Aston%20Zhang a foaf:Person ;
+    foaf:name "Aston Zhang" .
+
 authors:Bhuwan%20Dhingra a foaf:Person ;
     foaf:name "Bhuwan Dhingra" .
 
@@ -251,6 +266,9 @@ authors:Bojan%20Bo%C5%BEi%C4%87 a foaf:Person ;
 
 authors:Charalampos%20Nikolaou a foaf:Person ;
     foaf:name "Charalampos Nikolaou" .
+
+authors:Chengwei%20Qin a foaf:Person ;
+    foaf:name "Chengwei Qin" .
 
 authors:Christian%20Kindermann a foaf:Person ;
     foaf:name "Christian Kindermann" .
@@ -284,6 +302,9 @@ authors:Deborah%20L.%20McGuinness a foaf:Person ;
 
 authors:Dirk%20Rowe a foaf:Person ;
     foaf:name "Dirk Rowe" .
+
+authors:Diyi%20Yang a foaf:Person ;
+    foaf:name "Diyi Yang" .
 
 authors:Dylan%20Roy a foaf:Person ;
     foaf:name "Dylan Roy" .
@@ -348,6 +369,9 @@ authors:Jacob%20Eisenstein a foaf:Person ;
 authors:Jeremy%20R.%20Cole a foaf:Person ;
     foaf:name "Jeremy R. Cole" .
 
+authors:Jiaao%20Chen a foaf:Person ;
+    foaf:name "Jiaao Chen" .
+
 authors:Joe%20Spisak a foaf:Person ;
     foaf:name "Joe Spisak" .
 
@@ -398,6 +422,9 @@ authors:Martin%20Pfleiderer a foaf:Person ;
 
 authors:Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29 a foaf:Person ;
     foaf:name "Meta Fundamental AI Research Diplomacy Team (FAIR)" .
+
+authors:Michihiro%20Yasunaga a foaf:Person ;
+    foaf:name "Michihiro Yasunaga" .
 
 authors:Mike%20Lewis a foaf:Person ;
     foaf:name "Mike Lewis" .
@@ -482,6 +509,9 @@ authors:Yixin%20Ou a foaf:Person ;
 
 authors:Yunzhi%20Yao a foaf:Person ;
     foaf:name "Yunzhi Yao" .
+
+authors:Zhuosheng%20Zhang a foaf:Person ;
+    foaf:name "Zhuosheng Zhang" .
 
 authors:Egor%20V.%20Kostylev a foaf:Person ;
     foaf:name "Egor V. Kostylev" .
