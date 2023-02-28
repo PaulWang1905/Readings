@@ -228,6 +228,15 @@ readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narrat
     dc:title "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?" ;
     dcterms:available "2023-02-27" .
 
+readings:2023-02-28_Background_knowledge_in_ontology_matching_A_survey a dcterms:BibliographicResource ;
+    dc:creator authors:Heiko%20Paulheim,
+        authors:Jan%20Portisch,
+        authors:Michael%20Hladik ;
+    dc:date "None" ;
+    dc:source "https://content.iospress.com/download/semantic-web/sw223085?id=semantic-web%2Fsw223085" ;
+    dc:title "Background knowledge in ontology matching: A survey" ;
+    dcterms:available "2023-02-28" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -348,9 +357,6 @@ authors:Gy%C3%B6rgy%20Fazekas a foaf:Person ;
 authors:H%C3%A8l%C3%A8ne%20Camille%20Crayencour a foaf:Person ;
     foaf:name "Hèlène Camille Crayencour" .
 
-authors:Heiko%20Paulheim a foaf:Person ;
-    foaf:name "Heiko Paulheim" .
-
 authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob a foaf:Person ;
     foaf:name "Hengyuan Hu Athul Paul Jacob" .
 
@@ -365,6 +371,9 @@ authors:Idan%20A.%20Blank a foaf:Person ;
 
 authors:Jacob%20Eisenstein a foaf:Person ;
     foaf:name "Jacob Eisenstein" .
+
+authors:Jan%20Portisch a foaf:Person ;
+    foaf:name "Jan Portisch" .
 
 authors:Jeremy%20R.%20Cole a foaf:Person ;
     foaf:name "Jeremy R. Cole" .
@@ -422,6 +431,9 @@ authors:Martin%20Pfleiderer a foaf:Person ;
 
 authors:Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29 a foaf:Person ;
     foaf:name "Meta Fundamental AI Research Diplomacy Team (FAIR)" .
+
+authors:Michael%20Hladik a foaf:Person ;
+    foaf:name "Michael Hladik" .
 
 authors:Michihiro%20Yasunaga a foaf:Person ;
     foaf:name "Michihiro Yasunaga" .
@@ -515,6 +527,9 @@ authors:Zhuosheng%20Zhang a foaf:Person ;
 
 authors:Egor%20V.%20Kostylev a foaf:Person ;
     foaf:name "Egor V. Kostylev" .
+
+authors:Heiko%20Paulheim a foaf:Person ;
+    foaf:name "Heiko Paulheim" .
 
 authors:Mark%20Kaminski a foaf:Person ;
     foaf:name "Mark Kaminski" .
