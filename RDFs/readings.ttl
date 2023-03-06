@@ -211,7 +211,7 @@ readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narrat
         authors:Bojan%20Bo%C5%BEi%C4%87,
         authors:Kyle%20Hamilton,
         authors:Luca%20Longo ;
-    dc:date "None" ;
+    dc:date "2022-06" ;
     dc:source "https://arxiv.org/pdf/2202.12205.pdf" ;
     dc:title "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review" ;
     dcterms:available "2023-02-20" .
@@ -223,7 +223,7 @@ readings:2023-02-13_RELATIO_Text_Semantics_Capture_Political_and_Economic_Narrat
         authors:Jiaao%20Chen,
         authors:Michihiro%20Yasunaga,
         authors:Zhuosheng%20Zhang ;
-    dc:date "None" ;
+    dc:date "2023-02" ;
     dc:source "https://arxiv.org/pdf/2302.06476.pdf" ;
     dc:title "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?" ;
     dcterms:available "2023-02-27" .
@@ -236,6 +236,19 @@ readings:2023-02-28_Background_knowledge_in_ontology_matching_A_survey a dcterms
     dc:source "https://content.iospress.com/download/semantic-web/sw223085?id=semantic-web%2Fsw223085" ;
     dc:title "Background knowledge in ontology matching: A survey" ;
     dcterms:available "2023-02-28" .
+
+readings:2023-03-06_A_real-time_platform_for_contextualized_conspiracy_theory_analysis a dcterms:BibliographicResource ;
+    dc:creator authors:David%20Chong,
+        authors:Erl%20Lee,
+        authors:Matthew%20Fan,
+        authors:Pavan%20Holur,
+        authors:Shadi%20Shahsavari,
+        authors:Timothy%20Tangherlini,
+        authors:Vwani%20Roychowdhury ;
+    dc:date "2021-12" ;
+    dc:source "https://sentic.net/sentire2021chong.pdf" ;
+    dc:title "A real-time platform for contextualized conspiracy theory analysis" ;
+    dcterms:available "2023-03-06" .
 
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
@@ -297,6 +310,9 @@ authors:Daniel%20Gillick a foaf:Person ;
 authors:Daniel%20Wolff a foaf:Person ;
     foaf:name "Daniel Wolff" .
 
+authors:David%20Chong a foaf:Person ;
+    foaf:name "David Chong" .
+
 authors:David%20De%20Roure a foaf:Person ;
     foaf:name "David De Roure" .
 
@@ -323,6 +339,9 @@ authors:Elliott%20Ash a foaf:Person ;
 
 authors:Emily%20Dinan a foaf:Person ;
     foaf:name "Emily Dinan" .
+
+authors:Erl%20Lee a foaf:Person ;
+    foaf:name "Erl Lee" .
 
 authors:Evelina%20Fedorenko a foaf:Person ;
     foaf:name "Evelina Fedorenko" .
@@ -429,6 +448,9 @@ authors:Martin%20G.%20Skj%C3%A6veland a foaf:Person ;
 authors:Martin%20Pfleiderer a foaf:Person ;
     foaf:name "Martin Pfleiderer" .
 
+authors:Matthew%20Fan a foaf:Person ;
+    foaf:name "Matthew Fan" .
+
 authors:Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29 a foaf:Person ;
     foaf:name "Meta Fundamental AI Research Diplomacy Team (FAIR)" .
 
@@ -462,6 +484,9 @@ authors:Olga%20Velichkina a foaf:Person ;
 authors:Pan%20Lu a foaf:Person ;
     foaf:name "Pan Lu" .
 
+authors:Pavan%20Holur a foaf:Person ;
+    foaf:name "Pavan Holur" .
+
 authors:Petar%20Ristoski a foaf:Person ;
     foaf:name "Petar Ristoski" .
 
@@ -486,6 +511,9 @@ authors:Sasha%20Mitts a foaf:Person ;
 authors:Sean%20Welleck a foaf:Person ;
     foaf:name "Sean Welleck" .
 
+authors:Shadi%20Shahsavari a foaf:Person ;
+    foaf:name "Shadi Shahsavari" .
+
 authors:Shumin%20Deng a foaf:Person ;
     foaf:name "Shumin Deng" .
 
@@ -501,8 +529,14 @@ authors:Stephen%20Roller a foaf:Person ;
 authors:Tillman%20Weyde a foaf:Person ;
     foaf:name "Tillman Weyde" .
 
+authors:Timothy%20Tangherlini a foaf:Person ;
+    foaf:name "Timothy Tangherlini" .
+
 authors:Valerio%20Cocchi a foaf:Person ;
     foaf:name "Valerio Cocchi" .
+
+authors:Vwani%20Roychowdhury a foaf:Person ;
+    foaf:name "Vwani Roychowdhury" .
 
 authors:Weiyan%20Shi a foaf:Person ;
     foaf:name "Weiyan Shi" .
