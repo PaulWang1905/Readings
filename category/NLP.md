@@ -1,11 +1,16 @@
+## 2023-03-06  
+
+[**A real-time platform for contextualized conspiracy theory analysis**](https://sentic.net/sentire2021chong.pdf)  
+*David Chong, Erl Lee, Matthew Fan, Pavan Holur, Shadi Shahsavari, Timothy Tangherlini, Vwani Roychowdhury.* 2021-12.
+
 ## 2023-02-27  
 [**Is ChatGPT a General-Purpose Natural Language Processing Task Solver?**](https://arxiv.org/pdf/2302.06476.pdf)  
-*Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang.* 2023.02.  
+*Chengwei Qin, Aston Zhang, Zhuosheng Zhang, Jiaao Chen, Michihiro Yasunaga, Diyi Yang.* 2023-02.  
 
 ## 2023-02-20  
 
 [**Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review**](https://arxiv.org/pdf/2202.12205.pdf)  
-*Kyle Hamilton, Aparna Nayak, Bojan Božić, Luca Longo.* 2022.06.  
+*Kyle Hamilton, Aparna Nayak, Bojan Božić, Luca Longo.* 2022-06.  
 
 ## 2023-02-13
 
