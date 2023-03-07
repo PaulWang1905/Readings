@@ -250,6 +250,18 @@ readings:2023-03-06_A_real-time_platform_for_contextualized_conspiracy_theory_an
     dc:title "A real-time platform for contextualized conspiracy theory analysis" ;
     dcterms:available "2023-03-06" .
 
+readings:2023-03-07_Knowledge-aware_Zero-Shot_Learning_Survey_and_Perspective a dcterms:BibliographicResource ;
+    dc:creator authors:Huajun%20Chen,
+        authors:Ian%20Horrocks,
+        authors:Jeff%20Z.%20Pan,
+        authors:Jiaoyan%20Chen,
+        authors:Yuxia%20Geng,
+        authors:Zhuo%20Chen ;
+    dc:date "2021-05" ;
+    dc:source "https://arxiv.org/pdf/2103.00070.pdf" ;
+    dc:title "Knowledge-aware Zero-Shot Learning: Survey and Perspective" ;
+    dcterms:available "2023-03-07" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -379,9 +391,6 @@ authors:H%C3%A8l%C3%A8ne%20Camille%20Crayencour a foaf:Person ;
 authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob a foaf:Person ;
     foaf:name "Hengyuan Hu Athul Paul Jacob" .
 
-authors:Huajun%20Chen a foaf:Person ;
-    foaf:name "Huajun Chen" .
-
 authors:Hugh%20Zhang a foaf:Person ;
     foaf:name "Hugh Zhang" .
 
@@ -394,11 +403,17 @@ authors:Jacob%20Eisenstein a foaf:Person ;
 authors:Jan%20Portisch a foaf:Person ;
     foaf:name "Jan Portisch" .
 
+authors:Jeff%20Z.%20Pan a foaf:Person ;
+    foaf:name "Jeff Z. Pan" .
+
 authors:Jeremy%20R.%20Cole a foaf:Person ;
     foaf:name "Jeremy R. Cole" .
 
 authors:Jiaao%20Chen a foaf:Person ;
     foaf:name "Jiaao Chen" .
+
+authors:Jiaoyan%20Chen a foaf:Person ;
+    foaf:name "Jiaoyan Chen" .
 
 authors:Joe%20Spisak a foaf:Person ;
     foaf:name "Joe Spisak" .
@@ -556,6 +571,12 @@ authors:Yixin%20Ou a foaf:Person ;
 authors:Yunzhi%20Yao a foaf:Person ;
     foaf:name "Yunzhi Yao" .
 
+authors:Yuxia%20Geng a foaf:Person ;
+    foaf:name "Yuxia Geng" .
+
+authors:Zhuo%20Chen a foaf:Person ;
+    foaf:name "Zhuo Chen" .
+
 authors:Zhuosheng%20Zhang a foaf:Person ;
     foaf:name "Zhuosheng Zhang" .
 
@@ -564,6 +585,9 @@ authors:Egor%20V.%20Kostylev a foaf:Person ;
 
 authors:Heiko%20Paulheim a foaf:Person ;
     foaf:name "Heiko Paulheim" .
+
+authors:Huajun%20Chen a foaf:Person ;
+    foaf:name "Huajun Chen" .
 
 authors:Mark%20Kaminski a foaf:Person ;
     foaf:name "Mark Kaminski" .
