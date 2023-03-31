@@ -1,3 +1,8 @@
+## 2023-03-31  
+
+[**LLaMA: Open and Efficient Foundation Language Models**](https://arxiv.org/abs/2302.13971)  
+*Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, Aurelien Rodriguez, Armand Joulin, Edouard Grave, Guillaume Lample.* 2023-02.
+
 ## 2023-03-06  
 
 [**A real-time platform for contextualized conspiracy theory analysis**](https://sentic.net/sentire2021chong.pdf)  
