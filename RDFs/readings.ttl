@@ -262,6 +262,26 @@ readings:2023-03-07_Knowledge-aware_Zero-Shot_Learning_Survey_and_Perspective a 
     dc:title "Knowledge-aware Zero-Shot Learning: Survey and Perspective" ;
     dcterms:available "2023-03-07" .
 
+readings:2023-03-31_LLaMA_Open_and_Efficient_Foundation_Language_Models a dcterms:BibliographicResource ;
+    dc:creator authors:Armand%20Joulin,
+        authors:Aurelien%20Rodriguez,
+        authors:Baptiste%20Rozi%C3%A8re,
+        authors:Edouard%20Grave,
+        authors:Eric%20Hambro,
+        authors:Faisal%20Azhar,
+        authors:Gautier%20Izacard,
+        authors:Guillaume%20Lample,
+        authors:Hugo%20Touvron,
+        authors:Marie-Anne%20Lachaux,
+        authors:Naman%20Goyal,
+        authors:Thibaut%20Lavril,
+        authors:Timoth%C3%A9e%20Lacroix,
+        authors:Xavier%20Martinet ;
+    dc:date "2023-02" ;
+    dc:source "https://arxiv.org/abs/2302.13971" ;
+    dc:title "LLaMA: Open and Efficient Foundation Language Models" ;
+    dcterms:available "2023-03-31" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -289,8 +309,17 @@ authors:Anton%20Bakhtin a foaf:Person ;
 authors:Aparna%20Nayak a foaf:Person ;
     foaf:name "Aparna Nayak" .
 
+authors:Armand%20Joulin a foaf:Person ;
+    foaf:name "Armand Joulin" .
+
 authors:Aston%20Zhang a foaf:Person ;
     foaf:name "Aston Zhang" .
+
+authors:Aurelien%20Rodriguez a foaf:Person ;
+    foaf:name "Aurelien Rodriguez" .
+
+authors:Baptiste%20Rozi%C3%A8re a foaf:Person ;
+    foaf:name "Baptiste Rozière" .
 
 authors:Bhuwan%20Dhingra a foaf:Person ;
     foaf:name "Bhuwan Dhingra" .
@@ -346,17 +375,26 @@ authors:Diyi%20Yang a foaf:Person ;
 authors:Dylan%20Roy a foaf:Person ;
     foaf:name "Dylan Roy" .
 
+authors:Edouard%20Grave a foaf:Person ;
+    foaf:name "Edouard Grave" .
+
 authors:Elliott%20Ash a foaf:Person ;
     foaf:name "Elliott Ash" .
 
 authors:Emily%20Dinan a foaf:Person ;
     foaf:name "Emily Dinan" .
 
+authors:Eric%20Hambro a foaf:Person ;
+    foaf:name "Eric Hambro" .
+
 authors:Erl%20Lee a foaf:Person ;
     foaf:name "Erl Lee" .
 
 authors:Evelina%20Fedorenko a foaf:Person ;
     foaf:name "Evelina Fedorenko" .
+
+authors:Faisal%20Azhar a foaf:Person ;
+    foaf:name "Faisal Azhar" .
 
 authors:Fei%20Huang a foaf:Person ;
     foaf:name "Fei Huang" .
@@ -370,6 +408,9 @@ authors:Gabriel%20Solis a foaf:Person ;
 authors:Gabriele%20Farina a foaf:Person ;
     foaf:name "Gabriele Farina" .
 
+authors:Gautier%20Izacard a foaf:Person ;
+    foaf:name "Gautier Izacard" .
+
 authors:Geoffroy%20Peeters a foaf:Person ;
     foaf:name "Geoffroy Peeters" .
 
@@ -382,6 +423,9 @@ authors:George%20Konstantinidis a foaf:Person ;
 authors:Germain%20Gauthier a foaf:Person ;
     foaf:name "Germain Gauthier" .
 
+authors:Guillaume%20Lample a foaf:Person ;
+    foaf:name "Guillaume Lample" .
+
 authors:Gy%C3%B6rgy%20Fazekas a foaf:Person ;
     foaf:name "György Fazekas" .
 
@@ -393,6 +437,9 @@ authors:Hengyuan%20Hu%20Athul%20Paul%20Jacob a foaf:Person ;
 
 authors:Hugh%20Zhang a foaf:Person ;
     foaf:name "Hugh Zhang" .
+
+authors:Hugo%20Touvron a foaf:Person ;
+    foaf:name "Hugo Touvron" .
 
 authors:Idan%20A.%20Blank a foaf:Person ;
     foaf:name "Idan A. Blank" .
@@ -454,6 +501,9 @@ authors:Liang%20Qiu a foaf:Person ;
 authors:Luca%20Longo a foaf:Person ;
     foaf:name "Luca Longo" .
 
+authors:Marie-Anne%20Lachaux a foaf:Person ;
+    foaf:name "Marie-Anne Lachaux" .
+
 authors:Markus%20Zijlstra a foaf:Person ;
     foaf:name "Markus Zijlstra" .
 
@@ -483,6 +533,9 @@ authors:Minae%20Kwon a foaf:Person ;
 
 authors:Mojtaba%20Komeili a foaf:Person ;
     foaf:name "Mojtaba Komeili" .
+
+authors:Naman%20Goyal a foaf:Person ;
+    foaf:name "Naman Goyal" .
 
 authors:Nancy%20Kanwisher a foaf:Person ;
     foaf:name "Nancy Kanwisher" .
@@ -541,8 +594,14 @@ authors:Simon%20Dixon a foaf:Person ;
 authors:Stephen%20Roller a foaf:Person ;
     foaf:name "Stephen Roller" .
 
+authors:Thibaut%20Lavril a foaf:Person ;
+    foaf:name "Thibaut Lavril" .
+
 authors:Tillman%20Weyde a foaf:Person ;
     foaf:name "Tillman Weyde" .
+
+authors:Timoth%C3%A9e%20Lacroix a foaf:Person ;
+    foaf:name "Timothée Lacroix" .
 
 authors:Timothy%20Tangherlini a foaf:Person ;
     foaf:name "Timothy Tangherlini" .
@@ -561,6 +620,9 @@ authors:Wenhao%20Yu a foaf:Person ;
 
 authors:William%20W.%20Cohen a foaf:Person ;
     foaf:name "William W. Cohen" .
+
+authors:Xavier%20Martinet a foaf:Person ;
+    foaf:name "Xavier Martinet" .
 
 authors:Xiang%20Chen a foaf:Person ;
     foaf:name "Xiang Chen" .
