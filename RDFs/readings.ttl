@@ -282,6 +282,14 @@ readings:2023-03-31_LLaMA_Open_and_Efficient_Foundation_Language_Models a dcterm
     dc:title "LLaMA: Open and Efficient Foundation Language Models" ;
     dcterms:available "2023-03-31" .
 
+readings:2023-08-11_Ontology_mapping_The_state_of_the_art a dcterms:BibliographicResource ;
+    dc:creator authors:Marco%20Schorlemmer,
+        authors:Yannis%20Kalfoglou ;
+    dc:date "2003-01" ;
+    dc:source "https://doi.org/10.1017/S0269888903000651" ;
+    dc:title "Ontology mapping: The state of the art" ;
+    dcterms:available "2023-08-11" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -501,6 +509,9 @@ authors:Liang%20Qiu a foaf:Person ;
 authors:Luca%20Longo a foaf:Person ;
     foaf:name "Luca Longo" .
 
+authors:Marco%20Schorlemmer a foaf:Person ;
+    foaf:name "Marco Schorlemmer" .
+
 authors:Marie-Anne%20Lachaux a foaf:Person ;
     foaf:name "Marie-Anne Lachaux" .
 
@@ -626,6 +637,9 @@ authors:Xavier%20Martinet a foaf:Person ;
 
 authors:Xiang%20Chen a foaf:Person ;
     foaf:name "Xiang Chen" .
+
+authors:Yannis%20Kalfoglou a foaf:Person ;
+    foaf:name "Yannis Kalfoglou" .
 
 authors:Yixin%20Ou a foaf:Person ;
     foaf:name "Yixin Ou" .
