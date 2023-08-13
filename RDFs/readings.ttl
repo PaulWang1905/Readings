@@ -286,6 +286,7 @@ readings:2023-08-11_Ontology_mapping_The_state_of_the_art a dcterms:Bibliographi
     dc:creator authors:Marco%20Schorlemmer,
         authors:Yannis%20Kalfoglou ;
     dc:date "2003-01" ;
+    dc:description " This is a survey on ontology mapping. " ;
     dc:source "https://doi.org/10.1017/S0269888903000651" ;
     dc:title "Ontology mapping: The state of the art" ;
     dcterms:available "2023-08-11" .
