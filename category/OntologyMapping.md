@@ -7,5 +7,5 @@
 
 ## 2023-08-13  
 [**Foundational ontologies meet ontology matching: A survey**](https://content.iospress.com/articles/semantic-web/sw210447)  
-*Daniela Schmidt, Giancarlo Guizzardi, Adam Pease, Cassia Trojahn dos Santos, Renata Vieira.* 2022-5.  
+*Daniela Schmidt, Giancarlo Guizzardi, Adam Pease, Cassia Trojahn dos Santos, Renata Vieira.* 2022-05.
 > This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. 
