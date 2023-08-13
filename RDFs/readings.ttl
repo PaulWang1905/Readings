@@ -296,7 +296,7 @@ readings:2023-08-13_Foundational_ontologies_meet_ontology_matching_A_survey a dc
         authors:Daniela%20Schmidt,
         authors:Giancarlo%20Guizzardi,
         authors:Renata%20Vieira ;
-    dc:date "None" ;
+    dc:date "2022-05" ;
     dc:description " This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. " ;
     dc:source "https://content.iospress.com/articles/semantic-web/sw210447" ;
     dc:title "Foundational ontologies meet ontology matching: A survey" ;
