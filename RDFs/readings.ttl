@@ -290,8 +290,23 @@ readings:2023-08-11_Ontology_mapping_The_state_of_the_art a dcterms:Bibliographi
     dc:title "Ontology mapping: The state of the art" ;
     dcterms:available "2023-08-11" .
 
+readings:2023-08-13_Foundational_ontologies_meet_ontology_matching_A_survey a dcterms:BibliographicResource ;
+    dc:creator authors:Adam%20Pease,
+        authors:Cassia%20Trojahn%20dos%20Santos,
+        authors:Daniela%20Schmidt,
+        authors:Giancarlo%20Guizzardi,
+        authors:Renata%20Vieira ;
+    dc:date "None" ;
+    dc:description " This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. " ;
+    dc:source "https://content.iospress.com/articles/semantic-web/sw210447" ;
+    dc:title "Foundational ontologies meet ontology matching: A survey" ;
+    dcterms:available "2023-08-13" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
+
+authors:Adam%20Pease a foaf:Person ;
+    foaf:name "Adam Pease" .
 
 authors:Adithya%20Renduchintala a foaf:Person ;
     foaf:name "Adithya Renduchintala" .
@@ -335,6 +350,9 @@ authors:Bhuwan%20Dhingra a foaf:Person ;
 authors:Bojan%20Bo%C5%BEi%C4%87 a foaf:Person ;
     foaf:name "Bojan Božić" .
 
+authors:Cassia%20Trojahn%20dos%20Santos a foaf:Person ;
+    foaf:name "Cassia Trojahn dos Santos" .
+
 authors:Charalampos%20Nikolaou a foaf:Person ;
     foaf:name "Charalampos Nikolaou" .
 
@@ -358,6 +376,9 @@ authors:Daniel%20Gillick a foaf:Person ;
 
 authors:Daniel%20Wolff a foaf:Person ;
     foaf:name "Daniel Wolff" .
+
+authors:Daniela%20Schmidt a foaf:Person ;
+    foaf:name "Daniela Schmidt" .
 
 authors:David%20Chong a foaf:Person ;
     foaf:name "David Chong" .
@@ -430,6 +451,9 @@ authors:George%20Konstantinidis a foaf:Person ;
 
 authors:Germain%20Gauthier a foaf:Person ;
     foaf:name "Germain Gauthier" .
+
+authors:Giancarlo%20Guizzardi a foaf:Person ;
+    foaf:name "Giancarlo Guizzardi" .
 
 authors:Guillaume%20Lample a foaf:Person ;
     foaf:name "Guillaume Lample" .
@@ -580,6 +604,9 @@ authors:Polina%20Proutskova a foaf:Person ;
 
 authors:Reinhard%20Pichler a foaf:Person ;
     foaf:name "Reinhard Pichler" .
+
+authors:Renata%20Vieira a foaf:Person ;
+    foaf:name "Renata Vieira" .
 
 authors:Sabbir%20M.%20Rashid a foaf:Person ;
     foaf:name "Sabbir M. Rashid" .
