@@ -315,6 +315,15 @@ readings:2023-09-08_PyGraft_Configurable_Generation_of_Schemas_and_Knowledge_Gra
     dc:title "PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips" ;
     dcterms:available "2023-09-08" .
 
+readings:2024-06-14_Entity_Tracking_in_Language_Models a dcterms:BibliographicResource ;
+    dc:creator authors:Najoung%20Kim,
+        authors:Sebastian%20Schuster ;
+    dc:date "2023-09" ;
+    dc:description " Keeping track of how states of entities change as a text or dialog unfolds is a key prerequisite to discourse understanding. Yet, there have been few systematic investigations into the ability of large language models (LLMs) to track discourse entities. In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations. We use this task to first investigate whether Flan-T5, GPT-3 and GPT-3.5 can track the state of entities, and find that only GPT-3.5 models, which have been pretrained on large amounts of code, exhibit this ability. We then investigate whether smaller models pretrained primarily on text can learn to track entities, through finetuning T5 on several training/evaluation splits. While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking. Taken together, these results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface." ;
+    dc:source "https://aclanthology.org/2023.acl-long.213.pdf" ;
+    dc:title "Entity Tracking in Language Models" ;
+    dcterms:available "2024-06-14" .
+
 authors:Adam%20Lerer a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -591,6 +600,9 @@ authors:Minae%20Kwon a foaf:Person ;
 authors:Mojtaba%20Komeili a foaf:Person ;
     foaf:name "Mojtaba Komeili" .
 
+authors:Najoung%20Kim a foaf:Person ;
+    foaf:name "Najoung Kim" .
+
 authors:Naman%20Goyal a foaf:Person ;
     foaf:name "Naman Goyal" .
 
@@ -644,6 +656,9 @@ authors:Sasha%20Mitts a foaf:Person ;
 
 authors:Sean%20Welleck a foaf:Person ;
     foaf:name "Sean Welleck" .
+
+authors:Sebastian%20Schuster a foaf:Person ;
+    foaf:name "Sebastian Schuster" .
 
 authors:Shadi%20Shahsavari a foaf:Person ;
     foaf:name "Shadi Shahsavari" .
