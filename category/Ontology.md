@@ -6,7 +6,9 @@
 
 [**A Survey of Syntactic Modelling Structures in Biomedical Ontologies**](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26)  
 *Christian Kindermann, Martin G. Skjæveland.* 2022-10.  
-> This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies. 
+> This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies.
+
+Subject: Ontology
 ## 2023-01-31
 [**Reducing OWL Entailment to Description Logic Satisfiability**](https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf)  
 *Ian Horrocks, Peter F. Patel-Schneider.* 2003-10.
