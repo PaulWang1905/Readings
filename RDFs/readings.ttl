@@ -174,8 +174,9 @@
     dc:date "2022-10" ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26" ;
     dc:title "A Survey of Syntactic Modelling Structures in Biomedical Ontologies" ;
+    dcterms:subject "Ontology" ;
     readings:dateRead "2023-02-03" ;
-    rdfs:comment " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies. " .
+    rdfs:comment " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies." .
 
 <http://readings.puyuwang.org/entry/2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective> a bibo:AcademicArticle ;
     dc:creator <http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova>,
