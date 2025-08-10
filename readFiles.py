@@ -6,18 +6,24 @@ from pathlib import Path
 import re
 from rdflib import Namespace
 
-custom = Namespace("http://readings.puyu.live/entry/")
+custom = Namespace("http://readings.puyuwang.org/entry/")
 
+read_date = re.compile(r'(\d{4}-\d{2}-\d{2})')
+title_pattern = re.compile(r'\[\*\*(.*)\*\*\]')
+link_pattern = re.compile(r'\((.*)\)')
+authors_pattern = re.compile(r'\*([^*]+)\.\*')
+date_pattern = re.compile(r'(\d{4}-\d{2})\.')
+comments_pattern = re.compile(r'\>(.*)')
+subject_pattern = re.compile(r"Subject:\s*(.+)")
 class Entry():
     # class for the entries of Readings
-    # read_date: date of reading the paper, dc:available
+    # read_date: date of reading the paper, dcterms:accessed
     # title: title of the paper, dc:title
     # link: link of the paper, dc:source
     # authors: authors of the paper, dc:creator
-    # comments: comments on the paper, dc:description
+    # comments: comments on the paper, rdfs:comment
     # date: date of the paper dc:date
-    # tags: tags of the paper --- not used for the moment
-    # future work: add tags, dc:topic
+    # subject: subjects of the paper, dcterms:subject, this is a list
     def __init__(self, text: str):
         self.text = text
         self.read_date = None
@@ -27,45 +33,32 @@ class Entry():
         self.comments = None
         self.date = None
         self.uri = None
-        #self.tags = None
-    def extract(self):
-       
-        read_date = re.compile(r'(\d{4}-\d{2}-\d{2})')
-        match = read_date.search(self.text)
-        if match:
-            self.read_date = match.group(1)
-        
-        title_pattern = re.compile(r'\[\*\*(.*)\*\*\]')
-        match = title_pattern.search(self.text)
-        if match:
-            self.title = match.group(1)
-        
-        link_pattern = re.compile(r'\((.*)\)')
-        match = link_pattern.search(self.text)
-        if match:
-            self.link = match.group(1)
-        
-        authors_pattern = re.compile(r'\*([^*]+)\.\*')
-        match = authors_pattern.search(self.text)
-        if match:
+        self.subject  = None
+    def extract(self):        
+        if match := read_date.search(self.text):
+            self.read_date = match.group(1)           
+        if match := title_pattern.search(self.text):
+            self.title = match.group(1)               
+        if match := link_pattern.search(self.text):
+            self.link = match.group(1)               
+        if match := authors_pattern.search(self.text):
             self.authors = match.group(1).split(', ')
-        
-        date_pattern = re.compile(r'(\d{4}-\d{2})\.')
-        match = date_pattern.search(self.text)
-        if match:
-            self.date = match.group(1)
-
-        comments_pattern = re.compile(r'\>(.*)')
-        match = comments_pattern.search(self.text)
-        if match:
+        if match := date_pattern.search(self.text):
+            self.date = match.group(1)         
+        if match := comments_pattern.search(self.text):
             self.comments = match.group(1)
+        if match := subject_pattern.search(self.text):
+            self.subject = match.group(1).split(', ')
         # generate a uri for the entry
         # uri = namespace + read date + title with space replaced by _ and : replaced by nothing
         #self.uri = namespace + self.read_date + '/' + self.title.replace(' ', '_').replace(':', '')
         uri_string = self.read_date + '_' + self.title.replace(' ', '_').replace(':', '')
         self.uri = custom[uri_string]
+      
+        
+        
 
-listOfEntries = []
+
 
 def readFiles(self):
     files= str()
@@ -75,6 +68,7 @@ def readFiles(self):
     return files
 
 def readEntries(self):
+    listOfEntries = []
     files = readFiles(self)
     # use re to remove lines that maches the pattern: one # + space + any characters + \n
     files = re.sub(r'^# .*?\n', '', files, flags=re.MULTILINE)
