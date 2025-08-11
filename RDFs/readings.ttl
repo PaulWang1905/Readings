@@ -370,7 +370,7 @@
         <http://readings.puyuwang.org/authors/Newman%20Cheng>,
         <http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness>,
         <http://readings.puyuwang.org/authors/Steven%20Truitt> ;
-    dc:date "2025-04" ;
+    dc:date "2024-04" ;
     dc:source "https://arxiv.org/pdf/2404.16130" ;
     dc:title "From Local to Global: A Graph RAG Approach to Query-Focused Summarization" ;
     dcterms:subject "GraphRAG",
