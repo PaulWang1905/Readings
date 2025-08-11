@@ -359,6 +359,28 @@
     readings:dateRead "2024-06-14" ;
     rdfs:comment " Keeping track of how states of entities change as a text or dialog unfolds is a key prerequisite to discourse understanding. Yet, there have been few systematic investigations into the ability of large language models (LLMs) to track discourse entities. In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations. We use this task to first investigate whether Flan-T5, GPT-3 and GPT-3.5 can track the state of entities, and find that only GPT-3.5 models, which have been pretrained on large amounts of code, exhibit this ability. We then investigate whether smaller models pretrained primarily on text can learn to track entities, through finetuning T5 on several training/evaluation splits. While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking. Taken together, these results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface." .
 
+<http://readings.puyuwang.org/entry/2025-08-11_From_Local_to_Global_A_Graph_RAG_Approach_to_Query-Focused_Summarization> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Alex%20Chao>,
+        <http://readings.puyuwang.org/authors/Apurva%20Mody>,
+        <http://readings.puyuwang.org/authors/Darren%20Edge>,
+        <http://readings.puyuwang.org/authors/Dasha%20Metropolitansky>,
+        <http://readings.puyuwang.org/authors/Ha%20Trinh>,
+        <http://readings.puyuwang.org/authors/Jonathan%20Larson>,
+        <http://readings.puyuwang.org/authors/Joshua%20Bradley>,
+        <http://readings.puyuwang.org/authors/Newman%20Cheng>,
+        <http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness>,
+        <http://readings.puyuwang.org/authors/Steven%20Truitt> ;
+    dc:date "2025-04" ;
+    dc:source "https://arxiv.org/pdf/2404.16130" ;
+    dc:title "From Local to Global: A Graph RAG Approach to Query-Focused Summarization" ;
+    dcterms:subject "GraphRAG",
+        "Knowledge Graph",
+        "Large Language Models",
+        "RAG" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Darren%20Edge> <http://readings.puyuwang.org/authors/Ha%20Trinh> <http://readings.puyuwang.org/authors/Newman%20Cheng> <http://readings.puyuwang.org/authors/Joshua%20Bradley> <http://readings.puyuwang.org/authors/Alex%20Chao> <http://readings.puyuwang.org/authors/Apurva%20Mody> <http://readings.puyuwang.org/authors/Steven%20Truitt> <http://readings.puyuwang.org/authors/Dasha%20Metropolitansky> <http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness> <http://readings.puyuwang.org/authors/Jonathan%20Larson> ) ;
+    readings:dateRead "2025-08-11" ;
+    rdfs:comment " Microsoft GraphRAG paper, graph-based approach to question answering over private text corpora. https://microsoft.github.io/graphrag/" .
+
 <http://readings.puyuwang.org/entry/2025-08-11_Medical_Graph_RAG_Evidence-based_Medical_Large_Language_Model_via_Graph_Retrieval-Augmented_Generation> a bibo:AcademicArticle ;
     dc:creator <http://readings.puyuwang.org/authors/Filippo%20Menolascina>,
         <http://readings.puyuwang.org/authors/Jiayuan%20Zhu>,
@@ -389,6 +411,9 @@
 <http://readings.puyuwang.org/authors/Alessandro%20Ronca> a foaf:Person ;
     foaf:name "Alessandro Ronca" .
 
+<http://readings.puyuwang.org/authors/Alex%20Chao> a foaf:Person ;
+    foaf:name "Alex Chao" .
+
 <http://readings.puyuwang.org/authors/Alexander%20H.%20Miller> a foaf:Person ;
     foaf:name "Alexander H. Miller" .
 
@@ -406,6 +431,9 @@
 
 <http://readings.puyuwang.org/authors/Aparna%20Nayak> a foaf:Person ;
     foaf:name "Aparna Nayak" .
+
+<http://readings.puyuwang.org/authors/Apurva%20Mody> a foaf:Person ;
+    foaf:name "Apurva Mody" .
 
 <http://readings.puyuwang.org/authors/Armand%20Joulin> a foaf:Person ;
     foaf:name "Armand Joulin" .
@@ -457,6 +485,12 @@
 
 <http://readings.puyuwang.org/authors/Daniela%20Schmidt> a foaf:Person ;
     foaf:name "Daniela Schmidt" .
+
+<http://readings.puyuwang.org/authors/Darren%20Edge> a foaf:Person ;
+    foaf:name "Darren Edge" .
+
+<http://readings.puyuwang.org/authors/Dasha%20Metropolitansky> a foaf:Person ;
+    foaf:name "Dasha Metropolitansky" .
 
 <http://readings.puyuwang.org/authors/David%20Chong> a foaf:Person ;
     foaf:name "David Chong" .
@@ -548,6 +582,9 @@
 <http://readings.puyuwang.org/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour> a foaf:Person ;
     foaf:name "Hèlène Camille Crayencour" .
 
+<http://readings.puyuwang.org/authors/Ha%20Trinh> a foaf:Person ;
+    foaf:name "Ha Trinh" .
+
 <http://readings.puyuwang.org/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob> a foaf:Person ;
     foaf:name "Hengyuan Hu Athul Paul Jacob" .
 
@@ -590,11 +627,17 @@
 <http://readings.puyuwang.org/authors/Jonathan%20Gray> a foaf:Person ;
     foaf:name "Jonathan Gray" .
 
+<http://readings.puyuwang.org/authors/Jonathan%20Larson> a foaf:Person ;
+    foaf:name "Jonathan Larson" .
+
 <http://readings.puyuwang.org/authors/Jordi%20Olivares> a foaf:Person ;
     foaf:name "Jordi Olivares" .
 
 <http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum> a foaf:Person ;
     foaf:name "Joshua B. Tenenbaum" .
+
+<http://readings.puyuwang.org/authors/Joshua%20Bradley> a foaf:Person ;
+    foaf:name "Joshua Bradley" .
 
 <http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos> a foaf:Person ;
     foaf:name "Julian Martin Eisenschlos" .
@@ -677,6 +720,9 @@
 <http://readings.puyuwang.org/authors/Nancy%20Kanwisher> a foaf:Person ;
     foaf:name "Nancy Kanwisher" .
 
+<http://readings.puyuwang.org/authors/Newman%20Cheng> a foaf:Person ;
+    foaf:name "Newman Cheng" .
+
 <http://readings.puyuwang.org/authors/Nicolas%20Hubert> a foaf:Person ;
     foaf:name "Nicolas Hubert" .
 
@@ -716,6 +762,9 @@
 <http://readings.puyuwang.org/authors/Renata%20Vieira> a foaf:Person ;
     foaf:name "Renata Vieira" .
 
+<http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness> a foaf:Person ;
+    foaf:name "Robert Osazuwa Ness" .
+
 <http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid> a foaf:Person ;
     foaf:name "Sabbir M. Rashid" .
 
@@ -742,6 +791,9 @@
 
 <http://readings.puyuwang.org/authors/Stephen%20Roller> a foaf:Person ;
     foaf:name "Stephen Roller" .
+
+<http://readings.puyuwang.org/authors/Steven%20Truitt> a foaf:Person ;
+    foaf:name "Steven Truitt" .
 
 <http://readings.puyuwang.org/authors/Thibaut%20Lavril> a foaf:Person ;
     foaf:name "Thibaut Lavril" .
