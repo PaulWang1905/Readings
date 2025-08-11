@@ -2,6 +2,7 @@
 @prefix dc: <http://purl.org/dc/elements/1.1/> .
 @prefix dcterms: <http://purl.org/dc/terms/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix readings: <http://readings.puyuwang.org/> .
 
@@ -14,6 +15,7 @@
     dc:date "2022-12" ;
     dc:source "https://arxiv.org/abs/2212.10535" ;
     dc:title "A Survey of Deep Learning for Mathematical Reasoning" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Pan%20Lu> <http://readings.puyuwang.org/authors/Liang%20Qiu> <http://readings.puyuwang.org/authors/Wenhao%20Yu> <http://readings.puyuwang.org/authors/Sean%20Welleck> <http://readings.puyuwang.org/authors/Kai-Wei%20Chang> ) ;
     readings:dateRead "2023-01-19" .
 
 <http://readings.puyuwang.org/entry/2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey> a bibo:AcademicArticle ;
@@ -29,6 +31,7 @@
     dc:date "2022-12" ;
     dc:source "https://arxiv.org/abs/2212.09597" ;
     dc:title "Reasoning with Language Model Prompting: A Survey" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Shuofei%20Qiao> <http://readings.puyuwang.org/authors/Yixin%20Ou> <http://readings.puyuwang.org/authors/Ningyu%20Zhang> <http://readings.puyuwang.org/authors/Xiang%20Chen> <http://readings.puyuwang.org/authors/Yunzhi%20Yao> <http://readings.puyuwang.org/authors/Shumin%20Deng> <http://readings.puyuwang.org/authors/Chuanqi%20Tan> <http://readings.puyuwang.org/authors/Fei%20Huang> <http://readings.puyuwang.org/authors/Huajun%20Chen> ) ;
     readings:dateRead "2023-01-19" .
 
 <http://readings.puyuwang.org/entry/2023-01-23_Human-level_play_in_the_game_of_Diplomacy_by_combining_language_models_with_strategic_reasoning> a bibo:AcademicArticle ;
@@ -61,6 +64,7 @@
     dc:date "2022-12" ;
     dc:source "https://www.science.org/doi/10.1126/science.ade9097" ;
     dc:title "Human-level play in the game of Diplomacy by combining language models with strategic reasoning" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29> <http://readings.puyuwang.org/authors/Anton%20Bakhtin> <http://readings.puyuwang.org/authors/Noam%20Brown> <http://readings.puyuwang.org/authors/Emily%20Dinan> <http://readings.puyuwang.org/authors/Gabriele%20Farina> <http://readings.puyuwang.org/authors/Colin%20Flaherty> <http://readings.puyuwang.org/authors/Daniel%20Fried> <http://readings.puyuwang.org/authors/Andrew%20Goff> <http://readings.puyuwang.org/authors/Jonathan%20Gray> <http://readings.puyuwang.org/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob> <http://readings.puyuwang.org/authors/Mojtaba%20Komeili> <http://readings.puyuwang.org/authors/Karthik%20Konath> <http://readings.puyuwang.org/authors/Minae%20Kwon> <http://readings.puyuwang.org/authors/Adam%20Lerer> <http://readings.puyuwang.org/authors/Mike%20Lewis> <http://readings.puyuwang.org/authors/Alexander%20H.%20Miller> <http://readings.puyuwang.org/authors/Sasha%20Mitts> <http://readings.puyuwang.org/authors/Adithya%20Renduchintala> <http://readings.puyuwang.org/authors/Stephen%20Roller> <http://readings.puyuwang.org/authors/Dirk%20Rowe> <http://readings.puyuwang.org/authors/Weiyan%20Shi> <http://readings.puyuwang.org/authors/Joe%20Spisak> <http://readings.puyuwang.org/authors/Alexander%20Wei> <http://readings.puyuwang.org/authors/David%20Wu1> <http://readings.puyuwang.org/authors/Hugh%20Zhang> <http://readings.puyuwang.org/authors/Markus%20Zijlstra> ) ;
     readings:dateRead "2023-01-23" .
 
 <http://readings.puyuwang.org/entry/2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs> a bibo:AcademicArticle ;
@@ -71,6 +75,7 @@
     dc:date "2022-11" ;
     dc:source "https://openreview.net/pdf?id=CrCvGNHAIrz" ;
     dc:title "Explainable GNN-Based Models over Knowledge Graphs" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala> <http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau> <http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev> <http://readings.puyuwang.org/authors/Boris%20Motik> ) ;
     readings:dateRead "2023-01-24" .
 
 <http://readings.puyuwang.org/entry/2023-01-26_A_Music_Theory_Ontology> a bibo:AcademicArticle ;
@@ -80,6 +85,7 @@
     dc:date "2018-10" ;
     dc:source "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913" ;
     dc:title "A Music Theory Ontology" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid> <http://readings.puyuwang.org/authors/David%20De%20Roure> <http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness> ) ;
     readings:dateRead "2023-01-26" .
 
 <http://readings.puyuwang.org/entry/2023-01-26_The_Jazz_Ontology_A_semantic_model_and_large-scale_RDF_repositories_for_jazz> a bibo:AcademicArticle ;
@@ -98,6 +104,7 @@
     dc:date "2022-07" ;
     dc:source "https://doi.org/10.1016/j.websem.2022.100735" ;
     dc:title "The Jazz Ontology: A semantic model and large-scale RDF repositories for jazz" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Polina%20Proutskova> <http://readings.puyuwang.org/authors/Daniel%20Wolff> <http://readings.puyuwang.org/authors/Gy%C3%B6rgy%20Fazekas> <http://readings.puyuwang.org/authors/Klaus%20Frieler> <http://readings.puyuwang.org/authors/Frank%20H%C3%B6ger> <http://readings.puyuwang.org/authors/Olga%20Velichkina> <http://readings.puyuwang.org/authors/Gabriel%20Solis> <http://readings.puyuwang.org/authors/Tillman%20Weyde> <http://readings.puyuwang.org/authors/Martin%20Pfleiderer> <http://readings.puyuwang.org/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour> <http://readings.puyuwang.org/authors/Geoffroy%20Peeters> <http://readings.puyuwang.org/authors/Simon%20Dixon> ) ;
     readings:dateRead "2023-01-26" .
 
 <http://readings.puyuwang.org/entry/2023-01-27_Stream_Reasoning_in_Temporal_Datalog> a bibo:AcademicArticle ;
@@ -109,6 +116,7 @@
     dc:date "2018-11" ;
     dc:source "https://arxiv.org/pdf/1711.04013.pdf" ;
     dc:title "Stream Reasoning in Temporal Datalog" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Alessandro%20Ronca> <http://readings.puyuwang.org/authors/Mark%20Kaminski> <http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau> <http://readings.puyuwang.org/authors/Boris%20Motik> <http://readings.puyuwang.org/authors/Ian%20Horrocks> ) ;
     readings:dateRead "2023-01-27" ;
     rdfs:comment " The paper introduces a fragment of temporal Datalog for stream processing and studies a stream reasoning algorithm for it, with a focus on minimizing the amount of data kept in memory. ***Summary by ChatGPT***" .
 
@@ -119,6 +127,7 @@
     dc:date "2019-02" ;
     dc:source "https://arxiv.org/pdf/1803.06445.pdf" ;
     dc:title "Datalog: Bag Semantics via Set Semantics" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Leopoldo%20Bertossim> <http://readings.puyuwang.org/authors/Georg%20Gottlob> <http://readings.puyuwang.org/authors/Reinhard%20Pichler> ) ;
     readings:dateRead "2023-01-28" ;
     rdfs:comment " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog" .
 
@@ -132,6 +141,7 @@
     dc:date "2019-09" ;
     dc:source "https://doi.org/10.1016/j.artint.2019.02.003" ;
     dc:title "Foundations of ontology-based data access under bag semantics" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Charalampos%20Nikolaou> <http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev> <http://readings.puyuwang.org/authors/George%20Konstantinidis> <http://readings.puyuwang.org/authors/Mark%20Kaminski> <http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau> <http://readings.puyuwang.org/authors/Ian%20Horrocks> ) ;
     readings:dateRead "2023-01-28" ;
     rdfs:comment " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries." .
 
@@ -144,6 +154,7 @@
     dc:date "2022-05" ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25" ;
     dc:title "The Dow Jones Knowledge Graph" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Ian%20Horrocks> <http://readings.puyuwang.org/authors/Jordi%20Olivares> <http://readings.puyuwang.org/authors/Valerio%20Cocchi> <http://readings.puyuwang.org/authors/Boris%20Motik> <http://readings.puyuwang.org/authors/Dylan%20Roy> ) ;
     readings:dateRead "2023-01-29" ;
     rdfs:comment " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products." .
 
@@ -157,6 +168,7 @@
     dc:date "2022-04" ;
     dc:source "https://arxiv.org/pdf/2106.15110.pdf" ;
     dc:title "Time-Aware Language Models as Temporal Knowledge Bases" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Bhuwan%20Dhingra> <http://readings.puyuwang.org/authors/Jeremy%20R.%20Cole> <http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos> <http://readings.puyuwang.org/authors/Daniel%20Gillick> <http://readings.puyuwang.org/authors/Jacob%20Eisenstein> <http://readings.puyuwang.org/authors/William%20W.%20Cohen> ) ;
     readings:dateRead "2023-01-30" .
 
 <http://readings.puyuwang.org/entry/2023-01-31_Reducing_OWL_Entailment_to_Description_Logic_Satisfiability> a bibo:AcademicArticle ;
@@ -165,6 +177,7 @@
     dc:date "2003-10" ;
     dc:source "https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf" ;
     dc:title "Reducing OWL Entailment to Description Logic Satisfiability" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Ian%20Horrocks> <http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider> ) ;
     readings:dateRead "2023-01-31" ;
     rdfs:comment " This paper established a correspondence between OWL ontologies and description logic knowledge bases, and then showed how knowledgebase entailment can be reduced to knowledge base satisfiability.  " .
 
@@ -174,7 +187,7 @@
     dc:date "2022-10" ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-031-19433-7_26" ;
     dc:title "A Survey of Syntactic Modelling Structures in Biomedical Ontologies" ;
-    dcterms:subject "Ontology" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Christian%20Kindermann> <http://readings.puyuwang.org/authors/Martin%20G.%20Skj%C3%A6veland> ) ;
     readings:dateRead "2023-02-03" ;
     rdfs:comment " This paper suggests that biomedical ontologies only share simple syntactic structures and many ontologies contain non-trivial amounts of more complex syntactic structures that are not common across ontologies." .
 
@@ -188,6 +201,7 @@
     dc:date "2023-01" ;
     dc:source "https://arxiv.org/pdf/2301.06627.pdf" ;
     dc:title "Dissociating language and thought in large language models: a cognitive perspective" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Kyle%20Mahowald> <http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova> <http://readings.puyuwang.org/authors/Idan%20A.%20Blank> <http://readings.puyuwang.org/authors/Nancy%20Kanwisher> <http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum> <http://readings.puyuwang.org/authors/Evelina%20Fedorenko> ) ;
     readings:dateRead "2023-02-06" .
 
 <http://readings.puyuwang.org/entry/2023-02-10_RDF2Vec_RDF_Graph_Embeddings_for_Data_Mining> a bibo:AcademicArticle ;
@@ -196,6 +210,7 @@
     dc:date "2016-09" ;
     dc:source "https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30" ;
     dc:title "RDF2Vec: RDF Graph Embeddings for Data Mining" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Petar%20Ristoski> <http://readings.puyuwang.org/authors/Heiko%20Paulheim> ) ;
     readings:dateRead "2023-02-10" ;
     rdfs:comment " This paper presents RDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words, and adapts them to RDF graphs.   " .
 
@@ -206,6 +221,7 @@
     dc:date "2022-05" ;
     dc:source "https://arxiv.org/pdf/2108.01720.pdf" ;
     dc:title "RELATIO: Text Semantics Capture Political and Economic Narratives" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Elliott%20Ash> <http://readings.puyuwang.org/authors/Germain%20Gauthier> <http://readings.puyuwang.org/authors/Philine%20Widmer> ) ;
     readings:dateRead "2023-02-13" .
 
 <http://readings.puyuwang.org/entry/2023-02-20_Is_Neuro-Symbolic_AI_Meeting_its_Promises_in_Natural_Language_Processing?_A_Structured_Review> a bibo:AcademicArticle ;
@@ -216,6 +232,7 @@
     dc:date "2022-06" ;
     dc:source "https://arxiv.org/pdf/2202.12205.pdf" ;
     dc:title "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Kyle%20Hamilton> <http://readings.puyuwang.org/authors/Aparna%20Nayak> <http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87> <http://readings.puyuwang.org/authors/Luca%20Longo> ) ;
     readings:dateRead "2023-02-20" .
 
 <http://readings.puyuwang.org/entry/2023-02-27_Is_ChatGPT_a_General-Purpose_Natural_Language_Processing_Task_Solver?> a bibo:AcademicArticle ;
@@ -228,6 +245,7 @@
     dc:date "2023-02" ;
     dc:source "https://arxiv.org/pdf/2302.06476.pdf" ;
     dc:title "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Chengwei%20Qin> <http://readings.puyuwang.org/authors/Aston%20Zhang> <http://readings.puyuwang.org/authors/Zhuosheng%20Zhang> <http://readings.puyuwang.org/authors/Jiaao%20Chen> <http://readings.puyuwang.org/authors/Michihiro%20Yasunaga> <http://readings.puyuwang.org/authors/Diyi%20Yang> ) ;
     readings:dateRead "2023-02-27" .
 
 <http://readings.puyuwang.org/entry/2023-02-28_Background_knowledge_in_ontology_matching_A_survey> a bibo:AcademicArticle ;
@@ -237,6 +255,7 @@
     dc:date "None" ;
     dc:source "https://content.iospress.com/download/semantic-web/sw223085?id=semantic-web%2Fsw223085" ;
     dc:title "Background knowledge in ontology matching: A survey" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Jan%20Portisch> <http://readings.puyuwang.org/authors/Michael%20Hladik> <http://readings.puyuwang.org/authors/Heiko%20Paulheim> ) ;
     readings:dateRead "2023-02-28" .
 
 <http://readings.puyuwang.org/entry/2023-03-06_A_real-time_platform_for_contextualized_conspiracy_theory_analysis> a bibo:AcademicArticle ;
@@ -250,6 +269,7 @@
     dc:date "2021-12" ;
     dc:source "https://sentic.net/sentire2021chong.pdf" ;
     dc:title "A real-time platform for contextualized conspiracy theory analysis" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/David%20Chong> <http://readings.puyuwang.org/authors/Erl%20Lee> <http://readings.puyuwang.org/authors/Matthew%20Fan> <http://readings.puyuwang.org/authors/Pavan%20Holur> <http://readings.puyuwang.org/authors/Shadi%20Shahsavari> <http://readings.puyuwang.org/authors/Timothy%20Tangherlini> <http://readings.puyuwang.org/authors/Vwani%20Roychowdhury> ) ;
     readings:dateRead "2023-03-06" .
 
 <http://readings.puyuwang.org/entry/2023-03-07_Knowledge-aware_Zero-Shot_Learning_Survey_and_Perspective> a bibo:AcademicArticle ;
@@ -262,6 +282,7 @@
     dc:date "2021-05" ;
     dc:source "https://arxiv.org/pdf/2103.00070.pdf" ;
     dc:title "Knowledge-aware Zero-Shot Learning: Survey and Perspective" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Jiaoyan%20Chen> <http://readings.puyuwang.org/authors/Yuxia%20Geng> <http://readings.puyuwang.org/authors/Zhuo%20Chen> <http://readings.puyuwang.org/authors/Ian%20Horrocks> <http://readings.puyuwang.org/authors/Jeff%20Z.%20Pan> <http://readings.puyuwang.org/authors/Huajun%20Chen> ) ;
     readings:dateRead "2023-03-07" .
 
 <http://readings.puyuwang.org/entry/2023-03-31_LLaMA_Open_and_Efficient_Foundation_Language_Models> a bibo:AcademicArticle ;
@@ -282,6 +303,7 @@
     dc:date "2023-02" ;
     dc:source "https://arxiv.org/abs/2302.13971" ;
     dc:title "LLaMA: Open and Efficient Foundation Language Models" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Hugo%20Touvron> <http://readings.puyuwang.org/authors/Thibaut%20Lavril> <http://readings.puyuwang.org/authors/Gautier%20Izacard> <http://readings.puyuwang.org/authors/Xavier%20Martinet> <http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux> <http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix> <http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re> <http://readings.puyuwang.org/authors/Naman%20Goyal> <http://readings.puyuwang.org/authors/Eric%20Hambro> <http://readings.puyuwang.org/authors/Faisal%20Azhar> <http://readings.puyuwang.org/authors/Aurelien%20Rodriguez> <http://readings.puyuwang.org/authors/Armand%20Joulin> <http://readings.puyuwang.org/authors/Edouard%20Grave> <http://readings.puyuwang.org/authors/Guillaume%20Lample> ) ;
     readings:dateRead "2023-03-31" .
 
 <http://readings.puyuwang.org/entry/2023-08-11_Ontology_mapping_The_state_of_the_art> a bibo:AcademicArticle ;
@@ -290,6 +312,7 @@
     dc:date "2003-01" ;
     dc:source "https://doi.org/10.1017/S0269888903000651" ;
     dc:title "Ontology mapping: The state of the art" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Yannis%20Kalfoglou> <http://readings.puyuwang.org/authors/Marco%20Schorlemmer> ) ;
     readings:dateRead "2023-08-11" ;
     rdfs:comment " This is a survey on ontology mapping. " .
 
@@ -302,6 +325,7 @@
     dc:date "2022-05" ;
     dc:source "https://content.iospress.com/articles/semantic-web/sw210447" ;
     dc:title "Foundational ontologies meet ontology matching: A survey" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Daniela%20Schmidt> <http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi> <http://readings.puyuwang.org/authors/Adam%20Pease> <http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos> <http://readings.puyuwang.org/authors/Renata%20Vieira> ) ;
     readings:dateRead "2023-08-13" ;
     rdfs:comment " This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. " .
 
@@ -314,6 +338,7 @@
     dc:date "2023-09" ;
     dc:source "https://arxiv.org/pdf/2309.03685.pdf" ;
     dc:title "PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Nicolas%20Hubert> <http://readings.puyuwang.org/authors/Pierre%20Monnin> <http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin> <http://readings.puyuwang.org/authors/Armelle%20Brun> <http://readings.puyuwang.org/authors/Davy%20Monticolo> ) ;
     readings:dateRead "2023-09-08" ;
     rdfs:comment " Knowledge graphs (KGs) have emerged as a prominent data representation and management paradigm. Being usually underpinned by a schema (e.g. an ontology), KGs capture not only factual information but also contextual knowledge. In some tasks, a few KGs established themselves as standard benchmarks. However, recent works outline that relying on a limited collection of datasets is not sufficient to assess the generalization capability of an approach. In some data-sensitive fields such as education or medicine, access to public datasets is even more limited. To remedy the aforementioned issues, we release PyGraft, a Python-based tool that generates highly customized, domain-agnostic schemas and knowledge graphs. The synthesized schemas encompass various RDFS and OWL constructs, while the synthesized KGs emulate the characteristics and scale of real-world KGs. Logical consistency of the generated resources is ultimately ensured by running a description logic (DL) reasoner. By providing a way of generating both a schema and KG in a single pipeline, PyGraft's aim is to empower the generation of a more diverse array of KGs for benchmarking novel approaches in areas such as graph-based machine learning (ML), or more generally KG processing. In graph-based ML in particular, this should foster a more holistic evaluation of model performance and generalization capability, thereby going beyond the limited collection of available benchmarks. PyGraft is available at: this https URL. " .
 
@@ -323,8 +348,7 @@
     dc:date "2023-09" ;
     dc:source "https://aclanthology.org/2023.acl-long.213.pdf" ;
     dc:title "Entity Tracking in Language Models" ;
-    dcterms:subject "Entity Tracking",
-        "Large Language Models" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Najoung%20Kim> <http://readings.puyuwang.org/authors/Sebastian%20Schuster> ) ;
     readings:dateRead "2024-06-14" ;
     rdfs:comment " Keeping track of how states of entities change as a text or dialog unfolds is a key prerequisite to discourse understanding. Yet, there have been few systematic investigations into the ability of large language models (LLMs) to track discourse entities. In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations. We use this task to first investigate whether Flan-T5, GPT-3 and GPT-3.5 can track the state of entities, and find that only GPT-3.5 models, which have been pretrained on large amounts of code, exhibit this ability. We then investigate whether smaller models pretrained primarily on text can learn to track entities, through finetuning T5 on several training/evaluation splits. While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking. Taken together, these results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface." .
 

@@ -2,6 +2,7 @@
 from rdflib import Graph, URIRef, Literal, BNode, Namespace
 from rdflib.namespace import RDF, RDFS, DCTERMS, DC, FOAF, RDFS
 import uuid
+from rdflib.collection import Collection
 import urllib.parse as urlparse
 from urllib.parse import quote
 from readFiles import readEntries as read
@@ -55,19 +56,23 @@ def makeLD(self):
         # add the link to the graph
         g.add((entry_resource, DC.source, Literal(entry.link)))
         # add the authors to the graph
+        authorList = []
         for author in entry.authors:
-     
             author_uri = READINGS[f"authors/{quote(author)}"]
-
             author_resource = URIRef(author_uri)
             # use BNode for the author, since the author is not a resource yet
             # and no need a URI for the author yet
             # uncomment below to use blank node instead of URI for the author
-            # author_resource = BNode()
-            
+            # author_resource = BNode()   
             g.add((author_resource, RDF.type,  FOAF.Person))
             g.add((author_resource, FOAF.name, Literal(author)))
             g.add((entry_resource, DC.creator, author_resource))
+            authorList.append(author_resource)
+        
+        if authorList:  # Only if there are authors
+            author_collection = Collection(g, BNode(), authorList)
+            g.add((entry_resource, BIBO.authorList, author_collection.uri))
+
         # add the comments to the graph
         if entry.comments is not None:
             g.add((entry_resource, RDFS.comment, Literal(entry.comments)))
