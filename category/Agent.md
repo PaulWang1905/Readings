@@ -4,4 +4,4 @@
 *Junde Wu, Jiayuan Zhu, Yuyuan Liu, Min Xu, Yueming Jin.* 2025-07.
 > This paper presents Agentic Reasoning, a framework that enhances large language model (LLM) reasoning by integrating external tool-using agents.
 
-Subject: Agentic Reasoning, Large Language Model
+Subject: Agentic Reasoning, Large Language Models
