@@ -1,5 +1,1585 @@
 [
   {
+    "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Eric Hambro"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Timothy Tangherlini"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Andrew%20Goff",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Andrew Goff"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Robert Osazuwa Ness"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Liang Qiu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Naman Goyal"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shuofei Qiao"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniela Schmidt"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Daniel%20Wolff",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Wolff"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Meta Fundamental AI Research Diplomacy Team (FAIR)"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Evelina Fedorenko"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Mike%20Lewis",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mike Lewis"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mathieu d'Aquin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-29_The_Dow_Jones_Knowledge_Graph",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "The Dow Jones Knowledge Graph"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-29"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products."
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Frank%20H%C3%B6ger",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Frank Höger"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Joshua Bradley"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jiaoyan%20Chen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jiaoyan Chen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/David%20Chong",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David Chong"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Daniel%20Fried",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Fried"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/William%20W.%20Cohen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "William W. Cohen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Cassia Trojahn dos Santos"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Yuyuan%20Liu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yuyuan Liu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jacob%20Eisenstein",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jacob Eisenstein"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2023-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/2301.06627.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Dissociating language and thought in large language models: a cognitive perspective"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-02-06"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Dasha Metropolitansky"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Thibaut Lavril"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Olga%20Velichkina",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Olga Velichkina"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Nancy Kanwisher"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-03-06_A_real-time_platform_for_contextualized_conspiracy_theory_analysis",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/David%20Chong"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Erl%20Lee"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2021-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://sentic.net/sentire2021chong.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A real-time platform for contextualized conspiracy theory analysis"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/David%20Chong"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Erl%20Lee"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-03-06"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-02-10_RDF2Vec_RDF_Graph_Embeddings_for_Data_Mining",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2016-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "RDF2Vec: RDF Graph Embeddings for Data Mining"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-02-10"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This paper presents RDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words, and adapts them to RDF graphs.   "
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jiayuan%20Zhu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jiayuan Zhu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Mojtaba%20Komeili",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mojtaba Komeili"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Yueming%20Jin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yueming Jin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Martin%20G.%20Skj%C3%A6veland",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Martin G. Skjæveland"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Kyle Hamilton"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-03-31_LLaMA_Open_and_Efficient_Foundation_Language_Models",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Hugo%20Touvron"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Guillaume%20Lample"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2023-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/abs/2302.13971"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "LLaMA: Open and Efficient Foundation Language Models"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Hugo%20Touvron"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Guillaume%20Lample"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-03-31"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Philine%20Widmer",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Philine Widmer"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jonathan Larson"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Hugh%20Zhang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hugh Zhang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Christian%20Kindermann",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Christian Kindermann"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Idan A. Blank"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Matthew Fan"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Apurva Mody"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2025-08-12_Agentic_Reasoning_A_Streamlined_Framework_for_Enhancing_LLM_Reasoning_with_Agentic_Tools",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Junde%20Wu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Jiayuan%20Zhu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Yuyuan%20Liu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Min%20Xu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Yueming%20Jin"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2025-07"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://aclanthology.org/2024.emnlp-main.321.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@value": "Agentic Reasoning"
+      },
+      {
+        "@value": "Large Language Model"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Junde%20Wu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Jiayuan%20Zhu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Yuyuan%20Liu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Min%20Xu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Yueming%20Jin"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2025-08-12"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This paper presents Agentic Reasoning, a framework that enhances large language model (LLM) reasoning by integrating external tool-using agents."
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Michael Hladik"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Bernardo Cuenca Grau"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Geoffroy%20Peeters",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Geoffroy Peeters"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jiaao Chen"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jeremy%20R.%20Cole",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jeremy R. Cole"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-11"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://openreview.net/pdf?id=CrCvGNHAIrz"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Explainable GNN-Based Models over Knowledge Graphs"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-24"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Reinhard Pichler"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Stephen%20Roller",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Stephen Roller"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-19_A_Survey_of_Deep_Learning_for_Mathematical_Reasoning",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Pan%20Lu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/abs/2212.10535"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A Survey of Deep Learning for Mathematical Reasoning"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Pan%20Lu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-19"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Sabbir M. Rashid"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Polina%20Proutskova",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Polina Proutskova"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Armand Joulin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hèlène Camille Crayencour"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shadi Shahsavari"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Shumin Deng"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-31_Reducing_OWL_Entailment_to_Description_Logic_Satisfiability",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2003-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Reducing OWL Entailment to Description Logic Satisfiability"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-31"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This paper established a correspondence between OWL ontologies and description logic knowledge bases, and then showed how knowledgebase entailment can be reduced to knowledge base satisfiability.  "
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-27_Stream_Reasoning_in_Temporal_Datalog",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2018-11"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/1711.04013.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Stream Reasoning in Temporal Datalog"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-27"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " The paper introduces a fragment of temporal Datalog for stream processing and studies a stream reasoning algorithm for it, with a focus on minimizing the amount of data kept in memory. ***Summary by ChatGPT***"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-02-27_Is_ChatGPT_a_General-Purpose_Natural_Language_Processing_Task_Solver?",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2023-02"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/2302.06476.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-02-27"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David De Roure"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Wenhao Yu"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Vicente%20Grau",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Vicente Grau"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2024-06-14_Entity_Tracking_in_Language_Models",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2023-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://aclanthology.org/2023.acl-long.213.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Entity Tracking in Language Models"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@value": "Large Language Models"
+      },
+      {
+        "@value": "Entity Tracking"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2024-06-14"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " Keeping track of how states of entities change as a text or dialog unfolds is a key prerequisite to discourse understanding. Yet, there have been few systematic investigations into the ability of large language models (LLMs) to track discourse entities. In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations. We use this task to first investigate whether Flan-T5, GPT-3 and GPT-3.5 can track the state of entities, and find that only GPT-3.5 models, which have been pretrained on large amounts of code, exhibit this ability. We then investigate whether smaller models pretrained primarily on text can learn to track entities, through finetuning T5 on several training/evaluation splits. While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking. Taken together, these results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface."
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Davy Monticolo"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Steven Truitt"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-26_A_Music_Theory_Ontology",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2018-10"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "A Music Theory Ontology"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-26"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yunzhi Yao"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-02-20_Is_Neuro-Symbolic_AI_Meeting_its_Promises_in_Natural_Language_Processing?_A_Structured_Review",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Luca%20Longo"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-06"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/pdf/2202.12205.pdf"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Luca%20Longo"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-02-20"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Valerio Cocchi"
+      }
+    ]
+  },
+  {
     "@id": "http://readings.puyuwang.org/entry/2025-08-11_Medical_Graph_RAG_Evidence-based_Medical_Large_Language_Model_via_Graph_Retrieval-Augmented_Generation",
     "@type": [
       "http://purl.org/ontology/bibo/AcademicArticle"
@@ -95,295 +1675,79 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/entry/2023-08-11_Ontology_mapping_The_state_of_the_art",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Yannis%20Kalfoglou"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2003-01"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://doi.org/10.1017/S0269888903000651"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Ontology mapping: The state of the art"
-      }
-    ],
-    "http://purl.org/dc/terms/subject": [
-      {
-        "@value": "Survey"
-      },
-      {
-        "@value": "Ontology Mapping"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Yannis%20Kalfoglou"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-08-11"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " This is a survey on ontology mapping."
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/David%20Wu1",
+    "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "David Wu1"
+        "@value": "Yixin Ou"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch",
+    "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Jan Portisch"
+        "@value": "Egor V. Kostylev"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Vicente%20Grau",
+    "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Vicente Grau"
+        "@value": "Vwani Roychowdhury"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi",
+    "@id": "http://readings.puyuwang.org/authors/Simon%20Dixon",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Valerio Cocchi"
+        "@value": "Simon Dixon"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher",
+    "@id": "http://readings.puyuwang.org/authors/Sasha%20Mitts",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Nancy Kanwisher"
+        "@value": "Sasha Mitts"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin",
+    "@id": "http://readings.puyuwang.org/authors/Tillman%20Weyde",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Chengwei Qin"
+        "@value": "Tillman Weyde"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Alexander%20H.%20Miller",
+    "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Alexander H. Miller"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2025-08-11_From_Local_to_Global_A_Graph_RAG_Approach_to_Query-Focused_Summarization",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Darren%20Edge"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Alex%20Chao"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2024-04"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2404.16130"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization"
-      }
-    ],
-    "http://purl.org/dc/terms/subject": [
-      {
-        "@value": "Large Language Models"
-      },
-      {
-        "@value": "RAG"
-      },
-      {
-        "@value": "GraphRAG"
-      },
-      {
-        "@value": "Knowledge Graph"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Darren%20Edge"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Alex%20Chao"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2025-08-11"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " Microsoft GraphRAG paper, graph-based approach to question answering over private text corpora. https://microsoft.github.io/graphrag/"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Charalampos Nikolaou"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ningyu Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sabbir M. Rashid"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Aparna Nayak"
+        "@value": "Marco Schorlemmer"
       }
     ]
   },
@@ -440,112 +1804,233 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Olga%20Velichkina",
+    "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Olga Velichkina"
+        "@value": "Ha Trinh"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Yunli%20Qi",
+    "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Yunli Qi"
+        "@value": "Kai-Wei Chang"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Gabriel%20Solis",
+    "@id": "http://readings.puyuwang.org/authors/Darren%20Edge",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Gabriel Solis"
+        "@value": "Darren Edge"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi",
+    "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Giancarlo Guizzardi"
+        "@value": "Sebastian Schuster"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Erl%20Lee",
+    "@id": "http://readings.puyuwang.org/entry/2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey",
     "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
+      "http://purl.org/ontology/bibo/AcademicArticle"
     ],
-    "http://xmlns.com/foaf/0.1/name": [
+    "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@value": "Erl Lee"
+        "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Fei%20Huang"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-12"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://arxiv.org/abs/2212.09597"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Reasoning with Language Model Prompting: A Survey"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Fei%20Huang"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-19"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Geoffroy%20Peeters",
+    "@id": "http://readings.puyuwang.org/authors/Dirk%20Rowe",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Geoffroy Peeters"
+        "@value": "Dirk Rowe"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim",
+    "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Heiko Paulheim"
+        "@value": "Charalampos Nikolaou"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Jiayuan%20Zhu",
+    "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Jiayuan Zhu"
+        "@value": "Dylan Roy"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Simon%20Dixon",
+    "@id": "http://readings.puyuwang.org/authors/Zhuo%20Chen",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Simon Dixon"
+        "@value": "Zhuo Chen"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Min%20Xu",
+    "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Min Xu"
+        "@value": "Aston Zhang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jeff%20Z.%20Pan",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jeff Z. Pan"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Marie-Anne Lachaux"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jordi Olivares"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jingkun%20Chen",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jingkun Chen"
       }
     ]
   },
@@ -561,13 +2046,470 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Dirk%20Rowe",
+    "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Dirk Rowe"
+        "@value": "Renata Vieira"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Hengyuan Hu Athul Paul Jacob"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Erl%20Lee",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Erl Lee"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Aurelien Rodriguez"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-08-13_Foundational_ontologies_meet_ontology_matching_A_survey",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Adam%20Pease"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2022-05"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://content.iospress.com/articles/semantic-web/sw210447"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Foundational ontologies meet ontology matching: A survey"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@value": "Survey"
+      },
+      {
+        "@value": "Ontology Mapping"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Adam%20Pease"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-08-13"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. "
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Colin%20Flaherty",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Colin Flaherty"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantics",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/George%20Konstantinidis"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2019-09"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://doi.org/10.1016/j.artint.2019.02.003"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Foundations of ontology-based data access under bag semantics"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/George%20Konstantinidis"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-01-28"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries."
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Bhuwan%20Dhingra",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Bhuwan Dhingra"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-02-28_Background_knowledge_in_ontology_matching_A_survey",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "None"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://content.iospress.com/download/semantic-web/sw223085?id=semantic-web%2Fsw223085"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Background knowledge in ontology matching: A survey"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-02-28"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Joe%20Spisak",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Joe Spisak"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Minae%20Kwon",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Minae Kwon"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Daniel%20Gillick",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Daniel Gillick"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Pierre Monnin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Boris%20Motik",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Boris Motik"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Faisal Azhar"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Martin%20Pfleiderer",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Martin Pfleiderer"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Alexander%20Wei",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Alexander Wei"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Heiko Paulheim"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Pavan Holur"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Zhuosheng Zhang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Petar Ristoski"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Gabriele%20Farina",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gabriele Farina"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Newman Cheng"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Chuanqi Tan"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Gabriel%20Solis",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gabriel Solis"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Alex%20Chao",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Alex Chao"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Kyle Mahowald"
       }
     ]
   },
@@ -762,277 +2704,6 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Leopoldo Bertossim"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Armand Joulin"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Alexander%20Wei",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Alexander Wei"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-03-06_A_real-time_platform_for_contextualized_conspiracy_theory_analysis",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/David%20Chong"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Erl%20Lee"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2021-12"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://sentic.net/sentire2021chong.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A real-time platform for contextualized conspiracy theory analysis"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/David%20Chong"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Erl%20Lee"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-03-06"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-02-28_Background_knowledge_in_ontology_matching_A_survey",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "None"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://content.iospress.com/download/semantic-web/sw223085?id=semantic-web%2Fsw223085"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Background knowledge in ontology matching: A survey"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-02-28"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Hugh%20Zhang",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Hugh Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jingkun%20Chen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jingkun Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Pavan%20Holur",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Pavan Holur"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Pierre Monnin"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Vwani%20Roychowdhury",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Vwani Roychowdhury"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Shadi%20Shahsavari",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Shadi Shahsavari"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Gabriele%20Farina",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Gabriele Farina"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Julian Martin Eisenschlos"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Xavier Martinet"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Gautier Izacard"
-      }
-    ]
-  },
-  {
     "@id": "http://readings.puyuwang.org/authors/Yuxia%20Geng",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
@@ -1044,76 +2715,35 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-26_A_Music_Theory_Ontology",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2018-10"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://dl.acm.org/doi/pdf/10.1145/3243907.3243913"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A Music Theory Ontology"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-26"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Adithya%20Renduchintala",
+    "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Adithya Renduchintala"
+        "@value": "Edouard Grave"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody",
+    "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Apurva Mody"
+        "@value": "Najoung Kim"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Gautier Izacard"
       }
     ]
   },
@@ -1188,250 +2818,13 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer",
+    "@id": "http://readings.puyuwang.org/authors/Min%20Xu",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Marco Schorlemmer"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-29_The_Dow_Jones_Knowledge_Graph",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-05"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://link.springer.com/chapter/10.1007/978-3-031-06981-9_25"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "The Dow Jones Knowledge Graph"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Valerio%20Cocchi"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-29"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " Dow Jones have used the RDFox system to integrate the various sources in a large RDF knowledge graph to power an expanding range of internal processes and market intelligence products."
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Timothy%20Tangherlini",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Timothy Tangherlini"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-02-20_Is_Neuro-Symbolic_AI_Meeting_its_Promises_in_Natural_Language_Processing?_A_Structured_Review",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Luca%20Longo"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-06"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2202.12205.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Is Neuro-Symbolic AI Meeting its Promises in Natural Language Processing? A Structured Review"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Luca%20Longo"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-02-20"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Cassia Trojahn dos Santos"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Wenhao Yu"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Reinhard Pichler"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Karthik%20Konath",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Karthik Konath"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Kyle%20Hamilton",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Kyle Hamilton"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Weiyan%20Shi",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Weiyan Shi"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Shuofei Qiao"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Kai-Wei Chang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Bojan Božić"
+        "@value": "Min Xu"
       }
     ]
   },
@@ -1447,17 +2840,6 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Mojtaba%20Komeili",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mojtaba Komeili"
-      }
-    ]
-  },
-  {
     "@id": "http://readings.puyuwang.org/authors/Guillaume%20Lample",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
@@ -1469,328 +2851,104 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez",
+    "@id": "http://readings.puyuwang.org/authors/Emily%20Dinan",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Aurelien Rodriguez"
+        "@value": "Emily Dinan"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Boris%20Motik",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Boris Motik"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Dylan%20Roy",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Dylan Roy"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Elliott%20Ash",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Elliott Ash"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jacob%20Eisenstein",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jacob Eisenstein"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-19_Reasoning_with_Language_Model_Prompting_A_Survey",
+    "@id": "http://readings.puyuwang.org/entry/2023-09-08_PyGraft_Configurable_Generation_of_Schemas_and_Knowledge_Graphs_at_Your_Fingertips",
     "@type": [
       "http://purl.org/ontology/bibo/AcademicArticle"
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao"
+        "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou"
+        "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang"
+        "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen"
+        "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Fei%20Huang"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen"
+        "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
       {
-        "@value": "2022-12"
+        "@value": "2023-09"
       }
     ],
     "http://purl.org/dc/elements/1.1/source": [
       {
-        "@value": "https://arxiv.org/abs/2212.09597"
+        "@value": "https://arxiv.org/pdf/2309.03685.pdf"
       }
     ],
     "http://purl.org/dc/elements/1.1/title": [
       {
-        "@value": "Reasoning with Language Model Prompting: A Survey"
+        "@value": "PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips"
       }
     ],
     "http://purl.org/ontology/bibo/authorList": [
       {
         "@list": [
           {
-            "@id": "http://readings.puyuwang.org/authors/Shuofei%20Qiao"
+            "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou"
+            "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang"
+            "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen"
+            "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Fei%20Huang"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen"
+            "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo"
           }
         ]
       }
     ],
     "http://readings.puyuwang.org/dateRead": [
       {
-        "@value": "2023-01-19"
+        "@value": "2023-09-08"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " Knowledge graphs (KGs) have emerged as a prominent data representation and management paradigm. Being usually underpinned by a schema (e.g. an ontology), KGs capture not only factual information but also contextual knowledge. In some tasks, a few KGs established themselves as standard benchmarks. However, recent works outline that relying on a limited collection of datasets is not sufficient to assess the generalization capability of an approach. In some data-sensitive fields such as education or medicine, access to public datasets is even more limited. To remedy the aforementioned issues, we release PyGraft, a Python-based tool that generates highly customized, domain-agnostic schemas and knowledge graphs. The synthesized schemas encompass various RDFS and OWL constructs, while the synthesized KGs emulate the characteristics and scale of real-world KGs. Logical consistency of the generated resources is ultimately ensured by running a description logic (DL) reasoner. By providing a way of generating both a schema and KG in a single pipeline, PyGraft's aim is to empower the generation of a more diverse array of KGs for benchmarking novel approaches in areas such as graph-based machine learning (ML), or more generally KG processing. In graph-based ML in particular, this should foster a more holistic evaluation of model performance and generalization capability, thereby going beyond the limited collection of available benchmarks. PyGraft is available at: this https URL. "
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/entry/2023-02-06_Dissociating_language_and_thought_in_large_language_models_a_cognitive_perspective",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2023-01"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2301.06627.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Dissociating language and thought in large language models: a cognitive perspective"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Nancy%20Kanwisher"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-02-06"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen",
+    "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Xiang Chen"
+        "@value": "Leopoldo Bertossim"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Jordi%20Olivares",
+    "@id": "http://readings.puyuwang.org/authors/Karthik%20Konath",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Jordi Olivares"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Joe%20Spisak",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Joe Spisak"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Chuanqi%20Tan",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Chuanqi Tan"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jeff%20Z.%20Pan",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jeff Z. Pan"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-24_Explainable_GNN-Based_Models_over_Knowledge_Graphs",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-11"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://openreview.net/pdf?id=CrCvGNHAIrz"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Explainable GNN-Based Models over Knowledge Graphs"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-24"
+        "@value": "Karthik Konath"
       }
     ]
   },
@@ -1806,79 +2964,35 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang",
+    "@id": "http://readings.puyuwang.org/authors/Adam%20Pease",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Diyi Yang"
+        "@value": "Adam Pease"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Darren%20Edge",
+    "@id": "http://readings.puyuwang.org/authors/Ningyu%20Zhang",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Darren Edge"
+        "@value": "Ningyu Zhang"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo",
+    "@id": "http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Davy Monticolo"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Matthew%20Fan",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Matthew Fan"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniela Schmidt"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Alex%20Chao",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Alex Chao"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Minae%20Kwon",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Minae Kwon"
+        "@value": "Julian Martin Eisenschlos"
       }
     ]
   },
@@ -1894,90 +3008,182 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Shumin%20Deng",
+    "@id": "http://readings.puyuwang.org/authors/Gy%C3%B6rgy%20Fazekas",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Shumin Deng"
+        "@value": "György Fazekas"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Filippo%20Menolascina",
+    "@id": "http://readings.puyuwang.org/authors/Adithya%20Renduchintala",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Filippo Menolascina"
+        "@value": "Adithya Renduchintala"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Hengyuan%20Hu%20Athul%20Paul%20Jacob",
+    "@id": "http://readings.puyuwang.org/authors/Klaus%20Frieler",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Hengyuan Hu Athul Paul Jacob"
+        "@value": "Klaus Frieler"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro",
+    "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Eric Hambro"
+        "@value": "Alessandro Ronca"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert",
+    "@id": "http://readings.puyuwang.org/authors/Adam%20Lerer",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Nicolas Hubert"
+        "@value": "Adam Lerer"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Jonathan%20Gray",
+    "@id": "http://readings.puyuwang.org/authors/Alexander%20H.%20Miller",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Jonathan Gray"
+        "@value": "Alexander H. Miller"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux",
+    "@id": "http://readings.puyuwang.org/authors/Fei%20Huang",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Marie-Anne Lachaux"
+        "@value": "Fei Huang"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Yixin%20Ou",
+    "@id": "http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Yixin Ou"
+        "@value": "Bojan Božić"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/entry/2023-08-11_Ontology_mapping_The_state_of_the_art",
+    "@type": [
+      "http://purl.org/ontology/bibo/AcademicArticle"
+    ],
+    "http://purl.org/dc/elements/1.1/creator": [
+      {
+        "@id": "http://readings.puyuwang.org/authors/Yannis%20Kalfoglou"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/date": [
+      {
+        "@value": "2003-01"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/source": [
+      {
+        "@value": "https://doi.org/10.1017/S0269888903000651"
+      }
+    ],
+    "http://purl.org/dc/elements/1.1/title": [
+      {
+        "@value": "Ontology mapping: The state of the art"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@value": "Survey"
+      },
+      {
+        "@value": "Ontology Mapping"
+      }
+    ],
+    "http://purl.org/ontology/bibo/authorList": [
+      {
+        "@list": [
+          {
+            "@id": "http://readings.puyuwang.org/authors/Yannis%20Kalfoglou"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Marco%20Schorlemmer"
+          }
+        ]
+      }
+    ],
+    "http://readings.puyuwang.org/dateRead": [
+      {
+        "@value": "2023-08-11"
+      }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#comment": [
+      {
+        "@value": " This is a survey on ontology mapping."
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Timothée Lacroix"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "David Jaime Tena Cucala"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Luca%20Longo",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Luca Longo"
       }
     ]
   },
@@ -2038,434 +3244,46 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Bhuwan%20Dhingra",
+    "@id": "http://readings.puyuwang.org/authors/Anton%20Bakhtin",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Bhuwan Dhingra"
+        "@value": "Anton Bakhtin"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-19_A_Survey_of_Deep_Learning_for_Mathematical_Reasoning",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Pan%20Lu"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-12"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/abs/2212.10535"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "A Survey of Deep Learning for Mathematical Reasoning"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Pan%20Lu"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Wenhao%20Yu"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Kai-Wei%20Chang"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-19"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar",
+    "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Faisal Azhar"
+        "@value": "Huajun Chen"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Andrew%20Goff",
+    "@id": "http://readings.puyuwang.org/authors/David%20Wu1",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Andrew Goff"
+        "@value": "David Wu1"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Fei%20Huang",
+    "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Fei Huang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Mike%20Lewis",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mike Lewis"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mark Kaminski"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Egor V. Kostylev"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Christian%20Kindermann",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Christian Kindermann"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Thibaut Lavril"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Daniel%20Gillick",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniel Gillick"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jiaao Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Bernardo Cuenca Grau"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jeremy%20R.%20Cole",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jeremy R. Cole"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2019-02"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/1803.06445.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Datalog: Bag Semantics via Set Semantics"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-28"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Gy%C3%B6rgy%20Fazekas",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "György Fazekas"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-08-13_Foundational_ontologies_meet_ontology_matching_A_survey",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Adam%20Pease"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2022-05"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://content.iospress.com/articles/semantic-web/sw210447"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Foundational ontologies meet ontology matching: A survey"
-      }
-    ],
-    "http://purl.org/dc/terms/subject": [
-      {
-        "@value": "Survey"
-      },
-      {
-        "@value": "Ontology Mapping"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Daniela%20Schmidt"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Adam%20Pease"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-08-13"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " This is a survey on mapping foundational ontologies. Mapping domain ontologies has reached some maturity. Some room left for further development for mapping foundational ontologies. "
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-27_Stream_Reasoning_in_Temporal_Datalog",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2018-11"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/1711.04013.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Stream Reasoning in Temporal Datalog"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Boris%20Motik"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-27"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " The paper introduces a fragment of temporal Datalog for stream processing and studies a stream reasoning algorithm for it, with a focus on minimizing the amount of data kept in memory. ***Summary by ChatGPT***"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Newman Cheng"
+        "@value": "Michihiro Yasunaga"
       }
     ]
   },
@@ -2576,377 +3394,6 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Liang%20Qiu",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Liang Qiu"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Zhuo%20Chen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Zhuo Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Yueming%20Jin",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Yueming Jin"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Philine%20Widmer",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Philine Widmer"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Ha Trinh"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Stephen%20Roller",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Stephen Roller"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Najoung Kim"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Daniel%20Fried",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Daniel Fried"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jiaoyan%20Chen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jiaoyan Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2024-06-14_Entity_Tracking_in_Language_Models",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2023-09"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://aclanthology.org/2023.acl-long.213.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Entity Tracking in Language Models"
-      }
-    ],
-    "http://purl.org/dc/terms/subject": [
-      {
-        "@value": "Large Language Models"
-      },
-      {
-        "@value": "Entity Tracking"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Najoung%20Kim"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2024-06-14"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " Keeping track of how states of entities change as a text or dialog unfolds is a key prerequisite to discourse understanding. Yet, there have been few systematic investigations into the ability of large language models (LLMs) to track discourse entities. In this work, we present a task probing to what extent a language model can infer the final state of an entity given an English description of the initial state and a series of state-changing operations. We use this task to first investigate whether Flan-T5, GPT-3 and GPT-3.5 can track the state of entities, and find that only GPT-3.5 models, which have been pretrained on large amounts of code, exhibit this ability. We then investigate whether smaller models pretrained primarily on text can learn to track entities, through finetuning T5 on several training/evaluation splits. While performance degrades for more complex splits, we find that even when evaluated on a different set of entities from training or longer operation sequences, a finetuned model can perform non-trivial entity tracking. Taken together, these results suggest that language models can learn to track entities but pretraining on text corpora alone does not make this capacity surface."
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-02-10_RDF2Vec_RDF_Graph_Embeddings_for_Data_Mining",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2016-09"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://link.springer.com/chapter/10.1007/978-3-319-46523-4_30"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "RDF2Vec: RDF Graph Embeddings for Data Mining"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Heiko%20Paulheim"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-02-10"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " This paper presents RDF2Vec, an approach that uses language modeling approaches for unsupervised feature extraction from sequences of words, and adapts them to RDF graphs.   "
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Emily%20Dinan",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Emily Dinan"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Adam%20Pease",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Adam Pease"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Dasha Metropolitansky"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-03-31_LLaMA_Open_and_Efficient_Foundation_Language_Models",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Hugo%20Touvron"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Guillaume%20Lample"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2023-02"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/abs/2302.13971"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "LLaMA: Open and Efficient Foundation Language Models"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Hugo%20Touvron"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Thibaut%20Lavril"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Gautier%20Izacard"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Marie-Anne%20Lachaux"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Eric%20Hambro"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Faisal%20Azhar"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Aurelien%20Rodriguez"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Armand%20Joulin"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Guillaume%20Lample"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-03-31"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Adam%20Lerer",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Adam Lerer"
-      }
-    ]
-  },
-  {
     "@id": "http://readings.puyuwang.org/authors/Joshua%20B.%20Tenenbaum",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
@@ -2954,50 +3401,6 @@
     "http://xmlns.com/foaf/0.1/name": [
       {
         "@value": "Joshua B. Tenenbaum"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Michael%20Hladik",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Michael Hladik"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Petar%20Ristoski",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Petar Ristoski"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Yunzhi%20Yao",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Yunzhi Yao"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Mathieu d'Aquin"
       }
     ]
   },
@@ -3013,93 +3416,214 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Renata%20Vieira",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Renata Vieira"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Kyle%20Mahowald",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Kyle Mahowald"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-09-08_PyGraft_Configurable_Generation_of_Schemas_and_Knowledge_Graphs_at_Your_Fingertips",
+    "@id": "http://readings.puyuwang.org/entry/2025-08-11_From_Local_to_Global_A_Graph_RAG_Approach_to_Query-Focused_Summarization",
     "@type": [
       "http://purl.org/ontology/bibo/AcademicArticle"
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert"
+        "@id": "http://readings.puyuwang.org/authors/Darren%20Edge"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin"
+        "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin"
+        "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun"
+        "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo"
+        "@id": "http://readings.puyuwang.org/authors/Alex%20Chao"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness"
+      },
+      {
+        "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
       {
-        "@value": "2023-09"
+        "@value": "2024-04"
       }
     ],
     "http://purl.org/dc/elements/1.1/source": [
       {
-        "@value": "https://arxiv.org/pdf/2309.03685.pdf"
+        "@value": "https://arxiv.org/pdf/2404.16130"
       }
     ],
     "http://purl.org/dc/elements/1.1/title": [
       {
-        "@value": "PyGraft: Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips"
+        "@value": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization"
+      }
+    ],
+    "http://purl.org/dc/terms/subject": [
+      {
+        "@value": "Large Language Models"
+      },
+      {
+        "@value": "RAG"
+      },
+      {
+        "@value": "GraphRAG"
+      },
+      {
+        "@value": "Knowledge Graph"
       }
     ],
     "http://purl.org/ontology/bibo/authorList": [
       {
         "@list": [
           {
-            "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert"
+            "@id": "http://readings.puyuwang.org/authors/Darren%20Edge"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Pierre%20Monnin"
+            "@id": "http://readings.puyuwang.org/authors/Ha%20Trinh"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Mathieu%20d%27Aquin"
+            "@id": "http://readings.puyuwang.org/authors/Newman%20Cheng"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun"
+            "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Davy%20Monticolo"
+            "@id": "http://readings.puyuwang.org/authors/Alex%20Chao"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Apurva%20Mody"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Dasha%20Metropolitansky"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness"
+          },
+          {
+            "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson"
           }
         ]
       }
     ],
     "http://readings.puyuwang.org/dateRead": [
       {
-        "@value": "2023-09-08"
+        "@value": "2025-08-11"
       }
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
       {
-        "@value": " Knowledge graphs (KGs) have emerged as a prominent data representation and management paradigm. Being usually underpinned by a schema (e.g. an ontology), KGs capture not only factual information but also contextual knowledge. In some tasks, a few KGs established themselves as standard benchmarks. However, recent works outline that relying on a limited collection of datasets is not sufficient to assess the generalization capability of an approach. In some data-sensitive fields such as education or medicine, access to public datasets is even more limited. To remedy the aforementioned issues, we release PyGraft, a Python-based tool that generates highly customized, domain-agnostic schemas and knowledge graphs. The synthesized schemas encompass various RDFS and OWL constructs, while the synthesized KGs emulate the characteristics and scale of real-world KGs. Logical consistency of the generated resources is ultimately ensured by running a description logic (DL) reasoner. By providing a way of generating both a schema and KG in a single pipeline, PyGraft's aim is to empower the generation of a more diverse array of KGs for benchmarking novel approaches in areas such as graph-based machine learning (ML), or more generally KG processing. In graph-based ML in particular, this should foster a more holistic evaluation of model performance and generalization capability, thereby going beyond the limited collection of available benchmarks. PyGraft is available at: this https URL. "
+        "@value": " Microsoft GraphRAG paper, graph-based approach to question answering over private text corpora. https://microsoft.github.io/graphrag/"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Diyi Yang"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Deborah L. McGuinness"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Nicolas%20Hubert",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Nicolas Hubert"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Yunli%20Qi",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Yunli Qi"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Filippo%20Menolascina",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Filippo Menolascina"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Chengwei Qin"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Weiyan%20Shi",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Weiyan Shi"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Armelle Brun"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Georg Gottlob"
       }
     ]
   },
@@ -3115,46 +3639,101 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Martin%20Pfleiderer",
+    "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Martin Pfleiderer"
+        "@value": "Peter F. Patel-Schneider"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Timoth%C3%A9e%20Lacroix",
+    "@id": "http://readings.puyuwang.org/authors/Jan%20Portisch",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Timothée Lacroix"
+        "@value": "Jan Portisch"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Daniel%20Wolff",
+    "@id": "http://readings.puyuwang.org/authors/Noam%20Brown",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Daniel Wolff"
+        "@value": "Noam Brown"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Polina%20Proutskova",
+    "@id": "http://readings.puyuwang.org/authors/Aparna%20Nayak",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Polina Proutskova"
+        "@value": "Aparna Nayak"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Xavier%20Martinet",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Xavier Martinet"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Jonathan%20Gray",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Jonathan Gray"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Elliott%20Ash",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Elliott Ash"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Germain%20Gauthier",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Germain Gauthier"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Mark Kaminski"
       }
     ]
   },
@@ -3170,13 +3749,24 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/H%C3%A8l%C3%A8ne%20Camille%20Crayencour",
+    "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Hèlène Camille Crayencour"
+        "@value": "Sean Welleck"
+      }
+    ]
+  },
+  {
+    "@id": "http://readings.puyuwang.org/authors/Pan%20Lu",
+    "@type": [
+      "http://xmlns.com/foaf/0.1/Person"
+    ],
+    "http://xmlns.com/foaf/0.1/name": [
+      {
+        "@value": "Pan Lu"
       }
     ]
   },
@@ -3251,145 +3841,13 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness",
+    "@id": "http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Deborah L. McGuinness"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Edouard%20Grave",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Edouard Grave"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Huajun%20Chen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Huajun Chen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Noam%20Brown",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Noam Brown"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Pan%20Lu",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Pan Lu"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Georg Gottlob"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Sean%20Welleck",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sean Welleck"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Meta%20Fundamental%20AI%20Research%20Diplomacy%20Team%20%28FAIR%29",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Meta Fundamental AI Research Diplomacy Team (FAIR)"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Klaus%20Frieler",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Klaus Frieler"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Michihiro Yasunaga"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/David%20De%20Roure",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "David De Roure"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Peter F. Patel-Schneider"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Alessandro%20Ronca",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Alessandro Ronca"
+        "@value": "Giancarlo Guizzardi"
       }
     ]
   },
@@ -3405,175 +3863,58 @@
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Luca%20Longo",
+    "@id": "http://readings.puyuwang.org/authors/Xiang%20Chen",
     "@type": [
       "http://xmlns.com/foaf/0.1/Person"
     ],
     "http://xmlns.com/foaf/0.1/name": [
       {
-        "@value": "Luca Longo"
+        "@value": "Xiang Chen"
       }
     ]
   },
   {
-    "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Zhuosheng Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Jonathan%20Larson",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Jonathan Larson"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Martin%20G.%20Skj%C3%A6veland",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Martin G. Skjæveland"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Steven%20Truitt",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Steven Truitt"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Joshua%20Bradley",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Joshua Bradley"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Colin%20Flaherty",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Colin Flaherty"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Frank%20H%C3%B6ger",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Frank Höger"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Evelina%20Fedorenko",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Evelina Fedorenko"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/William%20W.%20Cohen",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "William W. Cohen"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-28_Foundations_of_ontology-based_data_access_under_bag_semantics",
+    "@id": "http://readings.puyuwang.org/entry/2023-01-28_Datalog_Bag_Semantics_via_Set_Semantics",
     "@type": [
       "http://purl.org/ontology/bibo/AcademicArticle"
     ],
     "http://purl.org/dc/elements/1.1/creator": [
       {
-        "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou"
+        "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+        "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob"
       },
       {
-        "@id": "http://readings.puyuwang.org/authors/George%20Konstantinidis"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+        "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler"
       }
     ],
     "http://purl.org/dc/elements/1.1/date": [
       {
-        "@value": "2019-09"
+        "@value": "2019-02"
       }
     ],
     "http://purl.org/dc/elements/1.1/source": [
       {
-        "@value": "https://doi.org/10.1016/j.artint.2019.02.003"
+        "@value": "https://arxiv.org/pdf/1803.06445.pdf"
       }
     ],
     "http://purl.org/dc/elements/1.1/title": [
       {
-        "@value": "Foundations of ontology-based data access under bag semantics"
+        "@value": "Datalog: Bag Semantics via Set Semantics"
       }
     ],
     "http://purl.org/ontology/bibo/authorList": [
       {
         "@list": [
           {
-            "@id": "http://readings.puyuwang.org/authors/Charalampos%20Nikolaou"
+            "@id": "http://readings.puyuwang.org/authors/Leopoldo%20Bertossim"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/Egor%20V.%20Kostylev"
+            "@id": "http://readings.puyuwang.org/authors/Georg%20Gottlob"
           },
           {
-            "@id": "http://readings.puyuwang.org/authors/George%20Konstantinidis"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Mark%20Kaminski"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
+            "@id": "http://readings.puyuwang.org/authors/Reinhard%20Pichler"
           }
         ]
       }
@@ -3585,260 +3926,7 @@
     ],
     "http://www.w3.org/2000/01/rdf-schema#comment": [
       {
-        "@value": " This article proposes and studies a bag semantics for OBDA which provides a solid foundation for the future study of aggregate and analytic queries."
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Anton%20Bakhtin",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Anton Bakhtin"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Robert Osazuwa Ness"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/David%20Chong",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "David Chong"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-01-31_Reducing_OWL_Entailment_to_Description_Logic_Satisfiability",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2003-10"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://www.cs.ox.ac.uk/people/ian.horrocks/Publications/download/2003/HoPa03b.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Reducing OWL Entailment to Description Logic Satisfiability"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Ian%20Horrocks"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Peter%20F.%20Patel-Schneider"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-01-31"
-      }
-    ],
-    "http://www.w3.org/2000/01/rdf-schema#comment": [
-      {
-        "@value": " This paper established a correspondence between OWL ontologies and description logic knowledge bases, and then showed how knowledgebase entailment can be reduced to knowledge base satisfiability.  "
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/entry/2023-02-27_Is_ChatGPT_a_General-Purpose_Natural_Language_Processing_Task_Solver?",
-    "@type": [
-      "http://purl.org/ontology/bibo/AcademicArticle"
-    ],
-    "http://purl.org/dc/elements/1.1/creator": [
-      {
-        "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga"
-      },
-      {
-        "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/date": [
-      {
-        "@value": "2023-02"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/source": [
-      {
-        "@value": "https://arxiv.org/pdf/2302.06476.pdf"
-      }
-    ],
-    "http://purl.org/dc/elements/1.1/title": [
-      {
-        "@value": "Is ChatGPT a General-Purpose Natural Language Processing Task Solver?"
-      }
-    ],
-    "http://purl.org/ontology/bibo/authorList": [
-      {
-        "@list": [
-          {
-            "@id": "http://readings.puyuwang.org/authors/Chengwei%20Qin"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Zhuosheng%20Zhang"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Jiaao%20Chen"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Michihiro%20Yasunaga"
-          },
-          {
-            "@id": "http://readings.puyuwang.org/authors/Diyi%20Yang"
-          }
-        ]
-      }
-    ],
-    "http://readings.puyuwang.org/dateRead": [
-      {
-        "@value": "2023-02-27"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Sasha%20Mitts",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sasha Mitts"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Naman%20Goyal",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Naman Goyal"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/David%20Jaime%20Tena%20Cucala",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "David Jaime Tena Cucala"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Sebastian%20Schuster",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Sebastian Schuster"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Tillman%20Weyde",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Tillman Weyde"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Aston%20Zhang",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Aston Zhang"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Armelle%20Brun",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Armelle Brun"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Germain%20Gauthier",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Germain Gauthier"
-      }
-    ]
-  },
-  {
-    "@id": "http://readings.puyuwang.org/authors/Idan%20A.%20Blank",
-    "@type": [
-      "http://xmlns.com/foaf/0.1/Person"
-    ],
-    "http://xmlns.com/foaf/0.1/name": [
-      {
-        "@value": "Idan A. Blank"
+        "@value": " Duplicates in data management are common and problematic. This work presents a translation of Datalog under bag semantics into a well-behaved extension of Datalog"
       }
     ]
   }

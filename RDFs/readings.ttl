@@ -399,6 +399,21 @@
     readings:dateRead "2025-08-11" ;
     rdfs:comment " MedGraphRAG, a novel graph-based Retrieval-Augmented Generation (RAG) framework." .
 
+<http://readings.puyuwang.org/entry/2025-08-12_Agentic_Reasoning_A_Streamlined_Framework_for_Enhancing_LLM_Reasoning_with_Agentic_Tools> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Jiayuan%20Zhu>,
+        <http://readings.puyuwang.org/authors/Junde%20Wu>,
+        <http://readings.puyuwang.org/authors/Min%20Xu>,
+        <http://readings.puyuwang.org/authors/Yueming%20Jin>,
+        <http://readings.puyuwang.org/authors/Yuyuan%20Liu> ;
+    dc:date "2025-07" ;
+    dc:source "https://aclanthology.org/2024.emnlp-main.321.pdf" ;
+    dc:title "Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools" ;
+    dcterms:subject "Agentic Reasoning",
+        "Large Language Model" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Junde%20Wu> <http://readings.puyuwang.org/authors/Jiayuan%20Zhu> <http://readings.puyuwang.org/authors/Yuyuan%20Liu> <http://readings.puyuwang.org/authors/Min%20Xu> <http://readings.puyuwang.org/authors/Yueming%20Jin> ) ;
+    readings:dateRead "2025-08-12" ;
+    rdfs:comment " This paper presents Agentic Reasoning, a framework that enhances large language model (LLM) reasoning by integrating external tool-using agents." .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -615,9 +630,6 @@
 <http://readings.puyuwang.org/authors/Jiaoyan%20Chen> a foaf:Person ;
     foaf:name "Jiaoyan Chen" .
 
-<http://readings.puyuwang.org/authors/Jiayuan%20Zhu> a foaf:Person ;
-    foaf:name "Jiayuan Zhu" .
-
 <http://readings.puyuwang.org/authors/Jingkun%20Chen> a foaf:Person ;
     foaf:name "Jingkun Chen" .
 
@@ -641,9 +653,6 @@
 
 <http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos> a foaf:Person ;
     foaf:name "Julian Martin Eisenschlos" .
-
-<http://readings.puyuwang.org/authors/Junde%20Wu> a foaf:Person ;
-    foaf:name "Junde Wu" .
 
 <http://readings.puyuwang.org/authors/Kai-Wei%20Chang> a foaf:Person ;
     foaf:name "Kai-Wei Chang" .
@@ -701,9 +710,6 @@
 
 <http://readings.puyuwang.org/authors/Mike%20Lewis> a foaf:Person ;
     foaf:name "Mike Lewis" .
-
-<http://readings.puyuwang.org/authors/Min%20Xu> a foaf:Person ;
-    foaf:name "Min Xu" .
 
 <http://readings.puyuwang.org/authors/Minae%20Kwon> a foaf:Person ;
     foaf:name "Minae Kwon" .
@@ -837,9 +843,6 @@
 <http://readings.puyuwang.org/authors/Yixin%20Ou> a foaf:Person ;
     foaf:name "Yixin Ou" .
 
-<http://readings.puyuwang.org/authors/Yueming%20Jin> a foaf:Person ;
-    foaf:name "Yueming Jin" .
-
 <http://readings.puyuwang.org/authors/Yunli%20Qi> a foaf:Person ;
     foaf:name "Yunli Qi" .
 
@@ -848,6 +851,9 @@
 
 <http://readings.puyuwang.org/authors/Yuxia%20Geng> a foaf:Person ;
     foaf:name "Yuxia Geng" .
+
+<http://readings.puyuwang.org/authors/Yuyuan%20Liu> a foaf:Person ;
+    foaf:name "Yuyuan Liu" .
 
 <http://readings.puyuwang.org/authors/Zhuo%20Chen> a foaf:Person ;
     foaf:name "Zhuo Chen" .
@@ -864,8 +870,20 @@
 <http://readings.puyuwang.org/authors/Huajun%20Chen> a foaf:Person ;
     foaf:name "Huajun Chen" .
 
+<http://readings.puyuwang.org/authors/Jiayuan%20Zhu> a foaf:Person ;
+    foaf:name "Jiayuan Zhu" .
+
+<http://readings.puyuwang.org/authors/Junde%20Wu> a foaf:Person ;
+    foaf:name "Junde Wu" .
+
 <http://readings.puyuwang.org/authors/Mark%20Kaminski> a foaf:Person ;
     foaf:name "Mark Kaminski" .
+
+<http://readings.puyuwang.org/authors/Min%20Xu> a foaf:Person ;
+    foaf:name "Min Xu" .
+
+<http://readings.puyuwang.org/authors/Yueming%20Jin> a foaf:Person ;
+    foaf:name "Yueming Jin" .
 
 <http://readings.puyuwang.org/authors/Bernardo%20Cuenca%20Grau> a foaf:Person ;
     foaf:name "Bernardo Cuenca Grau" .
