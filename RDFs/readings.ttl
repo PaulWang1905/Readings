@@ -409,7 +409,7 @@
     dc:source "https://aclanthology.org/2024.emnlp-main.321.pdf" ;
     dc:title "Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools" ;
     dcterms:subject "Agentic Reasoning",
-        "Large Language Model" ;
+        "Large Language Models" ;
     bibo:authorList ( <http://readings.puyuwang.org/authors/Junde%20Wu> <http://readings.puyuwang.org/authors/Jiayuan%20Zhu> <http://readings.puyuwang.org/authors/Yuyuan%20Liu> <http://readings.puyuwang.org/authors/Min%20Xu> <http://readings.puyuwang.org/authors/Yueming%20Jin> ) ;
     readings:dateRead "2025-08-12" ;
     rdfs:comment " This paper presents Agentic Reasoning, a framework that enhances large language model (LLM) reasoning by integrating external tool-using agents." .
