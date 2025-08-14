@@ -414,6 +414,78 @@
     readings:dateRead "2025-08-12" ;
     rdfs:comment " This paper presents Agentic Reasoning, a framework that enhances large language model (LLM) reasoning by integrating external tool-using agents." .
 
+<http://readings.puyuwang.org/entry/2025-08-14_Discovering_Language_Model_Behaviors_with_Model-Written_Evaluations> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Amanda%20Askell>,
+        <http://readings.puyuwang.org/authors/Andy%20Jones>,
+        <http://readings.puyuwang.org/authors/Anna%20Chen>,
+        <http://readings.puyuwang.org/authors/Benjamin%20Mann>,
+        <http://readings.puyuwang.org/authors/Brian%20Israel>,
+        <http://readings.puyuwang.org/authors/Bryan%20Seethor>,
+        <http://readings.puyuwang.org/authors/Cameron%20McKinnon>,
+        <http://readings.puyuwang.org/authors/Catherine%20Olsson>,
+        <http://readings.puyuwang.org/authors/Christopher%20Olah>,
+        <http://readings.puyuwang.org/authors/Craig%20Pettit>,
+        <http://readings.puyuwang.org/authors/Da%20Yan>,
+        <http://readings.puyuwang.org/authors/Daniela%20Amodei>,
+        <http://readings.puyuwang.org/authors/Danny%20Hernandez>,
+        <http://readings.puyuwang.org/authors/Dario%20Amodei>,
+        <http://readings.puyuwang.org/authors/Dawn%20Drain>,
+        <http://readings.puyuwang.org/authors/Deep%20Ganguli>,
+        <http://readings.puyuwang.org/authors/Dustin%20Li>,
+        <http://readings.puyuwang.org/authors/Edwin%20Chen>,
+        <http://readings.puyuwang.org/authors/Eli%20Tran-Johnson>,
+        <http://readings.puyuwang.org/authors/Ethan%20Perez>,
+        <http://readings.puyuwang.org/authors/Evan%20Hubinger>,
+        <http://readings.puyuwang.org/authors/Guro%20Khundadze>,
+        <http://readings.puyuwang.org/authors/Jack%20Clark>,
+        <http://readings.puyuwang.org/authors/Jackson%20Kernion>,
+        <http://readings.puyuwang.org/authors/James%20Landis>,
+        <http://readings.puyuwang.org/authors/Jamie%20Kerr>,
+        <http://readings.puyuwang.org/authors/Jared%20Kaplan>,
+        <http://readings.puyuwang.org/authors/Jared%20Mueller>,
+        <http://readings.puyuwang.org/authors/Jeeyoon%20Hyun>,
+        <http://readings.puyuwang.org/authors/Joshua%20Landau>,
+        <http://readings.puyuwang.org/authors/Kamal%20Ndousse>,
+        <http://readings.puyuwang.org/authors/Kamile%20Lukosiute>,
+        <http://readings.puyuwang.org/authors/Karina%20Nguyen>,
+        <http://readings.puyuwang.org/authors/Landon%20Goldberg>,
+        <http://readings.puyuwang.org/authors/Liane%20Lovitt>,
+        <http://readings.puyuwang.org/authors/Martin%20Lucas>,
+        <http://readings.puyuwang.org/authors/Michael%20Sellitto>,
+        <http://readings.puyuwang.org/authors/Miranda%20Zhang>,
+        <http://readings.puyuwang.org/authors/Neerav%20Kingsland>,
+        <http://readings.puyuwang.org/authors/Nelson%20Elhage>,
+        <http://readings.puyuwang.org/authors/Nicholas%20Joseph>,
+        <http://readings.puyuwang.org/authors/Nicholas%20Schiefer>,
+        <http://readings.puyuwang.org/authors/Noemi%20Mercado>,
+        <http://readings.puyuwang.org/authors/Nova%20DasSarma>,
+        <http://readings.puyuwang.org/authors/Oliver%20Rausch>,
+        <http://readings.puyuwang.org/authors/Robin%20Larson>,
+        <http://readings.puyuwang.org/authors/Roger%20Grosse>,
+        <http://readings.puyuwang.org/authors/Sam%20McCandlish>,
+        <http://readings.puyuwang.org/authors/Sam%20Ringer>,
+        <http://readings.puyuwang.org/authors/Samuel%20R.%20Bowman>,
+        <http://readings.puyuwang.org/authors/Sandipan%20Kundu>,
+        <http://readings.puyuwang.org/authors/Saurav%20Kadavath>,
+        <http://readings.puyuwang.org/authors/Scott%20Heiner>,
+        <http://readings.puyuwang.org/authors/Scott%20Johnston>,
+        <http://readings.puyuwang.org/authors/Shauna%20Kravec>,
+        <http://readings.puyuwang.org/authors/Sheer%20El%20Showk>,
+        <http://readings.puyuwang.org/authors/Tamera%20Lanham>,
+        <http://readings.puyuwang.org/authors/Timothy%20Telleen-Lawton>,
+        <http://readings.puyuwang.org/authors/Tom%20Brown>,
+        <http://readings.puyuwang.org/authors/Tom%20Henighan>,
+        <http://readings.puyuwang.org/authors/Tristan%20Hume>,
+        <http://readings.puyuwang.org/authors/Yuntao%20Bai>,
+        <http://readings.puyuwang.org/authors/Zac%20Hatfield-Dodds> ;
+    dc:date "2023-07" ;
+    dc:source "https://aclanthology.org/2023.findings-acl.847.pdf" ;
+    dc:title "Discovering Language Model Behaviors with Model-Written Evaluations" ;
+    dcterms:subject "Large Language Models" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Ethan%20Perez> <http://readings.puyuwang.org/authors/Sam%20Ringer> <http://readings.puyuwang.org/authors/Kamile%20Lukosiute> <http://readings.puyuwang.org/authors/Karina%20Nguyen> <http://readings.puyuwang.org/authors/Edwin%20Chen> <http://readings.puyuwang.org/authors/Scott%20Heiner> <http://readings.puyuwang.org/authors/Craig%20Pettit> <http://readings.puyuwang.org/authors/Catherine%20Olsson> <http://readings.puyuwang.org/authors/Sandipan%20Kundu> <http://readings.puyuwang.org/authors/Saurav%20Kadavath> <http://readings.puyuwang.org/authors/Andy%20Jones> <http://readings.puyuwang.org/authors/Anna%20Chen> <http://readings.puyuwang.org/authors/Benjamin%20Mann> <http://readings.puyuwang.org/authors/Brian%20Israel> <http://readings.puyuwang.org/authors/Bryan%20Seethor> <http://readings.puyuwang.org/authors/Cameron%20McKinnon> <http://readings.puyuwang.org/authors/Christopher%20Olah> <http://readings.puyuwang.org/authors/Da%20Yan> <http://readings.puyuwang.org/authors/Daniela%20Amodei> <http://readings.puyuwang.org/authors/Dario%20Amodei> <http://readings.puyuwang.org/authors/Dawn%20Drain> <http://readings.puyuwang.org/authors/Dustin%20Li> <http://readings.puyuwang.org/authors/Eli%20Tran-Johnson> <http://readings.puyuwang.org/authors/Guro%20Khundadze> <http://readings.puyuwang.org/authors/Jackson%20Kernion> <http://readings.puyuwang.org/authors/James%20Landis> <http://readings.puyuwang.org/authors/Jamie%20Kerr> <http://readings.puyuwang.org/authors/Jared%20Mueller> <http://readings.puyuwang.org/authors/Jeeyoon%20Hyun> <http://readings.puyuwang.org/authors/Joshua%20Landau> <http://readings.puyuwang.org/authors/Kamal%20Ndousse> <http://readings.puyuwang.org/authors/Landon%20Goldberg> <http://readings.puyuwang.org/authors/Liane%20Lovitt> <http://readings.puyuwang.org/authors/Martin%20Lucas> <http://readings.puyuwang.org/authors/Michael%20Sellitto> <http://readings.puyuwang.org/authors/Miranda%20Zhang> <http://readings.puyuwang.org/authors/Neerav%20Kingsland> <http://readings.puyuwang.org/authors/Nelson%20Elhage> <http://readings.puyuwang.org/authors/Nicholas%20Joseph> <http://readings.puyuwang.org/authors/Noemi%20Mercado> <http://readings.puyuwang.org/authors/Nova%20DasSarma> <http://readings.puyuwang.org/authors/Oliver%20Rausch> <http://readings.puyuwang.org/authors/Robin%20Larson> <http://readings.puyuwang.org/authors/Sam%20McCandlish> <http://readings.puyuwang.org/authors/Scott%20Johnston> <http://readings.puyuwang.org/authors/Shauna%20Kravec> <http://readings.puyuwang.org/authors/Sheer%20El%20Showk> <http://readings.puyuwang.org/authors/Tamera%20Lanham> <http://readings.puyuwang.org/authors/Timothy%20Telleen-Lawton> <http://readings.puyuwang.org/authors/Tom%20Brown> <http://readings.puyuwang.org/authors/Tom%20Henighan> <http://readings.puyuwang.org/authors/Tristan%20Hume> <http://readings.puyuwang.org/authors/Yuntao%20Bai> <http://readings.puyuwang.org/authors/Zac%20Hatfield-Dodds> <http://readings.puyuwang.org/authors/Jack%20Clark> <http://readings.puyuwang.org/authors/Samuel%20R.%20Bowman> <http://readings.puyuwang.org/authors/Amanda%20Askell> <http://readings.puyuwang.org/authors/Roger%20Grosse> <http://readings.puyuwang.org/authors/Danny%20Hernandez> <http://readings.puyuwang.org/authors/Deep%20Ganguli> <http://readings.puyuwang.org/authors/Evan%20Hubinger> <http://readings.puyuwang.org/authors/Nicholas%20Schiefer> <http://readings.puyuwang.org/authors/Jared%20Kaplan> ) ;
+    readings:dateRead "2025-08-14" ;
+    rdfs:comment " I am mostly interested in this paper about how prompt effects the LLMs' answer. This paper was mentioned in another paper 'Simple synthetic data reduces sycophancy in large language models' review process. I am looking into Political Sycophancy. This link might also be useful: https://www.evals.anthropic.com/" .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -435,11 +507,20 @@
 <http://readings.puyuwang.org/authors/Alexander%20Wei> a foaf:Person ;
     foaf:name "Alexander Wei" .
 
+<http://readings.puyuwang.org/authors/Amanda%20Askell> a foaf:Person ;
+    foaf:name "Amanda Askell" .
+
 <http://readings.puyuwang.org/authors/Andrew%20Goff> a foaf:Person ;
     foaf:name "Andrew Goff" .
 
+<http://readings.puyuwang.org/authors/Andy%20Jones> a foaf:Person ;
+    foaf:name "Andy Jones" .
+
 <http://readings.puyuwang.org/authors/Anna%20A.%20Ivanova> a foaf:Person ;
     foaf:name "Anna A. Ivanova" .
+
+<http://readings.puyuwang.org/authors/Anna%20Chen> a foaf:Person ;
+    foaf:name "Anna Chen" .
 
 <http://readings.puyuwang.org/authors/Anton%20Bakhtin> a foaf:Person ;
     foaf:name "Anton Bakhtin" .
@@ -465,14 +546,29 @@
 <http://readings.puyuwang.org/authors/Baptiste%20Rozi%C3%A8re> a foaf:Person ;
     foaf:name "Baptiste Rozière" .
 
+<http://readings.puyuwang.org/authors/Benjamin%20Mann> a foaf:Person ;
+    foaf:name "Benjamin Mann" .
+
 <http://readings.puyuwang.org/authors/Bhuwan%20Dhingra> a foaf:Person ;
     foaf:name "Bhuwan Dhingra" .
 
 <http://readings.puyuwang.org/authors/Bojan%20Bo%C5%BEi%C4%87> a foaf:Person ;
     foaf:name "Bojan Božić" .
 
+<http://readings.puyuwang.org/authors/Brian%20Israel> a foaf:Person ;
+    foaf:name "Brian Israel" .
+
+<http://readings.puyuwang.org/authors/Bryan%20Seethor> a foaf:Person ;
+    foaf:name "Bryan Seethor" .
+
+<http://readings.puyuwang.org/authors/Cameron%20McKinnon> a foaf:Person ;
+    foaf:name "Cameron McKinnon" .
+
 <http://readings.puyuwang.org/authors/Cassia%20Trojahn%20dos%20Santos> a foaf:Person ;
     foaf:name "Cassia Trojahn dos Santos" .
+
+<http://readings.puyuwang.org/authors/Catherine%20Olsson> a foaf:Person ;
+    foaf:name "Catherine Olsson" .
 
 <http://readings.puyuwang.org/authors/Charalampos%20Nikolaou> a foaf:Person ;
     foaf:name "Charalampos Nikolaou" .
@@ -483,11 +579,20 @@
 <http://readings.puyuwang.org/authors/Christian%20Kindermann> a foaf:Person ;
     foaf:name "Christian Kindermann" .
 
+<http://readings.puyuwang.org/authors/Christopher%20Olah> a foaf:Person ;
+    foaf:name "Christopher Olah" .
+
 <http://readings.puyuwang.org/authors/Chuanqi%20Tan> a foaf:Person ;
     foaf:name "Chuanqi Tan" .
 
 <http://readings.puyuwang.org/authors/Colin%20Flaherty> a foaf:Person ;
     foaf:name "Colin Flaherty" .
+
+<http://readings.puyuwang.org/authors/Craig%20Pettit> a foaf:Person ;
+    foaf:name "Craig Pettit" .
+
+<http://readings.puyuwang.org/authors/Da%20Yan> a foaf:Person ;
+    foaf:name "Da Yan" .
 
 <http://readings.puyuwang.org/authors/Daniel%20Fried> a foaf:Person ;
     foaf:name "Daniel Fried" .
@@ -498,8 +603,17 @@
 <http://readings.puyuwang.org/authors/Daniel%20Wolff> a foaf:Person ;
     foaf:name "Daniel Wolff" .
 
+<http://readings.puyuwang.org/authors/Daniela%20Amodei> a foaf:Person ;
+    foaf:name "Daniela Amodei" .
+
 <http://readings.puyuwang.org/authors/Daniela%20Schmidt> a foaf:Person ;
     foaf:name "Daniela Schmidt" .
+
+<http://readings.puyuwang.org/authors/Danny%20Hernandez> a foaf:Person ;
+    foaf:name "Danny Hernandez" .
+
+<http://readings.puyuwang.org/authors/Dario%20Amodei> a foaf:Person ;
+    foaf:name "Dario Amodei" .
 
 <http://readings.puyuwang.org/authors/Darren%20Edge> a foaf:Person ;
     foaf:name "Darren Edge" .
@@ -522,8 +636,14 @@
 <http://readings.puyuwang.org/authors/Davy%20Monticolo> a foaf:Person ;
     foaf:name "Davy Monticolo" .
 
+<http://readings.puyuwang.org/authors/Dawn%20Drain> a foaf:Person ;
+    foaf:name "Dawn Drain" .
+
 <http://readings.puyuwang.org/authors/Deborah%20L.%20McGuinness> a foaf:Person ;
     foaf:name "Deborah L. McGuinness" .
+
+<http://readings.puyuwang.org/authors/Deep%20Ganguli> a foaf:Person ;
+    foaf:name "Deep Ganguli" .
 
 <http://readings.puyuwang.org/authors/Dirk%20Rowe> a foaf:Person ;
     foaf:name "Dirk Rowe" .
@@ -531,11 +651,20 @@
 <http://readings.puyuwang.org/authors/Diyi%20Yang> a foaf:Person ;
     foaf:name "Diyi Yang" .
 
+<http://readings.puyuwang.org/authors/Dustin%20Li> a foaf:Person ;
+    foaf:name "Dustin Li" .
+
 <http://readings.puyuwang.org/authors/Dylan%20Roy> a foaf:Person ;
     foaf:name "Dylan Roy" .
 
 <http://readings.puyuwang.org/authors/Edouard%20Grave> a foaf:Person ;
     foaf:name "Edouard Grave" .
+
+<http://readings.puyuwang.org/authors/Edwin%20Chen> a foaf:Person ;
+    foaf:name "Edwin Chen" .
+
+<http://readings.puyuwang.org/authors/Eli%20Tran-Johnson> a foaf:Person ;
+    foaf:name "Eli Tran-Johnson" .
 
 <http://readings.puyuwang.org/authors/Elliott%20Ash> a foaf:Person ;
     foaf:name "Elliott Ash" .
@@ -548,6 +677,12 @@
 
 <http://readings.puyuwang.org/authors/Erl%20Lee> a foaf:Person ;
     foaf:name "Erl Lee" .
+
+<http://readings.puyuwang.org/authors/Ethan%20Perez> a foaf:Person ;
+    foaf:name "Ethan Perez" .
+
+<http://readings.puyuwang.org/authors/Evan%20Hubinger> a foaf:Person ;
+    foaf:name "Evan Hubinger" .
 
 <http://readings.puyuwang.org/authors/Evelina%20Fedorenko> a foaf:Person ;
     foaf:name "Evelina Fedorenko" .
@@ -591,6 +726,9 @@
 <http://readings.puyuwang.org/authors/Guillaume%20Lample> a foaf:Person ;
     foaf:name "Guillaume Lample" .
 
+<http://readings.puyuwang.org/authors/Guro%20Khundadze> a foaf:Person ;
+    foaf:name "Guro Khundadze" .
+
 <http://readings.puyuwang.org/authors/Gy%C3%B6rgy%20Fazekas> a foaf:Person ;
     foaf:name "György Fazekas" .
 
@@ -612,11 +750,32 @@
 <http://readings.puyuwang.org/authors/Idan%20A.%20Blank> a foaf:Person ;
     foaf:name "Idan A. Blank" .
 
+<http://readings.puyuwang.org/authors/Jack%20Clark> a foaf:Person ;
+    foaf:name "Jack Clark" .
+
+<http://readings.puyuwang.org/authors/Jackson%20Kernion> a foaf:Person ;
+    foaf:name "Jackson Kernion" .
+
 <http://readings.puyuwang.org/authors/Jacob%20Eisenstein> a foaf:Person ;
     foaf:name "Jacob Eisenstein" .
 
+<http://readings.puyuwang.org/authors/James%20Landis> a foaf:Person ;
+    foaf:name "James Landis" .
+
+<http://readings.puyuwang.org/authors/Jamie%20Kerr> a foaf:Person ;
+    foaf:name "Jamie Kerr" .
+
 <http://readings.puyuwang.org/authors/Jan%20Portisch> a foaf:Person ;
     foaf:name "Jan Portisch" .
+
+<http://readings.puyuwang.org/authors/Jared%20Kaplan> a foaf:Person ;
+    foaf:name "Jared Kaplan" .
+
+<http://readings.puyuwang.org/authors/Jared%20Mueller> a foaf:Person ;
+    foaf:name "Jared Mueller" .
+
+<http://readings.puyuwang.org/authors/Jeeyoon%20Hyun> a foaf:Person ;
+    foaf:name "Jeeyoon Hyun" .
 
 <http://readings.puyuwang.org/authors/Jeff%20Z.%20Pan> a foaf:Person ;
     foaf:name "Jeff Z. Pan" .
@@ -651,11 +810,23 @@
 <http://readings.puyuwang.org/authors/Joshua%20Bradley> a foaf:Person ;
     foaf:name "Joshua Bradley" .
 
+<http://readings.puyuwang.org/authors/Joshua%20Landau> a foaf:Person ;
+    foaf:name "Joshua Landau" .
+
 <http://readings.puyuwang.org/authors/Julian%20Martin%20Eisenschlos> a foaf:Person ;
     foaf:name "Julian Martin Eisenschlos" .
 
 <http://readings.puyuwang.org/authors/Kai-Wei%20Chang> a foaf:Person ;
     foaf:name "Kai-Wei Chang" .
+
+<http://readings.puyuwang.org/authors/Kamal%20Ndousse> a foaf:Person ;
+    foaf:name "Kamal Ndousse" .
+
+<http://readings.puyuwang.org/authors/Kamile%20Lukosiute> a foaf:Person ;
+    foaf:name "Kamile Lukosiute" .
+
+<http://readings.puyuwang.org/authors/Karina%20Nguyen> a foaf:Person ;
+    foaf:name "Karina Nguyen" .
 
 <http://readings.puyuwang.org/authors/Karthik%20Konath> a foaf:Person ;
     foaf:name "Karthik Konath" .
@@ -669,8 +840,14 @@
 <http://readings.puyuwang.org/authors/Kyle%20Mahowald> a foaf:Person ;
     foaf:name "Kyle Mahowald" .
 
+<http://readings.puyuwang.org/authors/Landon%20Goldberg> a foaf:Person ;
+    foaf:name "Landon Goldberg" .
+
 <http://readings.puyuwang.org/authors/Leopoldo%20Bertossim> a foaf:Person ;
     foaf:name "Leopoldo Bertossim" .
+
+<http://readings.puyuwang.org/authors/Liane%20Lovitt> a foaf:Person ;
+    foaf:name "Liane Lovitt" .
 
 <http://readings.puyuwang.org/authors/Liang%20Qiu> a foaf:Person ;
     foaf:name "Liang Qiu" .
@@ -690,6 +867,9 @@
 <http://readings.puyuwang.org/authors/Martin%20G.%20Skj%C3%A6veland> a foaf:Person ;
     foaf:name "Martin G. Skjæveland" .
 
+<http://readings.puyuwang.org/authors/Martin%20Lucas> a foaf:Person ;
+    foaf:name "Martin Lucas" .
+
 <http://readings.puyuwang.org/authors/Martin%20Pfleiderer> a foaf:Person ;
     foaf:name "Martin Pfleiderer" .
 
@@ -705,6 +885,9 @@
 <http://readings.puyuwang.org/authors/Michael%20Hladik> a foaf:Person ;
     foaf:name "Michael Hladik" .
 
+<http://readings.puyuwang.org/authors/Michael%20Sellitto> a foaf:Person ;
+    foaf:name "Michael Sellitto" .
+
 <http://readings.puyuwang.org/authors/Michihiro%20Yasunaga> a foaf:Person ;
     foaf:name "Michihiro Yasunaga" .
 
@@ -713,6 +896,9 @@
 
 <http://readings.puyuwang.org/authors/Minae%20Kwon> a foaf:Person ;
     foaf:name "Minae Kwon" .
+
+<http://readings.puyuwang.org/authors/Miranda%20Zhang> a foaf:Person ;
+    foaf:name "Miranda Zhang" .
 
 <http://readings.puyuwang.org/authors/Mojtaba%20Komeili> a foaf:Person ;
     foaf:name "Mojtaba Komeili" .
@@ -726,8 +912,20 @@
 <http://readings.puyuwang.org/authors/Nancy%20Kanwisher> a foaf:Person ;
     foaf:name "Nancy Kanwisher" .
 
+<http://readings.puyuwang.org/authors/Neerav%20Kingsland> a foaf:Person ;
+    foaf:name "Neerav Kingsland" .
+
+<http://readings.puyuwang.org/authors/Nelson%20Elhage> a foaf:Person ;
+    foaf:name "Nelson Elhage" .
+
 <http://readings.puyuwang.org/authors/Newman%20Cheng> a foaf:Person ;
     foaf:name "Newman Cheng" .
+
+<http://readings.puyuwang.org/authors/Nicholas%20Joseph> a foaf:Person ;
+    foaf:name "Nicholas Joseph" .
+
+<http://readings.puyuwang.org/authors/Nicholas%20Schiefer> a foaf:Person ;
+    foaf:name "Nicholas Schiefer" .
 
 <http://readings.puyuwang.org/authors/Nicolas%20Hubert> a foaf:Person ;
     foaf:name "Nicolas Hubert" .
@@ -738,8 +936,17 @@
 <http://readings.puyuwang.org/authors/Noam%20Brown> a foaf:Person ;
     foaf:name "Noam Brown" .
 
+<http://readings.puyuwang.org/authors/Noemi%20Mercado> a foaf:Person ;
+    foaf:name "Noemi Mercado" .
+
+<http://readings.puyuwang.org/authors/Nova%20DasSarma> a foaf:Person ;
+    foaf:name "Nova DasSarma" .
+
 <http://readings.puyuwang.org/authors/Olga%20Velichkina> a foaf:Person ;
     foaf:name "Olga Velichkina" .
+
+<http://readings.puyuwang.org/authors/Oliver%20Rausch> a foaf:Person ;
+    foaf:name "Oliver Rausch" .
 
 <http://readings.puyuwang.org/authors/Pan%20Lu> a foaf:Person ;
     foaf:name "Pan Lu" .
@@ -771,11 +978,38 @@
 <http://readings.puyuwang.org/authors/Robert%20Osazuwa%20Ness> a foaf:Person ;
     foaf:name "Robert Osazuwa Ness" .
 
+<http://readings.puyuwang.org/authors/Robin%20Larson> a foaf:Person ;
+    foaf:name "Robin Larson" .
+
+<http://readings.puyuwang.org/authors/Roger%20Grosse> a foaf:Person ;
+    foaf:name "Roger Grosse" .
+
 <http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid> a foaf:Person ;
     foaf:name "Sabbir M. Rashid" .
 
+<http://readings.puyuwang.org/authors/Sam%20McCandlish> a foaf:Person ;
+    foaf:name "Sam McCandlish" .
+
+<http://readings.puyuwang.org/authors/Sam%20Ringer> a foaf:Person ;
+    foaf:name "Sam Ringer" .
+
+<http://readings.puyuwang.org/authors/Samuel%20R.%20Bowman> a foaf:Person ;
+    foaf:name "Samuel R. Bowman" .
+
+<http://readings.puyuwang.org/authors/Sandipan%20Kundu> a foaf:Person ;
+    foaf:name "Sandipan Kundu" .
+
 <http://readings.puyuwang.org/authors/Sasha%20Mitts> a foaf:Person ;
     foaf:name "Sasha Mitts" .
+
+<http://readings.puyuwang.org/authors/Saurav%20Kadavath> a foaf:Person ;
+    foaf:name "Saurav Kadavath" .
+
+<http://readings.puyuwang.org/authors/Scott%20Heiner> a foaf:Person ;
+    foaf:name "Scott Heiner" .
+
+<http://readings.puyuwang.org/authors/Scott%20Johnston> a foaf:Person ;
+    foaf:name "Scott Johnston" .
 
 <http://readings.puyuwang.org/authors/Sean%20Welleck> a foaf:Person ;
     foaf:name "Sean Welleck" .
@@ -785,6 +1019,12 @@
 
 <http://readings.puyuwang.org/authors/Shadi%20Shahsavari> a foaf:Person ;
     foaf:name "Shadi Shahsavari" .
+
+<http://readings.puyuwang.org/authors/Shauna%20Kravec> a foaf:Person ;
+    foaf:name "Shauna Kravec" .
+
+<http://readings.puyuwang.org/authors/Sheer%20El%20Showk> a foaf:Person ;
+    foaf:name "Sheer El Showk" .
 
 <http://readings.puyuwang.org/authors/Shumin%20Deng> a foaf:Person ;
     foaf:name "Shumin Deng" .
@@ -801,6 +1041,9 @@
 <http://readings.puyuwang.org/authors/Steven%20Truitt> a foaf:Person ;
     foaf:name "Steven Truitt" .
 
+<http://readings.puyuwang.org/authors/Tamera%20Lanham> a foaf:Person ;
+    foaf:name "Tamera Lanham" .
+
 <http://readings.puyuwang.org/authors/Thibaut%20Lavril> a foaf:Person ;
     foaf:name "Thibaut Lavril" .
 
@@ -812,6 +1055,18 @@
 
 <http://readings.puyuwang.org/authors/Timothy%20Tangherlini> a foaf:Person ;
     foaf:name "Timothy Tangherlini" .
+
+<http://readings.puyuwang.org/authors/Timothy%20Telleen-Lawton> a foaf:Person ;
+    foaf:name "Timothy Telleen-Lawton" .
+
+<http://readings.puyuwang.org/authors/Tom%20Brown> a foaf:Person ;
+    foaf:name "Tom Brown" .
+
+<http://readings.puyuwang.org/authors/Tom%20Henighan> a foaf:Person ;
+    foaf:name "Tom Henighan" .
+
+<http://readings.puyuwang.org/authors/Tristan%20Hume> a foaf:Person ;
+    foaf:name "Tristan Hume" .
 
 <http://readings.puyuwang.org/authors/Valerio%20Cocchi> a foaf:Person ;
     foaf:name "Valerio Cocchi" .
@@ -846,6 +1101,9 @@
 <http://readings.puyuwang.org/authors/Yunli%20Qi> a foaf:Person ;
     foaf:name "Yunli Qi" .
 
+<http://readings.puyuwang.org/authors/Yuntao%20Bai> a foaf:Person ;
+    foaf:name "Yuntao Bai" .
+
 <http://readings.puyuwang.org/authors/Yunzhi%20Yao> a foaf:Person ;
     foaf:name "Yunzhi Yao" .
 
@@ -854,6 +1112,9 @@
 
 <http://readings.puyuwang.org/authors/Yuyuan%20Liu> a foaf:Person ;
     foaf:name "Yuyuan Liu" .
+
+<http://readings.puyuwang.org/authors/Zac%20Hatfield-Dodds> a foaf:Person ;
+    foaf:name "Zac Hatfield-Dodds" .
 
 <http://readings.puyuwang.org/authors/Zhuo%20Chen> a foaf:Person ;
     foaf:name "Zhuo Chen" .
