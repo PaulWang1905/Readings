@@ -486,6 +486,21 @@
     readings:dateRead "2025-08-14" ;
     rdfs:comment " I am mostly interested in this paper about how prompt effects the LLMs' answer. This paper was mentioned in another paper 'Simple synthetic data reduces sycophancy in large language models' review process. I am looking into Political Sycophancy. This link might also be useful: https://www.evals.anthropic.com/" .
 
+<http://readings.puyuwang.org/entry/2025-09-22_Do_LLMs_Dream_of_Ontologies?> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Marco%20Bombieri>,
+        <http://readings.puyuwang.org/authors/Marco%20Rospocher>,
+        <http://readings.puyuwang.org/authors/Paolo%20Fiorini>,
+        <http://readings.puyuwang.org/authors/Simone%20Paolo%20Ponzetto> ;
+    dc:date "2025-01" ;
+    dc:source "https://arxiv.org/pdf/2401.14931" ;
+    dc:title "Do LLMs Dream of Ontologies?" ;
+    dcterms:subject "Large Language Models",
+        "Memorization",
+        "Ontologies" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Marco%20Bombieri> <http://readings.puyuwang.org/authors/Paolo%20Fiorini> <http://readings.puyuwang.org/authors/Simone%20Paolo%20Ponzetto> <http://readings.puyuwang.org/authors/Marco%20Rospocher> ) ;
+    readings:dateRead "2025-09-22" ;
+    rdfs:comment " This paper investigated the LLMs's ability to memorized the vocabulary's IDs and labels from publicly available ontologies. " .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -855,6 +870,12 @@
 <http://readings.puyuwang.org/authors/Luca%20Longo> a foaf:Person ;
     foaf:name "Luca Longo" .
 
+<http://readings.puyuwang.org/authors/Marco%20Bombieri> a foaf:Person ;
+    foaf:name "Marco Bombieri" .
+
+<http://readings.puyuwang.org/authors/Marco%20Rospocher> a foaf:Person ;
+    foaf:name "Marco Rospocher" .
+
 <http://readings.puyuwang.org/authors/Marco%20Schorlemmer> a foaf:Person ;
     foaf:name "Marco Schorlemmer" .
 
@@ -951,6 +972,9 @@
 <http://readings.puyuwang.org/authors/Pan%20Lu> a foaf:Person ;
     foaf:name "Pan Lu" .
 
+<http://readings.puyuwang.org/authors/Paolo%20Fiorini> a foaf:Person ;
+    foaf:name "Paolo Fiorini" .
+
 <http://readings.puyuwang.org/authors/Pavan%20Holur> a foaf:Person ;
     foaf:name "Pavan Holur" .
 
@@ -1034,6 +1058,9 @@
 
 <http://readings.puyuwang.org/authors/Simon%20Dixon> a foaf:Person ;
     foaf:name "Simon Dixon" .
+
+<http://readings.puyuwang.org/authors/Simone%20Paolo%20Ponzetto> a foaf:Person ;
+    foaf:name "Simone Paolo Ponzetto" .
 
 <http://readings.puyuwang.org/authors/Stephen%20Roller> a foaf:Person ;
     foaf:name "Stephen Roller" .
