@@ -501,6 +501,21 @@
     readings:dateRead "2025-09-22" ;
     rdfs:comment " This paper investigated the LLMs's ability to memorized the vocabulary's IDs and labels from publicly available ontologies. " .
 
+<http://readings.puyuwang.org/entry/2025-09-24_Link_Prediction_on_N-ary_Relational_Data> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Saiping%20Guan>,
+        <http://readings.puyuwang.org/authors/Xiaolong%20Jin>,
+        <http://readings.puyuwang.org/authors/Xueqi%20Cheng>,
+        <http://readings.puyuwang.org/authors/Yuanzhuo%20Wang> ;
+    dc:date "2019-05" ;
+    dc:source "https://doi.org/10.1145/3308558.3313414" ;
+    dc:title "Link Prediction on N-ary Relational Data" ;
+    dcterms:subject "Knowledge Graph",
+        "Link Prediction",
+        "Neural Network" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Saiping%20Guan> <http://readings.puyuwang.org/authors/Xiaolong%20Jin> <http://readings.puyuwang.org/authors/Yuanzhuo%20Wang> <http://readings.puyuwang.org/authors/Xueqi%20Cheng> ) ;
+    readings:dateRead "2025-09-24" ;
+    rdfs:comment " This is a survey on link prediction in knowledge graphs." .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -1011,6 +1026,9 @@
 <http://readings.puyuwang.org/authors/Sabbir%20M.%20Rashid> a foaf:Person ;
     foaf:name "Sabbir M. Rashid" .
 
+<http://readings.puyuwang.org/authors/Saiping%20Guan> a foaf:Person ;
+    foaf:name "Saiping Guan" .
+
 <http://readings.puyuwang.org/authors/Sam%20McCandlish> a foaf:Person ;
     foaf:name "Sam McCandlish" .
 
@@ -1119,11 +1137,20 @@
 <http://readings.puyuwang.org/authors/Xiang%20Chen> a foaf:Person ;
     foaf:name "Xiang Chen" .
 
+<http://readings.puyuwang.org/authors/Xiaolong%20Jin> a foaf:Person ;
+    foaf:name "Xiaolong Jin" .
+
+<http://readings.puyuwang.org/authors/Xueqi%20Cheng> a foaf:Person ;
+    foaf:name "Xueqi Cheng" .
+
 <http://readings.puyuwang.org/authors/Yannis%20Kalfoglou> a foaf:Person ;
     foaf:name "Yannis Kalfoglou" .
 
 <http://readings.puyuwang.org/authors/Yixin%20Ou> a foaf:Person ;
     foaf:name "Yixin Ou" .
+
+<http://readings.puyuwang.org/authors/Yuanzhuo%20Wang> a foaf:Person ;
+    foaf:name "Yuanzhuo Wang" .
 
 <http://readings.puyuwang.org/authors/Yunli%20Qi> a foaf:Person ;
     foaf:name "Yunli Qi" .
