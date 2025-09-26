@@ -529,11 +529,11 @@
     dc:source "https://arxiv.org/pdf/2310.13023" ;
     dc:title "GraphGPT: Graph Instruction Tuning for Large Language Models" ;
     dcterms:subject "Graph Learning",
-        "Instruction Tuning",
+        "Instruction Tuning      ",
         "Large Language Models" ;
     bibo:authorList ( <http://readings.puyuwang.org/authors/Jiabin%20Tang> <http://readings.puyuwang.org/authors/Yuhao%20Yang> <http://readings.puyuwang.org/authors/Wei%20Wei> <http://readings.puyuwang.org/authors/Lei%20Shi> <http://readings.puyuwang.org/authors/Lixin%20Su> <http://readings.puyuwang.org/authors/Suqi%20Cheng> <http://readings.puyuwang.org/authors/Dawei%20Yin> <http://readings.puyuwang.org/authors/Chao%20Huang> ) ;
     readings:dateRead "2025-09-25" ;
-    rdfs:comment " GraphGPT proposes to initially align the graph encoder with natural language semantics through textgraph grounding, and then combine the trained graph encoder " .
+    rdfs:comment " GraphGPT proposes to initially align the graph encoder with natural language semantics through textgraph grounding, and then combine the trained graph encoder with the LLM using a projector. Through the two-stage instruction tuning paradigm, the model can directly complete various graph learning downstream tasks with natural language, thus perform strong zero-shot transferability and multi-task compatibility. " .
 
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
