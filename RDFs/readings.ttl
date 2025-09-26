@@ -516,6 +516,25 @@
     readings:dateRead "2025-09-24" ;
     rdfs:comment " In this paper, WikiPeople is proposed, an n-ary relational datasets. " .
 
+<http://readings.puyuwang.org/entry/2025-09-25_GraphGPT_Graph_Instruction_Tuning_for_Large_Language_Models> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Chao%20Huang>,
+        <http://readings.puyuwang.org/authors/Dawei%20Yin>,
+        <http://readings.puyuwang.org/authors/Jiabin%20Tang>,
+        <http://readings.puyuwang.org/authors/Lei%20Shi>,
+        <http://readings.puyuwang.org/authors/Lixin%20Su>,
+        <http://readings.puyuwang.org/authors/Suqi%20Cheng>,
+        <http://readings.puyuwang.org/authors/Wei%20Wei>,
+        <http://readings.puyuwang.org/authors/Yuhao%20Yang> ;
+    dc:date "2024-05" ;
+    dc:source "https://arxiv.org/pdf/2310.13023" ;
+    dc:title "GraphGPT: Graph Instruction Tuning for Large Language Models" ;
+    dcterms:subject "Graph Learning",
+        "Instruction Tuning",
+        "Large Language Models" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Jiabin%20Tang> <http://readings.puyuwang.org/authors/Yuhao%20Yang> <http://readings.puyuwang.org/authors/Wei%20Wei> <http://readings.puyuwang.org/authors/Lei%20Shi> <http://readings.puyuwang.org/authors/Lixin%20Su> <http://readings.puyuwang.org/authors/Suqi%20Cheng> <http://readings.puyuwang.org/authors/Dawei%20Yin> <http://readings.puyuwang.org/authors/Chao%20Huang> ) ;
+    readings:dateRead "2025-09-25" ;
+    rdfs:comment " GraphGPT proposes to initially align" .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -600,6 +619,9 @@
 <http://readings.puyuwang.org/authors/Catherine%20Olsson> a foaf:Person ;
     foaf:name "Catherine Olsson" .
 
+<http://readings.puyuwang.org/authors/Chao%20Huang> a foaf:Person ;
+    foaf:name "Chao Huang" .
+
 <http://readings.puyuwang.org/authors/Charalampos%20Nikolaou> a foaf:Person ;
     foaf:name "Charalampos Nikolaou" .
 
@@ -665,6 +687,9 @@
 
 <http://readings.puyuwang.org/authors/Davy%20Monticolo> a foaf:Person ;
     foaf:name "Davy Monticolo" .
+
+<http://readings.puyuwang.org/authors/Dawei%20Yin> a foaf:Person ;
+    foaf:name "Dawei Yin" .
 
 <http://readings.puyuwang.org/authors/Dawn%20Drain> a foaf:Person ;
     foaf:name "Dawn Drain" .
@@ -816,6 +841,9 @@
 <http://readings.puyuwang.org/authors/Jiaao%20Chen> a foaf:Person ;
     foaf:name "Jiaao Chen" .
 
+<http://readings.puyuwang.org/authors/Jiabin%20Tang> a foaf:Person ;
+    foaf:name "Jiabin Tang" .
+
 <http://readings.puyuwang.org/authors/Jiaoyan%20Chen> a foaf:Person ;
     foaf:name "Jiaoyan Chen" .
 
@@ -873,6 +901,9 @@
 <http://readings.puyuwang.org/authors/Landon%20Goldberg> a foaf:Person ;
     foaf:name "Landon Goldberg" .
 
+<http://readings.puyuwang.org/authors/Lei%20Shi> a foaf:Person ;
+    foaf:name "Lei Shi" .
+
 <http://readings.puyuwang.org/authors/Leopoldo%20Bertossim> a foaf:Person ;
     foaf:name "Leopoldo Bertossim" .
 
@@ -881,6 +912,9 @@
 
 <http://readings.puyuwang.org/authors/Liang%20Qiu> a foaf:Person ;
     foaf:name "Liang Qiu" .
+
+<http://readings.puyuwang.org/authors/Lixin%20Su> a foaf:Person ;
+    foaf:name "Lixin Su" .
 
 <http://readings.puyuwang.org/authors/Luca%20Longo> a foaf:Person ;
     foaf:name "Luca Longo" .
@@ -1086,6 +1120,9 @@
 <http://readings.puyuwang.org/authors/Steven%20Truitt> a foaf:Person ;
     foaf:name "Steven Truitt" .
 
+<http://readings.puyuwang.org/authors/Suqi%20Cheng> a foaf:Person ;
+    foaf:name "Suqi Cheng" .
+
 <http://readings.puyuwang.org/authors/Tamera%20Lanham> a foaf:Person ;
     foaf:name "Tamera Lanham" .
 
@@ -1122,6 +1159,9 @@
 <http://readings.puyuwang.org/authors/Vwani%20Roychowdhury> a foaf:Person ;
     foaf:name "Vwani Roychowdhury" .
 
+<http://readings.puyuwang.org/authors/Wei%20Wei> a foaf:Person ;
+    foaf:name "Wei Wei" .
+
 <http://readings.puyuwang.org/authors/Weiyan%20Shi> a foaf:Person ;
     foaf:name "Weiyan Shi" .
 
@@ -1151,6 +1191,9 @@
 
 <http://readings.puyuwang.org/authors/Yuanzhuo%20Wang> a foaf:Person ;
     foaf:name "Yuanzhuo Wang" .
+
+<http://readings.puyuwang.org/authors/Yuhao%20Yang> a foaf:Person ;
+    foaf:name "Yuhao Yang" .
 
 <http://readings.puyuwang.org/authors/Yunli%20Qi> a foaf:Person ;
     foaf:name "Yunli Qi" .
