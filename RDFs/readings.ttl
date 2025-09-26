@@ -533,7 +533,7 @@
         "Large Language Models" ;
     bibo:authorList ( <http://readings.puyuwang.org/authors/Jiabin%20Tang> <http://readings.puyuwang.org/authors/Yuhao%20Yang> <http://readings.puyuwang.org/authors/Wei%20Wei> <http://readings.puyuwang.org/authors/Lei%20Shi> <http://readings.puyuwang.org/authors/Lixin%20Su> <http://readings.puyuwang.org/authors/Suqi%20Cheng> <http://readings.puyuwang.org/authors/Dawei%20Yin> <http://readings.puyuwang.org/authors/Chao%20Huang> ) ;
     readings:dateRead "2025-09-25" ;
-    rdfs:comment " GraphGPT proposes to initially align" .
+    rdfs:comment " GraphGPT proposes to initially align the graph encoder with natural language semantics through textgraph grounding, and then combine the trained graph encoder " .
 
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
