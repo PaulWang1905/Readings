@@ -535,6 +535,21 @@
     readings:dateRead "2025-09-25" ;
     rdfs:comment " GraphGPT proposes to initially align the graph encoder with natural language semantics through textgraph grounding, and then combine the trained graph encoder with the LLM using a projector. Through the two-stage instruction tuning paradigm, the model can directly complete various graph learning downstream tasks with natural language, thus perform strong zero-shot transferability and multi-task compatibility. " .
 
+<http://readings.puyuwang.org/entry/2025-09-27_CIDOC-CRM_and_the_First_Prototype_of_a_Semantic_Portal_for_the_CHExRISH_project> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Grzegorz%20J.%20Nalepa>,
+        <http://readings.puyuwang.org/authors/Krzysztof%20Kutt>,
+        <http://readings.puyuwang.org/authors/Luiz%20do%20Valle%20Miranda> ;
+    dc:date "2025-07" ;
+    dc:source "https://ceur-ws.org/Vol-4009/paper_14.pdf" ;
+    dc:title "CIDOC-CRM and the First Prototype of a Semantic Portal for the CHExRISH project" ;
+    dcterms:subject "CIDOC-CRM",
+        "Cultural Heritage",
+        "Omeka S",
+        "Semantic Portal" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Luiz%20do%20Valle%20Miranda> <http://readings.puyuwang.org/authors/Krzysztof%20Kutt> <http://readings.puyuwang.org/authors/Grzegorz%20J.%20Nalepa> ) ;
+    readings:dateRead "2025-09-27" ;
+    rdfs:comment " This paper presents a prototype of a semantic portal for the CHExRISH project, utilizing the CIDOC-CRM ontology to enhance cultural heritage data interoperability. They use Omeka S as the content management system to implement the portal rather ResearchSpace. It claims to be the most viable option for an early-stage prototype of a semantic portal using CIDOC-CRM. " .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -778,6 +793,9 @@
 <http://readings.puyuwang.org/authors/Giancarlo%20Guizzardi> a foaf:Person ;
     foaf:name "Giancarlo Guizzardi" .
 
+<http://readings.puyuwang.org/authors/Grzegorz%20J.%20Nalepa> a foaf:Person ;
+    foaf:name "Grzegorz J. Nalepa" .
+
 <http://readings.puyuwang.org/authors/Guillaume%20Lample> a foaf:Person ;
     foaf:name "Guillaume Lample" .
 
@@ -892,6 +910,9 @@
 <http://readings.puyuwang.org/authors/Klaus%20Frieler> a foaf:Person ;
     foaf:name "Klaus Frieler" .
 
+<http://readings.puyuwang.org/authors/Krzysztof%20Kutt> a foaf:Person ;
+    foaf:name "Krzysztof Kutt" .
+
 <http://readings.puyuwang.org/authors/Kyle%20Hamilton> a foaf:Person ;
     foaf:name "Kyle Hamilton" .
 
@@ -918,6 +939,9 @@
 
 <http://readings.puyuwang.org/authors/Luca%20Longo> a foaf:Person ;
     foaf:name "Luca Longo" .
+
+<http://readings.puyuwang.org/authors/Luiz%20do%20Valle%20Miranda> a foaf:Person ;
+    foaf:name "Luiz do Valle Miranda" .
 
 <http://readings.puyuwang.org/authors/Marco%20Bombieri> a foaf:Person ;
     foaf:name "Marco Bombieri" .
