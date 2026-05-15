@@ -550,6 +550,20 @@
     readings:dateRead "2025-09-27" ;
     rdfs:comment " This paper presents a prototype of a semantic portal for the CHExRISH project, utilizing the CIDOC-CRM ontology to enhance cultural heritage data interoperability. They use Omeka S as the content management system to implement the portal rather ResearchSpace. It claims to be the most viable option for an early-stage prototype of a semantic portal using CIDOC-CRM. " .
 
+<http://readings.puyuwang.org/entry/2026-05-15_Why_We_Need_Ontology-Specific_Data_Portals_A_Case_Study_for_CIDOC-CRM> a bibo:AcademicArticle ;
+    dc:creator <http://readings.puyuwang.org/authors/Ioannis%20Theocharakis>,
+        <http://readings.puyuwang.org/authors/Michalis%20Mountantonakis>,
+        <http://readings.puyuwang.org/authors/Yannis%20Tzitzikas> ;
+    dc:date "2023-11" ;
+    dc:source "https://ceur-ws.org/Vol-3540/paper9.pdf" ;
+    dc:title "Why We Need Ontology-Specific Data Portals: A Case Study for CIDOC-CRM" ;
+    dcterms:subject "CIDOC-CRM",
+        "Cultural Heritage",
+        "Data Integration" ;
+    bibo:authorList ( <http://readings.puyuwang.org/authors/Michalis%20Mountantonakis> <http://readings.puyuwang.org/authors/Ioannis%20Theocharakis> <http://readings.puyuwang.org/authors/Yannis%20Tzitzikas> ) ;
+    readings:dateRead "2026-05-15" ;
+    rdfs:comment " This paper describes a dataset portal for the CIDOC-CRM. Its address is https://demos.isl.ics.forth.gr/CIDOC-CRM_Portal/. The portal now provides 30 collected datasets, including Sealit, War Sampo, etc. " .
+
 <http://readings.puyuwang.org/authors/Adam%20Lerer> a foaf:Person ;
     foaf:name "Adam Lerer" .
 
@@ -823,6 +837,9 @@
 <http://readings.puyuwang.org/authors/Idan%20A.%20Blank> a foaf:Person ;
     foaf:name "Idan A. Blank" .
 
+<http://readings.puyuwang.org/authors/Ioannis%20Theocharakis> a foaf:Person ;
+    foaf:name "Ioannis Theocharakis" .
+
 <http://readings.puyuwang.org/authors/Jack%20Clark> a foaf:Person ;
     foaf:name "Jack Clark" .
 
@@ -981,6 +998,9 @@
 
 <http://readings.puyuwang.org/authors/Michael%20Sellitto> a foaf:Person ;
     foaf:name "Michael Sellitto" .
+
+<http://readings.puyuwang.org/authors/Michalis%20Mountantonakis> a foaf:Person ;
+    foaf:name "Michalis Mountantonakis" .
 
 <http://readings.puyuwang.org/authors/Michihiro%20Yasunaga> a foaf:Person ;
     foaf:name "Michihiro Yasunaga" .
@@ -1209,6 +1229,9 @@
 
 <http://readings.puyuwang.org/authors/Yannis%20Kalfoglou> a foaf:Person ;
     foaf:name "Yannis Kalfoglou" .
+
+<http://readings.puyuwang.org/authors/Yannis%20Tzitzikas> a foaf:Person ;
+    foaf:name "Yannis Tzitzikas" .
 
 <http://readings.puyuwang.org/authors/Yixin%20Ou> a foaf:Person ;
     foaf:name "Yixin Ou" .
